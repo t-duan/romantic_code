@@ -1,0 +1,2 @@
+1	connect to 194.95.188.42:9099 (Connection refused)	Connect to 194.95.188.42:9099 (Connection refused)	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	pnc	_	_
+2	ction refused at /usr/share/perl5/LWP/Protocol/http.pm line 50.	Ction refused at /usr/share/perl5/LWP/Protocol/http.pm line 50.	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	0	ROOT	_	_
