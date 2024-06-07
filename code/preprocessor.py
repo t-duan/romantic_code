@@ -13,6 +13,7 @@ def process_files(args):
     plain_0_file_path, conllu_0_file_path, plain_1_file_path, conllu_1_file_path = args
     # Process the first plain text file to conllu format
     
+    print(f'processing {plain_0_file_path}')
     converter.process_file(plain_0_file_path, conllu_0_file_path, use_custom_tokenizer=False)
     
     # Normalize the conllu file and return normalized plain text
@@ -35,7 +36,14 @@ def get_file_paths_from_csv(csv_file_path):
     return file_paths
 
 folder_path = "../corpus/"
-files = get_file_paths_from_csv("meta.csv")
+metadata = input("Enter the path to the metadata file: ")
+files = get_file_paths_from_csv(metadata)
+
+# add all lines in "../corpus/errorlist.txt" to the list of files
+#files = []
+#with open("../corpus/errorlist.txt") as f:
+#    for file in f.readlines():
+#        files.append(file.strip())
 
 # Prepare arguments for parallel processing
 args_list = []
@@ -44,9 +52,9 @@ for f in files:
     conllu_0_file_path = plain_0_file_path[:-3] + 'conllu_0'
     plain_1_file_path = plain_0_file_path[:-3] + 'txt_1'
     conllu_1_file_path = plain_0_file_path[:-3] + 'conllu'
-    if not os.path.exists(conllu_1_file_path):
-        print(plain_0_file_path)
-        args_list.append((plain_0_file_path, conllu_0_file_path, plain_1_file_path, conllu_1_file_path))
+    #if not os.path.exists(conllu_1_file_path):
+    #    print(plain_0_file_path)
+    args_list.append((plain_0_file_path, conllu_0_file_path, plain_1_file_path, conllu_1_file_path))
 
 # Define the number of CPU cores to use
 num_cores = 8

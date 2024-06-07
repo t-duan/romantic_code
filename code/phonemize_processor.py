@@ -35,10 +35,10 @@ def transcribe_sentences(input_file, output_file, language='de'):
 def process_file(args):
     conllu_file, sentences_output_file, transcription_output_file = args
     # Convert CoNLL-U to sentences
-    # conllu_to_sentences(conllu_file, sentences_output_file)
+    conllu_to_sentences(conllu_file, sentences_output_file)
     # Transcribe sentences
     transcribe_sentences(sentences_output_file, transcription_output_file)
-    #print(f"Processed {conllu_file} and saved sentences to {sentences_output_file}")
+    print(f"Processed {conllu_file} and saved sentences to {sentences_output_file}")
     print(f"Processed {conllu_file} and saved transcription to {transcription_output_file}")
 
 def batch_process(files, num_processes=24):
@@ -66,7 +66,8 @@ def get_file_paths_from_csv(csv_file_path):
     return file_paths
 
 folder_path = "../corpus/"
-files = get_file_paths_from_csv("meta.csv")
+metadata = input("Enter the path to the metadata file: ")
+files = get_file_paths_from_csv(metadata)
 
 # Prepare arguments for parallel processing
 files_to_process = []
@@ -75,4 +76,4 @@ for f in files:
     files_to_process.append(folder_path + f.replace('.txt','.conllu_0'))
 
 # Process all files in the list using 24 processes
-batch_process(files_to_process, num_processes=12)
+batch_process(files_to_process, num_processes=8)
