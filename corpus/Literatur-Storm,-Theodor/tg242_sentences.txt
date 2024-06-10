@@ -46,8 +46,8 @@ Auf dem Rahmen lasen wir die Jahreszahl 1666 ;
 das war lange her .
 Immer wieder zog es mich zu diesen beiden Bildern ;
 ein phantastisches Verlangen ergriff mich , von dem Leben und Sterben des Kindes eine nähere , wenn auch noch so karge Kunde zu erhalten ;
-selbst aus dem düsteren Antlitz des Vaters , das trotz des Priesterkragens mich fast an die Kriegsknechte des Altarschranks gemahnen wollte , suchte ich sie herauszulesen . – –
-Nach solchen Studien in dem Dämmerlicht der alten Kirche erschien dann das Haus der guten Pastorsleute nur um so gastlicher .
+selbst aus dem düsteren Antlitz des Vaters , das trotz des Priesterkragens mich fast an die Kriegsknechte des Altarschranks gemahnen wollte , suchte ich sie herauszulesen .
+– – Nach solchen Studien in dem Dämmerlicht der alten Kirche erschien dann das Haus der guten Pastorsleute nur um so gastlicher .
 Freilich war es gleichfalls hoch zu Jahren , und der Vater meines Freundes hoffte , so lange ich denken konnte , auf einen Neubau ;
 da aber die Küsterei an derselben Altersschwäche litt , so wurde weder hier noch dort gebaut . –
 Und doch , wie freundlich waren trotzdem die Räume des alten Hauses ;
@@ -68,7 +68,10 @@ Ich hatte begierig zugehört .
 » es könnte auch wohl ›Culpa‹ heißen ? «
 » Culpa ? « wiederholte der Pastor .
 » Durch Schuld ?
-– aber durch wessen Schuld ? « Da trat das finstere Bild des alten Predigers mir vor die Seele , und ohne viel Besinnen rief ich : » Warum nicht : Culpa patris ? «
+– aber durch wessen Schuld ?
+«
+Da trat das finstere Bild des alten Predigers mir vor die Seele , und ohne viel Besinnen rief ich : » Warum nicht : Culpa patris ?
+«
 Der gute Pastor war fast erschrocken .
 » Ei , ei , mein junger Freund « , sagte er und erhob warnend den Finger gegen mich .
 » Durch Schuld des Vaters ? – So wollen wir trotz seines düsteren Ansehens meinen seligen Amtsbruder doch nicht beschuldigen .
@@ -84,7 +87,9 @@ Die Jahre gingen hin .
 Während wir die Universität besuchten , starb der gute Pastor , und die Mutter meines Schulgenossen folgte später ihrem Sohne auf dessen inzwischen anderswo erreichte Pfarrstelle ;
 ich hatte keine Veranlassung mehr , nach jenem Dorfe zu wandern .
 – Da , als ich selbst schon in meiner Vaterstadt wohnhaft war , geschah es , daß ich für den Sohn eines Verwandten ein Schülerquartier bei guten Bürgersleuten zu besorgen hatte .
-Der eigenen Jugendzeit gedenkend , schlenderte ich im Nachmittagssonnenscheine durch die Straßen , als mir an der Ecke des Marktes über der Tür eines alten hochgegiebelten Hauses eine plattdeutsche Inschrift in die Augen fiel , die verhochdeutscht etwa lauten würde : Gleich so wie Rauch und Staub verschwindt , Also sind auch die Menschenkind .
+Der eigenen Jugendzeit gedenkend , schlenderte ich im Nachmittagssonnenscheine durch die Straßen , als mir an der Ecke des Marktes über der Tür eines alten hochgegiebelten Hauses eine plattdeutsche Inschrift in die Augen fiel , die verhochdeutscht etwa lauten würde :
+Gleich so wie Rauch und Staub verschwindt ,
+Also sind auch die Menschenkind .
 Die Worte mochten für jugendliche Augen wohl nicht sichtbar sein ;
 denn ich hatte sie nie bemerkt , sooft ich auch in meiner Schulzeit mir einen Heißewecken bei dem dort wohnenden Bäcker geholt hatte .
 Fast unwillkürlich trat ich in das Haus ;
@@ -162,8 +167,7 @@ da kam sie vom Hofe auf mich zugesprungen .
 » Weißt du , Johannes « , sagte sie ;
 » ich zeig dir ein Vogelnest ;
 dort in dem hohlen Birnbaum ;
-aber das sind Rotschwänzchen , die darfst du ja nicht schießen !
-«
+aber das sind Rotschwänzchen , die darfst du ja nicht schießen ! «
 Damit war sie schon wieder vorausgesprungen ;
 doch eh sie noch dem Baum auf zwanzig Schritte nah gekommen , sah ich sie jählings stille stehn .
 » Der Buhz , der Buhz ! « schrie sie und schüttelte wie entsetzt ihre beiden Händlein in der Luft .
@@ -248,8 +252,8 @@ dann in der Ferne hört ich noch die Zweige rauschen , und dann stand ich allein
 Es war so still , die Blätter konnte man fallen hören .
 Als ich das Päckchen aus einander faltete , da war's ihr güldner Pathenpfennig , so sie mir oft gezeigt hatte ;
 ein Zettlein lag dabei , das las ich nun beim Schein des Abendrothes .
-» Damit du nicht in Noth gerathest « , stund darauf geschrieben . – Da streckt ich meine Arme in die leere Luft : » Ade , Katharina ade , ade ! « – wohl hundertmal rief ich es in den stillen Wald hinein ; – und erst mit sinkender Nacht erreichte ich die Stadt . – –
-Seitdem waren fast fünf Jahre dahingegangen .
+» Damit du nicht in Noth gerathest « , stund darauf geschrieben . – Da streckt ich meine Arme in die leere Luft : » Ade , Katharina ade , ade ! « – wohl hundertmal rief ich es in den stillen Wald hinein ; – und erst mit sinkender Nacht erreichte ich die Stadt .
+– – Seitdem waren fast fünf Jahre dahingegangen .
 – Wie würd ich heute alles wiederfinden ?
 Und schon war ich am Thorhaus und sah drunten im Hof die alten Linden , hinter deren lichtgrünem Laub die beiden Zackengiebel des Herrenhauses itzt verborgen lagen .
 Als ich aber durch den Thorweg gehen wollte , jagten vom Hofe her zwei fahlgraue Bullenbeißer mit Stachelhalsbändern gar wild gegen mich heran ;
@@ -262,13 +266,16 @@ Die Hunde ließen von mir ab , ich hörte es die Stiege herabkommen , und aus de
 Als ich ihn anschaute , sahe ich wohl , daß ich lang in der Fremde gewesen sei ;
 denn sein Haar war schlohweiß geworden , und seine sonst so lustigen Augen blickten gar matt und betrübsam auf mich hin .
 » Herr Johannes ! « sagte er endlich und reichte mir seine beiden Hände .
-» Grüß Ihn Gott , Dieterich ! « entgegnete ich . »
-Aber seit wann haltet Ihr solche Bluthunde auf dem Hof , die die Gäste anfallen gleich den Wölfen ? «
+» Grüß
+Ihn Gott , Dieterich ! « entgegnete ich . »
+Aber seit wann haltet Ihr solche Bluthunde auf dem Hof , die die Gäste anfallen gleich den Wölfen ?
+«
 » Ja , Herr Johannes « , sagte der Alte , » die hat der Junker hergebracht . «
 » Ist denn der daheim ? «
 Der Alte nickte .
 » Nun « , sagte ich , » die Hunde mögen schon vonnöthen sein ;
-vom Krieg her ist noch viel verlaufen Volk zurückgeblieben . «
+vom Krieg her ist noch viel verlaufen Volk zurückgeblieben .
+«
 » Ach , Herr Johannes ! «
 Und der alte Mann stund immer noch , als wolle er mich nicht zum Hof hinauf lassen .
 » Ihr seid in schlimmer Zeit gekommen ! «
@@ -281,15 +288,18 @@ aber der Greis trat mir in den Weg .
 » Herr Johannes « , rief er , » ehe
 Ihr weiter gehet , höret mich an !
 Euer Brieflein ist zwar richtig mit der Königlichen Post von Hamburg kommen ;
-aber den rechten Leser hat es nicht mehr finden können . «
+aber den rechten Leser hat es nicht mehr finden können .
+«
 » Dieterich ! « schrie ich .
-» Dieterich ! « » – Ja , ja , Herr Johannes !
+» Dieterich ! «
+» – Ja , ja , Herr Johannes !
 Hier ist die gute Zeit vorbei ;
 denn unser theurer Herr Gerhardus liegt aufgebahret dort in der Kapellen , und die Gueridons brennen an seinem Sarge .
 Es wird nun anders werden auf dem Hofe ;
 aber – ich bin ein höriger Mann , mir ziemet Schweigen .
-« Ich wollte fragen : » Ist das Fräulein , ist Katharina noch im Hause ? «
-Aber das Wort wollte nicht über meine Zunge .
+«
+Ich wollte fragen : » Ist das Fräulein , ist Katharina noch im Hause ?
+« Aber das Wort wollte nicht über meine Zunge .
 Drüben , in einem hinteren Seitenbau des Herrenhauses , war eine kleine Kapelle , die aber , wie ich wußte , seit lange nicht benutzt war .
 Dort also sollte ich Herrn Gerhardus suchen .
 Ich fragte den alten Hofmann : » Ist die Kapelle offen ? « , und als er es bejahete , bat ich ihn , die Hunde anzuhalten ;
@@ -306,7 +316,8 @@ denn es war Katharina , und sie war so schön geworden , daß hier im Angesicht 
 Zwar , das spielende Licht der Augen lag itzt zurückgeschrecket in der Tiefe ;
 aber aus dem schwarzen Häubchen drängten sich die braunen Löcklein , und der schwellende Mund war um so röther in dem blassen Antlitz .
 Und fast verwirret auf den Todten schauend , sprach ich : » Wohl kam ich in der Hoffnung , an seinem lebenden Bilde ihm mit meiner Kunst zu danken , ihm manche Stunde genüber zu sitzen und sein mild und lehrreich Wort zu hören .
-Laßt mich denn nun die bald vergehenden Züge festzuhalten suchen . «
+Laßt mich denn nun die bald vergehenden Züge festzuhalten suchen .
+«
 Und als sie unter Thränen , die über ihre Wangen strömten , stumm zu mir hinübernickte , setzte ich mich in ein Gestühlte und begann auf einem von den Blättchen , die ich bei mir führte , des Todten Antlitz nachzubilden .
 Aber meine Hand zitterte ;
 ich weiß nicht , ob alleine vor der Majestät des Todes .
@@ -333,13 +344,15 @@ man wird dich ›Sieur‹ nun tituliren müssen ! «
 » Obschon mir dorten , von wo ich komme , das ›Herr‹ vor meinem Namen nicht gefehlet – Ihr wißt wohl , Eueres Vaters Sohn hat großes Recht an mir . «
 Er sah mich was verwundert an , sagte dann aber nur : » Nun wohl , so magst du zeigen , was du für meines Vaters Gold erlernet hast ;
 und soll dazu der Lohn für deine Arbeit dir nicht verhalten sein .
-« Ich meinete , was den Lohn anginge , den hätte ich längst vorausbekommen ;
+«
+Ich meinete , was den Lohn anginge , den hätte ich längst vorausbekommen ;
 da aber der Junker entgegnete , er werd es halten , wie sich's für einen Edelmann gezieme , so fragte ich , was für Arbeit er mir aufzutragen hätte .
 » Du weißt doch « , sagte er und hielt dann inne , indem er scharf auf seine Schwester blickte – » wenn eine adelige Tochter das Haus verläßt , so muß ihr Bild darin zurückbleiben . «
 Ich fühlte , daß bei diesen Worten Katharina , die an meiner Seite ging , gleich einer Taumelnden nach meinem Mantel haschte ;
 aber ich entgegnete ruhig :
 » Der Brauch ist mir bekannt ;
-doch , wie meinet Ihr denn , Junker Wulf ? «
+doch , wie meinet Ihr denn , Junker Wulf ?
+«
 » Ich meine « , sagte er hart , als ob er einen Gegenspruch erwarte , » daß du das Bildniß der Tochter dieses Hauses malen sollst ! «
 Mich durchfuhr's fast wie ein Schrecken ; weiß nicht , ob mehr über den Ton oder die Deutung dieser Worte ;
 dachte auch , zu solchem Beginnen sei itzt kaum die rechte Zeit .
@@ -353,12 +366,14 @@ aber ich verstummte wieder , denn über den empfangenen Auftrag war plötzlich e
 So war ich auch der zwo grimmen Köter nicht gewahr worden , die dort am Brunnen sich auf den heißen Steinen sonnten .
 Da wir aber näher kamen , sprangen sie auf und fuhren mit offenem Rachen gegen mich , daß Katharina einen Schrei that , der Junker aber einen schrillen Pfiff , worauf sie heulend ihm zu Füßen krochen .
 » Beim Höllenelemente « , rief er lachend , » zwo tolle Kerle ;
-gilt ihnen gleich , ein Sauschwanz oder Flandrisch Tuch ! «
+gilt ihnen gleich , ein Sauschwanz oder Flandrisch Tuch !
+«
 » Nun , Junker Wulf « – ich konnte der Rede mich nicht wohl enthalten – , » soll ich noch einmal Gast in Eueres Vaters Hause sein , so möget Ihr Euere Thiere bessere Sitte lehren ! «
 Er blitzte mich mit seinen kleinen Augen an und riß sich ein paar Mal in seinen Zwickelbart .
 » Das ist nur so ihr Willkommensgruß , Sieur Johannes ! « sagte er dann , indem er sich bückte , um die Bestien zu streicheln .
 » Damit jedweder wisse , daß ein ander Regiment allhier begonnen ;
-denn – wer mir in die Quere kommt , den hetz ich in des Teufels Rachen ! «
+denn – wer mir in die Quere kommt , den hetz ich in des Teufels Rachen !
+«
 Bei den letzten Worten , die er heftig ausgestoßen , hatte er sich hoch aufgerichtet ;
 dann pfiff er seinen Hunden und schritt über den Hof dem Thore zu .
 Ein Weilchen schaute ich hinterdrein ;
@@ -372,9 +387,12 @@ der Leib des Entschlafenen , so schien auch dies Gemach mir itzt entseelet und ,
 Ich hatte auf Katharinen in diesem Augenblicke fast vergessen .
 Da ich mich umwandte , stand sie schier reglos mitten in dem Zimmer , und ich sah , wie unter den kleinen Händen , die sie daraufgepreßt hielt , ihre Brust in ungestümer Arbeit ging .
 » Nicht wahr « , sagte sie leise , » hier ist itzt niemand mehr ;
-niemand als mein Bruder und seine grimmen Hunde ? « » Katharina ! « rief ich ;
+niemand als mein Bruder und seine grimmen Hunde ?
+«
+» Katharina ! « rief ich ;
 » was ist Euch ?
-Was ist das hier in Eueres Vaters Haus ? «
+Was ist das hier in Eueres Vaters Haus ?
+«
 » Was es ist , Johannes ? «
 Und fast wild ergriff sie meine beiden Hände ;
 und ihre jungen Augen sprühten wie in Zorn und Schmerz .
@@ -389,14 +407,16 @@ fragte ich auch dem alten Fräulein nach .
 Wollt Ihr sie begrüßen ?
 Ja , die ist auch noch da ;
 sie hat hier unten ihr Gemach , denn die Treppen sind ihr schon längsthin zu beschwerlich .
-« Wir traten also in ein Stübchen , das gegen den Garten lag , wo auf den Beeten vor den grünen Heckenwänden soeben die Tulpen aus der Erde brachen .
+«
+Wir traten also in ein Stübchen , das gegen den Garten lag , wo auf den Beeten vor den grünen Heckenwänden soeben die Tulpen aus der Erde brachen .
 Bas ' Ursel saß , in der schwarzen Tracht und Krepphaube nur wie ein schwindend Häufchen anzuschauen , in einem hohen Sessel und hatte ein Nonnenspielchen vor sich , das , wie sie nachmals mir erzählte , der Herr Baron – nach seines Vaters Ableben war er solches itzund wirklich – ihr aus Lübeck zur Verehrung mitgebracht .
 » So « , sagte sie , da Katharina mich genannt hatte , indeß sie behutsam die helfenbeinern Pflöcklein um einander steckte , » ist Er wieder da , Johannes ? –
 Nein , es geht nicht aus !
 O , c'est un jeu très-compliqué ! «
 Dann warf sie die Pflöcklein über einander und schauete mich an .
 » Ei « , meinte sie , » Er ist gar stattlich angethan ;
-aber weiß Er denn nicht , daß Er in ein Trauerhaus getreten ist ? «
+aber weiß Er denn nicht , daß Er in ein Trauerhaus getreten ist ?
+«
 » Ich weiß es , Fräulein « , entgegnete ich ; »
 aber da ich in das Thor trat , wußte ich es nicht . «
 » Nun « , sagte sie und nickte gar begütigend ;
@@ -409,7 +429,8 @@ sie könne ohnedem den Schlaf nicht finden ;
 und dann auch sei es schier zu abgelegen ;
 das Gesinde sei von hier aus nicht im Aug zu halten ;
 im Garten draußen aber passire eben nichts , als etwan , wann der Gärtnerbursche an den Hecken oder Buchsrabatten putze .
-– Und damit hatte der Besuch seine Endschaft ; denn Katharina mahnte , es sei nachgerade an der Zeit , meinen wegemüden Leib zu stärken .
+– Und damit hatte der Besuch seine Endschaft ;
+denn Katharina mahnte , es sei nachgerade an der Zeit , meinen wegemüden Leib zu stärken .
 Ich war nun in meinem Kämmerchen ober dem Hofthor einlogiret , dem alten Dieterich zur sondern Freude ;
 denn am Feierabend saßen wir auf seiner Tragkist , und ließ ich mir , gleich wie in der Knabenzeit , von ihm erzählen .
 Er rauchte dann wohl eine Pfeife Tabak , welche Sitte durch das Kriegsvolk auch hier in Gang gekommen war , und holete allerlei Geschichten aus den Drangsalen , so sie durch die fremden Truppen auf dem Hof und unten in dem Dorf hatten erleiden müssen ;
@@ -430,11 +451,12 @@ Statt der Sonnen stand aber der Mond am Himmel , es war octavis trium regum und 
 und hat also der Musikante , den Junker mit dem Degen hinter sich , im blanken Hemde vor ihm durch die Gassen geigen müssen !
 – – Wollet Ihr mehr noch wissen , Herr Johannes ?
 – Zu Haus bei ihm freuen sich die Bauern , wenn der Herrgott sie nicht mit Töchtern gesegnet ; und dennoch – – aber nach seines Vaters Tode hat er Geld , und unser Junker , Ihr wisset's wohl , hat schon vorher von seinem Erbe aufgezehrt .
-« Ich wußte freilich nun genug ;
+«
+Ich wußte freilich nun genug ;
 auch hatte der alte Dieterich schon mit seinem Spruche :
 »
-Aber ich bin nur ein höriger Mann « , seiner Rede Schluß gemacht . – –
-Mit meinem Malgeräth war auch meine Kleidung aus der Stadt gekommen , wo ich im Goldenen Löwen Alles abgeleget , so daß ich anitzt , wie es sich ziemete , in dunkler Tracht einherging .
+Aber ich bin nur ein höriger Mann « , seiner Rede Schluß gemacht .
+– – Mit meinem Malgeräth war auch meine Kleidung aus der Stadt gekommen , wo ich im Goldenen Löwen Alles abgeleget , so daß ich anitzt , wie es sich ziemete , in dunkler Tracht einherging .
 Die Tagesstunden aber wandte ich zunächst in meinen Nutzen .
 Nämlich , es befand sich oben im Herrenhause neben des seligen Herrn Gemach ein Saal , räumlich und hoch , dessen Wände fast völlig von lebensgroßen Bildern verhänget waren , so daß nur noch neben dem Kamin ein Platz zu zweien offen stund .
 Es waren das die Voreltern des Herrn Gerhardus , meist ernst und sicher blickende Männer und Frauen , mit einem Antlitz , dem man wohl vertrauen konnte ;
@@ -479,8 +501,10 @@ Als ich eben den Blendrahmen mit der Leinewand darauf gelegt , öffnete sich die
 aber ich empfand , daß wir uns dießmal fast erschrocken gegenüber standen ;
 aus der schwarzen Kleidung , die sie nicht abgeleget , schaute das junge Antlitz in gar süßer Verwirrung zu mir auf .
 » Katharina « , sagte ich , » Ihr wisset , ich soll Euer Bildniß malen ;
-duldet Ihr's auch gern ? «
-Da zog ein Schleier über ihre braunen Augensterne , und sie sagte leise : » Warum doch fragt Ihr so , Johannes ? «
+duldet Ihr's auch gern ?
+«
+Da zog ein Schleier über ihre braunen Augensterne , und sie sagte leise : » Warum doch fragt Ihr so , Johannes ?
+«
 Wie ein Thau des Glückes sank es in mein Herz .
 » Nein , nein , Katharina !
 Aber sagt , was ist , worin kann ich Euch dienen ? –
@@ -492,17 +516,17 @@ Aber sie setzte sich nicht , sie trat zu mir heran .
 Das thut dießmal nicht noth , obschon er wieder ob dem Neste lauert ;
 denn ich bin kein Vöglein , das sich von ihm zerreißen läßt .
 Aber , Johannes – ich habe einen Blutsfreund – , hilf mir wider den ! «
-» Ihr meinet Eueren Bruder , Katharina ! « – » Ich habe keinen andern .
-– – Dem Manne , den ich hasse , will er mich zum Weibe geben !
+» Ihr meinet Eueren Bruder , Katharina ! «
+– » Ich habe keinen andern . – – Dem Manne , den ich hasse , will er mich zum Weibe geben !
 Während unseres Vaters langem Siechbett habe ich den schändlichen Kampf mit ihm gestritten , und erst an seinem Sarg hab ich 's ihm abgetrotzt , daß ich in Ruhe um den Vater trauern mag ;
-aber ich weiß , auch das wird er nicht halten .
-«
+aber ich weiß , auch das wird er nicht halten . «
 Ich gedachte eines Stiftsfräuleins zu Preetz , Herrn Gerhardus ' einzigen Geschwisters , und meinete , ob die nicht um Schutz und Zuflucht anzugehen sei .
 Katharina nickte .
 » Wollt Ihr mein Bote sein , Johannes ?
 Geschrieben habe ich ihr schon , aber in Wulfs Hände kam die Antwort , und auch erfahren habe ich sie nicht , nur die ausbrechende Wuth meines Bruders , die selbst das Ohr des Sterbenden erfüllet hätte , wenn es noch offen gewesen wäre für den Schall der Welt ;
 aber der gnädige Gott hatte das geliebte Haupt schon mit dem letzten Erdenschlummer zugedecket .
-« Katharina hatte sich nun doch auf meine Bitte mir genüber gesetzet , und ich begann die Umrisse auf die Leinewand zu zeichnen .
+«
+Katharina hatte sich nun doch auf meine Bitte mir genüber gesetzet , und ich begann die Umrisse auf die Leinewand zu zeichnen .
 So kamen wir zu ruhiger Berathung ;
 und da ich , wenn die Arbeit weiter vorgeschritten , nach Hamburg mußte , um bei dem Holzschnitzer einen Rahmen zu bestellen , so stelleten wir fest , daß ich alsdann den Umweg über Preetz nähme und also meine Botschaft ausrichtete .
 Zunächst jedoch sei emsig an dem Werk zu fördern .
@@ -545,21 +569,26 @@ Da , unter dem Malen , fiel mein Auge auch auf jenes alte Frauenbildniß , das m
 Mich fröstelte , ich hätte nahezu den Stuhl verrücket .
 Aber Katharinens süße Stimme drang mir in das Ohr : » Ihr seid ja fast erbleichet ;
 was flog Euch übers Herz , Johannes ?
-« Ich zeigte mit dem Pinsel auf das Bild .
+«
+Ich zeigte mit dem Pinsel auf das Bild .
 » Kennet Ihr die , Katharina ?
-Diese Augen haben hier all die Tage auf uns hingesehen . «
+Diese Augen haben hier all die Tage auf uns hingesehen .
+«
 » Die da ? – Vor der hab ich schon als Kind eine Furcht gehabt , und gar bei Tage bin ich oft wie blind hier durchgelaufen .
 Es ist die Gemahlin eines früheren Gerhardus ;
-vor weit über hundert Jahren hat sie hier gehauset . «
+vor weit über hundert Jahren hat sie hier gehauset .
+«
 » Sie gleicht nicht Euerer schönen Mutter « , entgegnete ich ;
 » dies Antlitz hat wohl vermocht , einer jeden Bitte nein zu sagen . «
 Katharina sah gar ernst zu mir herüber .
 » So heißt's auch « , sagte sie ;
 » sie soll ihr einzig Kind verfluchet haben ;
 am andern Morgen aber hat man das blasse Fräulein aus einem Gartenteich gezogen , der nachmals zugedämmet ist .
-Hinter den Hecken , dem Walde zu , soll es gewesen sein . «
+Hinter den Hecken , dem Walde zu , soll es gewesen sein .
+«
 » Ich weiß , Katharina ;
-es wachsen heut noch Schachtelhalm und Binsen aus dem Boden . «
+es wachsen heut noch Schachtelhalm und Binsen aus dem Boden .
+«
 » Wisset Ihr denn auch , Johannes , daß eine unseres Geschlechtes sich noch immer zeigen soll , sobald dem Hause Unheil droht ?
 Man sieht sie erst hier an den Fenstern gleiten , dann draußen in dem Gartensumpf verschwinden .
 «
@@ -572,17 +601,20 @@ Ein Blick fast wie ein Flehen flog zu mir herüber , und tiefes Rosenroth bedeck
 » Ich weiß nicht « , sagte sie beklommen ;
 und leiser , daß ich 's kaum vernehmen mochte , setzte sie hinzu : » Es heißt , sie hab einen andern lieb gehabt ;
 der war nicht ihres Standes .
-« Ich hatte den Pinsel sinken lassen ;
+«
+Ich hatte den Pinsel sinken lassen ;
 denn sie saß vor mir mit gesenkten Blicken ;
 wenn nicht die kleine Hand sich leis aus ihrem Schoße auf ihr Herz geleget , so wäre sie selber wie ein leblos Bild gewesen .
 So hold es war , ich sprach doch endlich :
 » So kann ich ja nicht malen ;
-wollet Ihr mich nicht ansehen , Katharina ? «
+wollet Ihr mich nicht ansehen , Katharina ?
+«
 Und als sie nun die Wimpern von den braunen Augensternen hob , da wer kein Hehlens mehr ;
 heiß und offen ging der Strahl zu meinem Herzen .
 » Katharina ! «
 Ich war aufgesprungen .
-» Hätte jene Frau auch dich verflucht ? «
+» Hätte jene Frau auch dich verflucht ?
+«
 Sie athmete tief auf .
 » Auch mich , Johannes ! « – Da lag ihr Haupt an meiner Brust , und fest umschlossen standen wir vor dem Bild der Ahnfrau , die kalt und feindlich auf uns niederschauete .
 Aber Katharina zog mich leise fort .
@@ -590,19 +622,20 @@ Aber Katharina zog mich leise fort .
 Mit Selbigem hörte ich im Treppenhause ein Geräusch , und war es , als wenn etwas mit dreien Beinen sich mühselig die Stiegen heraufarbeitete .
 Als Katharina und ich uns deshalb wieder an unsern Platz gesetzet und ich Pinsel und Palette zur Hand genommen hatte , öffnete sich die Thür , und Bas ' Ursel , die wir wohl zuletzt er wartet hätten , kam an ihrem Stock hereingehustet .
 » Ich höre « , sagte sie , » Er will nach Hamburg , um den Rahmen zu besorgen ;
-da muß ich mir nachgerade doch Sein Werk besehen !
-«
+da muß ich mir nachgerade doch Sein Werk besehen ! «
 Es ist wohl männiglich bekannt , daß alte Jungfrauen in Liebessachen die allerfeinsten Sinne haben und so der jungen Welt gar oft Bedrang und Trübsal bringen .
 Als Bas ' Ursel auf Katharinens Bild , das sie bislang noch nicht gesehen , kaum einen Blick geworfen hatte , zuckte sie gar stolz empor mit ihrem runzeligen Angesicht und frug mich allsogleich : » Hat denn das Fräulein Ihn so angesehen , als wie sie da im Bilde sitzet ?
-« Ich entgegnete , es sei ja eben die Kunst der edlen Malerei , nicht bloß die Abschrift des Gesichts zu geben .
+«
+Ich entgegnete , es sei ja eben die Kunst der edlen Malerei , nicht bloß die Abschrift des Gesichts zu geben .
 Aber schon mußte an unsern Augen oder Wangen ihr Sonderliches aufgefallen sein , denn ihre Blicke gingen spähend hin und wider .
 » Die Arbeit ist wohl bald am Ende ? « sagte sie dann mit ihrer höchsten Stimme .
 » Deine Augen haben kranken Glanz , Katharina ;
 das lange Sitzen hat dir nicht wohl gedienet .
-« Ich entgegnete , das Bild sei bald vollendet , nur an dem Gewande sei noch hie und da zu schaffen .
-»
-Nun , da braucht Er wohl des Fräuleins Gegenwart nicht mehr dazu !
-– Komm , Katharina , dein Arm ist besser als der dumme Stecken hier ! «
+«
+Ich entgegnete , das Bild sei bald vollendet , nur an dem Gewande sei noch hie und da zu schaffen .
+» Nun , da braucht Er wohl des Fräuleins Gegenwart nicht mehr dazu !
+– Komm , Katharina , dein Arm ist besser als der dumme Stecken hier !
+«
 Und so mußt ich von der dürren Alten meines Herzens holdselig Kleinod mir entführen sehen , da ich es eben mir gewonnen glaubte ;
 kaum daß die braunen Augen mir noch einen stummen Abschied senden konnten .
 Am andern Morgen , am Montage vor Johannis , trat ich meine Reise an .
@@ -664,13 +697,16 @@ Der Junker Wulf aber , dem bereits die Zunge schwer im Munde wühlete , faßte i
 Was soll die Katharina dazu sagen ?
 Komm , machen wir alamode ein ehrbar hazard mitsammen ! «
 Dabei hatte er ein Kartenspiel unterm Wams hervorgezogen .
-» Allons donc ! – Dix et dame ! – Dame et valet !
-« Ich stand noch und sah dem Spiele zu , so dermalen eben Mode worden ;
+» Allons donc ! – Dix et dame ! – Dame et valet ! «
+Ich stand noch und sah dem Spiele zu , so dermalen eben Mode worden ;
 nur wünschend , daß die Nacht vergehen und der Morgen kommen möchte .
 – Der Trunkene schien aber dieses Mal des Nüchternen Übermann ;
 dem von der Risch schlug nach einander jede Karte fehl .
-» Tröste dich , Kurt ! « sagte der Junker Wulf , indeß er schmunzelnd die Speciesthaler auf einen Haufen scharrte : » Glück in der Lieb
-Und Glück im Spiel , Bedenk , für einen Ist's zu viel !
+» Tröste dich , Kurt ! « sagte der Junker Wulf , indeß er schmunzelnd die Speciesthaler auf einen Haufen scharrte :
+» Glück in der Lieb
+Und Glück im Spiel ,
+Bedenk , für einen
+Ist's zu viel !
 Laß den Maler dir hier von deiner schönen Braut erzählen !
 Der weiß sie auswendig ;
 da kriegst du 's nach der Kunst zu wissen . «
@@ -678,7 +714,8 @@ Dem andern , wie mir am besten kund war , mochte aber noch nicht viel von Liebes
 denn er schlug fluchend auf den Tisch und sah gar grimmig auf mich her .
 » Ei , du bist eifersüchtig , Kurt ! « sagte der Junker Wulf vergnüglich , als ob er jedes Wort auf seiner schweren Zunge schmeckete ;
 » aber getröste dich , der Rahmen ist schon fertig zu dem Bilde ;
-dein Freund , der Maler , kommt eben erst von Hamburg . «
+dein Freund , der Maler , kommt eben erst von Hamburg .
+«
 Bei diesem Worte sah ich den von der Risch aufzucken gleich einem Spürhund bei der Witterung .
 »
 Von Hamburg heut ?
@@ -693,7 +730,8 @@ Es währete auch nicht lange , so flogen die Karten klatschend auf den Tisch .
 » Oho ! « schrie er .
 » Im Stift , bei meiner Base !
 Du treibst wohl gar doppelt Handwerk , Bursch !
-Wer hat dich auf den Botengang geschickt ? «
+Wer hat dich auf den Botengang geschickt ?
+«
 » Ihr nicht , Junker Wulf ! « entgegnet ich ; » und das muß Euch genug sein ! «
 – Ich wollt nach meinem Degen greifen , aber er war nicht da ;
 fiel mir auch bei nun , daß ich ihn an den Sattelknopf gehänget , da ich vorhin den Gaul zu Stalle brachte .
@@ -740,8 +778,8 @@ In solcher Mondnacht war ich einst vor mei ner Ausfahrt in die Welt mit Herrn Ge
 » Sieh dir's noch einmal an , Johannes ! « hatte dermalen er gesprochen ;
 »
 es könnt geschehen , daß du bei deiner Heimkehr mich nicht daheim mehr fändest , und daß alsdann ein Willkomm nicht für dich am Thor geschrieben stünde ;
-– ich aber möcht nicht , daß du diese Stätte hier vergäßest .
-« Das flog mir itzund durch den Sinn , und ich mußte bitter lachen ;
+– ich aber möcht nicht , daß du diese Stätte hier vergäßest . «
+Das flog mir itzund durch den Sinn , und ich mußte bitter lachen ;
 denn nun war ich hier als ein gehetzet Wild ; und schon hörete ich die Hunde des Junker Wulf gar grimmig draußen an der Gartenmauer rennen .
 Selbige aber war , wie ich noch tags zuvor gesehen , nicht überall so hoch , daß nicht das wüthige Gethier hinüber konnte ; und rings im Garten war kein Baum , nichts als die dichten Hecken und drüben gegen das Haus die Blumenbeete des seligen Herrn .
 Da , als eben das Bellen der Hunde wie ein Triumphgeheule innerhalb der Gartenmauer scholl , ersahe ich in meiner Noth den alten Epheubaum , der sich mit starkem Stamme an dem Thurm hinaufreckt ;
@@ -753,7 +791,8 @@ aber es war nichts zu sehen als die dunklen Epheublätter um mich her .
 – » Johannes ! « rief sie ;
 leis , doch deutlich hörete ich meinen Namen , und ich kletterte höher an dem immer schwächeren Gezweige , indeß die schlafenden Vögel um mich auffuhren und die Hunde von unten ein Geheul heraufstießen .
 – » Katharina !
-Bist du es wirklich , Katharina ? «
+Bist du es wirklich , Katharina ?
+«
 Aber schon kam ein zitternd Händlein zu mir herab und zog mich gegen das offene Fenster ;
 und ich sah in ihre Augen , die voll Entsetzen in die Tiefe starrten .
 » Komm ! « sagte sie .
@@ -766,7 +805,8 @@ der Mond , der draußen die Gartenhecken überstiegen hatte , schien voll herein
 Ich stund wie fest gezaubert vor ihr ;
 so lieblich fremde und doch so ganz mein eigen schien sie mir ;
 nur meine Augen tranken sich satt an all der Schönheit .
-Erst als ein Seufzen ihre Brust erhob , sprach ich zu ihr : » Katharina , liebe Katharina , träumet Ihr denn ? «
+Erst als ein Seufzen ihre Brust erhob , sprach ich zu ihr : » Katharina , liebe Katharina , träumet Ihr denn ?
+«
 Da flog ein schmerzlich Lächeln über ihr Gesicht :
 » Ich glaub wohl fast , Johannes ! –
 Das Leben ist so hart ;
@@ -781,9 +821,9 @@ Dabei hatte ich den Brief aus meinem Täschlein hervorgezogen und erzählete auc
 Sie hielt das Schreiben in den hellen Mondenschein und las ;
 dann schaute sie mich voll und herzlich an , und wir beredeten , wie wir uns morgen in dem Tannenwalde treffen wollten ;
 denn Katharina sollte noch zuvor erkunden , auf welchen Tag des Junker Wulfen Abreise zum Kieler Johannismarkte festgesetzet sei .
-»
-Und nun , Katharina « , sprach ich , » habt Ihr nicht etwas ;
-das einer Waffe gleich sieht , ein eisern Ellenmaß oder so dergleichen , damit ich der beiden Thiere drunten mich erwehren könne ? «
+» Und nun , Katharina « , sprach ich , » habt Ihr nicht etwas ;
+das einer Waffe gleich sieht , ein eisern Ellenmaß oder so dergleichen , damit ich der beiden Thiere drunten mich erwehren könne ?
+«
 Sie aber schrak jäh wie aus einem Traum empor .
 » Was sprichst du , Johannes ! « rief sie ; und ihre Hände , so bislang in ihrem Schoß geruhet , griffen nach den meinen .
 » Nein , nicht fort , nicht fort !
@@ -792,22 +832,26 @@ und gehst du , so ist auch hier der Tod ! «
 Da war ich vor ihr hingeknieet und lag an ihrer jungen Brust , und wir umfingen uns in großer Herzensnoth .
 » Ach , Käthe « , sprach ich , » was vermag die arme Liebe denn !
 Wenn auch dein Bruder Wulf nicht wäre ;
-ich bin kein Edelmann und darf nicht um dich werben . «
+ich bin kein Edelmann und darf nicht um dich werben .
+«
 Sehr süß und sorglich schauete sie mich an ;
 dann aber kam es wie Schelmerei aus ihrem Munde :
 » Kein Edelmann , Johannes ? – Ich dächte , du seiest auch das !
 Aber – ach nein !
 Dein Vater war nur der Freund des meinen – das gilt der Welt wohl nicht ! «
-» Nein , Käthe ; nicht das , und sicherlich nicht hier « , entgegnete ich und umfaßte fester ihren jungfräulichen Leib ;
+» Nein , Käthe ;
+nicht das , und sicherlich nicht hier « , entgegnete ich und umfaßte fester ihren jungfräulichen Leib ;
 » aber drüben in Holland , dort gilt ein tüchtiger Maler wohl einen deutschen Edelmann ;
 die Schwelle von Mynherr van Dycks Palaste zu Amsterdam ist wohl dem Höchsten ehrenvoll zu überschreiten .
 Man hat mich drüben halten wollen , mein Meister van der Helst und andre !
 Wenn ich dorthin zurückginge , ein Jahr noch oder zwei ;
 dann – wir kommen dann schon von hier fort ;
 bleib mir nur feste gegen euere wüsten Junker !
-« Katharinens weiße Hände strichen über meine Locken ;
+«
+Katharinens weiße Hände strichen über meine Locken ;
 sie herzete mich und sagte leise :
-» Da ich in meine Kammer dich gelassen , so werd ich doch dein Weib auch werden müssen . « – – Ihr ahnete wohl nicht , welch einen Feuerstrom dies Wort in meine Adern goß , darin ohnedies das Blut in heißen Pulsen ging . –
+» Da ich in meine Kammer dich gelassen , so werd ich doch dein Weib auch werden müssen . «
+– – Ihr ahnete wohl nicht , welch einen Feuerstrom dies Wort in meine Adern goß , darin ohnedies das Blut in heißen Pulsen ging . –
 Von dreien furchtbaren Dämonen , von Zorn und Todesangst und Liebe ein verfolgter Mann , lag nun mein Haupt in des viel geliebten Weibes Schoß .
 Da schrillte ein geller Pfiff ;
 die Hunde drunten wurden jählings stille , und da es noch einmal gellte , hörete ich sie wie toll und wild davon rennen .
@@ -826,7 +870,8 @@ nur unser beider Herzen hörete ich klopfen .
 Aber die jungen Arme zogen mich stumm zu ihrem Mund empor ;
 und ich ging nicht .
 Kein Laut war mehr , als aus des Gartens Tiefe das Schlagen der Nachtigallen und von fern das Rauschen des Wässerleins , das hinten um die Hecken fließt .
-– – Wenn , wie es in den Liedern heißt , mitunter noch in Nächten die schöne heidnische Frau Venus aufersteht und umgeht , um die armen Menschenherzen zu verwirren , so war es dazumalen eine solche Nacht .
+– –
+Wenn , wie es in den Liedern heißt , mitunter noch in Nächten die schöne heidnische Frau Venus aufersteht und umgeht , um die armen Menschenherzen zu verwirren , so war es dazumalen eine solche Nacht .
 Der Mondschein war am Himmel ausgethan , ein schwüler Ruch von Blumen hauchte durch das Fenster , und dorten überm Walde spielete die Nacht in stummen Blitzen . –
 O Hüter , Hüter , war dein Ruf so fern ?
 – – Wohl weiß ich noch , daß vom Hofe her plötzlich scharf die Hähne krähten , und daß ich ein blaß und weinend Weib in meinen Armen hielt , die mich nicht lassen wollte , unachtend , daß überm Garten der Morgen dämmerte und rothen Schein in unsre Kammer warf .
@@ -863,12 +908,14 @@ Ich war just draußen bei dem Ausschank ;
 aber da ich wieder eintrat , flucheten sie schier grausam gegen Euch ;
 und auch die Hunde raseten an der Thür , die Ihr hinter Euch ins Schloß geworfen hattet . «
 Da ich aus solchen Worten abnahm , daß der Alte den Handel nicht wohl begriffen habe , so entgegnete ich nur : » Ihr wisset , der von der Risch und ich , wir haben uns schon als Jungen oft einmal gezauset ;
-da mußt's denn gestern noch so einen Nachschmack geben . «
+da mußt's denn gestern noch so einen Nachschmack geben .
+«
 » Ich weiß , ich weiß ! « meinte der Alte ;
 »
 aber der Junker sitzt heut auf seines Vaters Hof ;
 Ihr solltet Euch hüten , Herr Johannes ;
-mit solchen Herren ist nicht sauber Kirschen essen . «
+mit solchen Herren ist nicht sauber Kirschen essen .
+«
 Dem zu widersprechen , hatte ich nicht Ursach , sondern ließ mir Brot und Frühtrunk geben und ging dann in den Stall , wo ich mir meinen Degen holete , auch Stift und Skizzenbüchlein aus dem Ranzen nahm .
 Aber es war noch lange bis zum Mittagläuten .
 Also bat ich Hans Ottsen , daß er den Gaul mit seinem Jungen mög zum Hofe bringen lassen ;
@@ -898,8 +945,12 @@ Böser Ahnung voll ging ich endlich fort und nahm einen Umweg nach dem Hofe zu .
 Da ich unweit dem Thore zwichen die Eichen kam , begegnete mir Dieterich .
 » Herr Johannes « , sagte er und trat hastig auf mich zu , » Ihr seid die Nacht schon in Hans Ottsens Krug gewesen ;
 sein Junge brachte mir Euren Gaul zurück ;
-– was habet Ihr mit unsern Junkern vorgehabt ? «
-» Warum fragst du , Dieterich ? « – » Warum , Herr Johannes ? – Weil ich Unheil zwischen euch verhüten möcht . «
+– was habet Ihr mit unsern Junkern vorgehabt ?
+«
+» Warum fragst du , Dieterich ?
+«
+–
+» Warum , Herr Johannes ? – Weil ich Unheil zwischen euch verhüten möcht . «
 » Was soll das heißen , Dieterich ?
 « frug ich wieder ;
 aber mir war beklommen , als sollte das Wort mir in der Kehle sticken .
@@ -912,16 +963,21 @@ die Alte aber redete einen um so größeren Haufen und jammerte ordentlich mit i
 Dabei wies sie bald nieder auf den Boden , bald hinauf in den Epheu , der am Thurm hinaufwächst .
 – Verstanden , Herr Johannes , hab ich von dem allem nichts ;
 dann aber , und nun merket wohl auf , hielt sie mit ihrer knöchern Hand , als ob sie damit drohete , dem Junker was vor Augen ;
-und da ich näher hinsah , war's ein Fetzen Grauwerk , just wie Ihr's da an Euerem Mantel traget . «
+und da ich näher hinsah , war's ein Fetzen Grauwerk , just wie Ihr's da an Euerem Mantel traget .
+«
 » Weiter , Dieterich ! « sagte ich ;
 denn der Alte hatte die Augen auf meinen zerrissenen Mantel , den ich auf dem Arme trug .
 » Es ist nicht viel mehr übrig « , erwiderte er ;
 » denn der Junker wandte sich jählings nach mir zu und frug mich , wo Ihr anzutreffen wäret .
 Ihr möget mir es glauben , wäre er in Wirklichkeit ein Wolf gewesen , die Augen hätten blutiger nicht funkeln können .
 «
-Da frug ich : » Ist der Junker im Hause , Dieterich ? « – » Im Haus ?
+Da frug ich : » Ist der Junker im Hause , Dieterich ?
+«
+–
+» Im Haus ?
 Ich denke wohl ;
-doch was sinnet Ihr , Herr Johannes ? «
+doch was sinnet Ihr , Herr Johannes ?
+«
 » Ich sinne , Dieterich , daß ich allsogleich mit ihm zu reden habe . «
 Aber Dieterich hatte bei beiden Händen mich ergriffen .
 » Gehet nicht , Johannes « , sagte er dringend ;
@@ -946,18 +1002,21 @@ Er schauete mich an , als ob ich von den Tollen käme .
 – » So dachte ich , Sieur Johannes !
 Wie Ihr gut rathen könnt !
 Doch immerhin , Ihr kommt mir eben recht ;
-ich hab Euch suchen lassen ! «
+ich hab Euch suchen lassen !
+«
 In seiner Stimme bebte was , das wie ein lauernd Raubthier auf dem Sprunge lag , so daß die Hand mir unversehens nach dem Degen fuhr .
 Jedennoch sprach ich : » Höret mich und gönnet mir ein ruhig Wort , Herr Junker ! «
 Er aber unterbrach meine Rede : » Du wirst gewogen sein , mich erstlich auszuhören !
 Sieur Johannes « – und seine Worte , die erst langsam waren , wurden allmählich gleichwie ein Gebrüll – , » vor ein paar Stunden , da ich mit schwerem Kopf erwachte , da fiel's mir bei und reuete mich gleich einem Narren , daß ich im Rausch die wilden Hunde dir auf die Fersen gesetzet hatte ;
 – seit aber Bas ' Ursel mir den Fetzen vorgehalten , den sie dir aus deinem Federbalg gerissen , – beim Höllenelement !
-mich reut's nur noch , daß mir die Bestien solch Stück Arbeit nachgelassen ! «
+mich reut's nur noch , daß mir die Bestien solch Stück Arbeit nachgelassen !
+«
 Noch einmal suchte ich zu Worte zu kommen ;
 und da der Junker schwieg , so dachte ich , daß er auch hören würde .
 »
 Junker Wulf « , sagte ich , » es ist schon wahr , ich bin kein Edelmann aber ich bin kein geringer Mann in meiner Kunst und hoffe , es auch wohl noch einmal den Größeren gleichzuthun ;
-so bitte ich Euch geziementlich , gebet Euere Schwester Katharina mir zum Ehgemahl – – « Da stockte mir das Wort im Munde .
+so bitte ich Euch geziementlich , gebet Euere Schwester Katharina mir zum Ehgemahl – – «
+Da stockte mir das Wort im Munde .
 Aus seinem bleichen Antlitz starrten mich die Augen des alten Bildes an ;
 ein gellend Lachen schlug mir in das Ohr , ein Schuß – – – dann brach ich zusammen und hörete nur noch , wie mir der Degen , den ich ohn Gedanken fast gezogen hatte , klirrend aus der Hand zu Boden fiel .
 Es war manche Woche danach , daß ich in dem schon bleicheren Sonnenschein auf einem Bänkchen vor dem letzten Haus des Dorfes saß , mit matten Blicken nach dem Wald hinüberschauend , an dessen jenseitigem Rande das Herrenhaus belegen war .
@@ -996,12 +1055,16 @@ Da stund ich bald in Hans Ottsens Krug und ihm gar selber gegenüber .
 Der Alte sah mich seltsam an , meinete aber dann , ich lasse ja recht munter .
 » Nur « , fügte er bei , » mit den Schießbüchsen müsset Ihr nicht wieder spielen ;
 die machen ärgere Flecken als so ein Malerpinsel .
-« Ich ließ ihn gern bei solcher Meinung , so , wie ich wohl merkete , hier allgemein verbreitet war , und that vors erste eine Frage nach dem alten Dieterich .
+«
+Ich ließ ihn gern bei solcher Meinung , so , wie ich wohl merkete , hier allgemein verbreitet war , und that vors erste eine Frage nach dem alten Dieterich .
 Da mußte ich vernehmen , daß er noch vor dem ersten Winterschnee , wie es so starken Leuten wohl passiret , eines plötzlichen , wenn auch gelinden Todes verfahren sei .
 » Der freuet sich « , sagte Hans Ottsen , » daß er zu seinem alten Herrn da droben kommen ;
-und ist für ihn auch besser so . «
-» Amen ! « sagte ich ; » mein herzlieber alter Dieterich ! « Indeß aber mein Herz nur , und immer banger , nach einer Kundschaft von Katharinen seufzete , nahm meine furchtsame Zunge einen Umweg , und ich sprach beklommen :
-» Was machet denn Euer Nachbar , der von der Risch ? «
+und ist für ihn auch besser so .
+«
+» Amen ! « sagte ich ; » mein herzlieber alter Dieterich ! «
+Indeß aber mein Herz nur , und immer banger , nach einer Kundschaft von Katharinen seufzete , nahm meine furchtsame Zunge einen Umweg , und ich sprach beklommen :
+» Was machet denn Euer Nachbar , der von der Risch ?
+«
 » Oho « , lachte der Alte ;
 » der hat ein Weib genommen , und eine , die ihn schon zu Richte setzen wird . «
 Nur im ersten Augenblick erschrak ich , denn ich sagte mir sogleich , daß er nicht so von Katharinen reden würde ;
@@ -1010,11 +1073,11 @@ forschete also muthig weiter , wie's drüben in Herrn Gerhardus ' Haus bestellet
 Da warf der Alte mir wieder seine seltsamen Blicke zu .
 » Ihr meinet wohl « , sagte er , » daß alte Thürm ' und Mauern nicht auch plaudern könnten ! «
 » Was soll's der Rede ? « rief ich ; aber sie fiel mir centnerschwer aufs Herz .
-» Nun , Herr Johannes « , und der Alte sahe mir gar zuversichtlich in die Augen , » wo das Fräulein hinkommen , das werdet doch Ihr am besten wissen !
-Ihr seid derzeit im Herbst ja nicht zum letzten hier gewesen ;
+» Nun , Herr Johannes « , und der Alte sahe mir gar zuversichtlich in die Augen , » wo das Fräulein hinkommen , das werdet doch Ihr am besten wissen ! Ihr seid derzeit im Herbst ja nicht zum letzten hier gewesen ;
 nur wundert's mich , daß Ihr noch einmal wiederkommen ;
 denn Junker Wulf wird , denk ich , nicht eben gute Mien zum bösen Spiel gemachet haben .
-« Ich sah den alten Menschen an , als sei ich selber hintersinnig worden ;
+«
+Ich sah den alten Menschen an , als sei ich selber hintersinnig worden ;
 dann aber kam mir plötzlich ein Gedanke .
 » Unglücksmann ! « schrie ich , » Ihr glaubet doch nicht etwan , das Fräulein Katharina sei mein Eheweib geworden ? «
 » Nun , lasset mich nur los ! « entgegnete der Alte – denn ich schüttelte ihn an beiden Schultern .
@@ -1061,7 +1124,8 @@ ich konnte nicht zweifeln , der schöne ernste Mann war Herr Gerhardus .
 Wer aber war jener tote Knabe , den ihm Meister Johannes hier so sanft in seinen Arm gebettet hatte ?
 – Sinnend nahm ich das zweite und zugleich letzte Heft , dessen Schriftzüge um ein weniges unsicherer erschienen .
 Es lautete wie folgt :
-Geliek as Rook un Stoof verswindt , Also sind ock de Minschenkind .
+Geliek as Rook un Stoof verswindt ,
+Also sind ock de Minschenkind .
 Der Stein , darauf diese Worte eingehauen stehen , saß ob dem Thürsims eines alten Hauses .
 Wenn ich daran vorbeiging , mußte ich allzeit meine Augen dahin wenden , und auf meinen einsamen Wanderungen ist dann selbiger Spruch oft lange mein Begleiter blieben .
 Da sie im letzten Herbste das alte Haus abbrachen , habe ich aus den Trümmern diesen Stein erstanden , und ist er heute gleicherweise ob der Thüre meines Hauses eingemauert worden , wo er nach mir noch manchen , der vorübergeht , an die Nichtigkeit des Irdischen erinnern möge .
@@ -1096,7 +1160,8 @@ es zerfleischete mich mit wilden Krallen und sah mich gleichwohl mit holden Auge
 Drunten lag der helle Mittag auf dem wimmelnden Markte ;
 vor meinen Augen aber dämmerte silberne Mondnacht , wie Schatten stiegen ein paar Zackengiebel auf , ein Fenster klirrte , und gleich wie aus Träumen schlugen leis und fern die Nachtigallen .
 O du mein Gott und mein Erlöser , der du die Barmherzigkeit bist , wo war sie in dieser Stunde , wo hatte meine Seele sie zu suchen ?
-– – Da hörete ich draußen unter dem Fenster von einer harten Stimme meinen Namen nennen , und als ich hinausschaute , ersahe ich einen großen hageren Mann in der üblichen Tracht eines Predigers , obschon sein herrisch und finster Antlitz mit dem schwarzen Haupthaar und dem tiefen Einschnitt ob der Nase wohl eher einem Kriegsmann angestanden wäre .
+– –
+Da hörete ich draußen unter dem Fenster von einer harten Stimme meinen Namen nennen , und als ich hinausschaute , ersahe ich einen großen hageren Mann in der üblichen Tracht eines Predigers , obschon sein herrisch und finster Antlitz mit dem schwarzen Haupthaar und dem tiefen Einschnitt ob der Nase wohl eher einem Kriegsmann angestanden wäre .
 Er wies soeben einem andern , untersetzten Manne von bäuerischem Aussehen , aber gleich ihm in schwarzwollenen Strümpfen und Schnallenschuhen , mit seinem Handstocke nach unserer Hausthür zu , indem er selbst zumal durch das Marktgewühle von dannen schritt .
 Da ich dann gleich darauf die Thürglocke schellen hörte , ging ich hinab und lud den Fremden in das Wohngemach , wo er von dem Stuhle , darauf ich ihn genöthigt , mich gar genau und aufmerksam betrachtete .
 Also war selbiger der Küster aus dem Dorfe norden der Stadt , und erfuhr ich bald , daß man dort einen Maler brauche , da man des Pastors Bildniß in die Kirche stiften wolle .
@@ -1142,7 +1207,9 @@ Da ich anmerkete , wie oberhalb desselben die Spitze des Festlandes und von der 
 » Dort « , sagte er , » hat einst meiner Eltern Haus gestanden ;
 aber anno 34 bei der großen Fluth trieb es gleich hundert anderen in den grimmen Wassern ;
 auf der einen Hälfte des Daches ward ich an diesen Strand geworfen , auf der anderen fuhren Vater und Bruder in die Ewigkeit hinaus .
-« Ich dachte : ›So stehet die Kirche wohl am rechten Ort auch ohne den Pastor wird hier vernehmentlich Gottes Wort geprediget.‹
+«
+Ich dachte : ›So stehet die Kirche wohl am rechten Ort auch ohne den Pastor wird hier vernehmentlich Gottes Wort
+geprediget.‹
 Der Knabe , welchen letzterer auf den Arm genommen hatte , hielt dessen Nacken mit beiden Ärmchen fest umschlungen und drückte die zarte Wange an das schwarze bärtige Gesicht des Mannes , als finde er so den Schutz vor der ihn schreckenden Unendlichkeit , die dort vor unseren Augen ausgebreitet lag .
 Als wir in das Schiff der Kirche eingetreten waren , betrachtete ich mir die alten Bildnisse und sahe auch einen Kopf darunter , der wohl eines guten Pinsels werth gewesen wäre ;
 jedennoch war es alles eben Pfennigmalerei , und sollte demnach der Schüler van der Helsts hier in gar sondere Gesellschaft kommen .
@@ -1152,14 +1219,14 @@ aber ich habe der Gemeine
 Wunsch nicht widerstreben mögen ;
 nur , Meister , machet es kurz ;
 ich habe besseren Gebrauch für meine Zeit .
-« Nachdem ich dem finsteren Manne , an dessen Antlitz ich gleichwohl für meine Kunst Gefallen fand , meine beste Bemühung zugesaget , fragete ich einem geschnitzten Bilde der Maria nach , so von meinem Bruder mir war gerühmet worden .
+«
+Nachdem ich dem finsteren Manne , an dessen Antlitz ich gleichwohl für meine Kunst Gefallen fand , meine beste Bemühung zugesaget , fragete ich einem geschnitzten Bilde der Maria nach , so von meinem Bruder mir war gerühmet worden .
 Ein fast verachtend Lächeln ging über des Predigers Angesicht .
 » Da kommet Ihr zu spät « , sagte er , » es ging in Trümmer , da ich 's aus der Kirche schaffen ließ . «
 Ich sah ihn fast erschrocken an .
 » Und wolltet Ihr des Heilands Mutter nicht in Euerer Kirche dulden ? «
-» Die Züge von des Heilands Mutter « , entgegnete er , » sind nicht überliefert worden . « – »
-Aber wollet Ihr's der Kunst mißgönnen , sie in frommem Sinn zu suchen ?
-«
+» Die Züge von des Heilands Mutter « , entgegnete er , » sind nicht überliefert worden . «
+– » Aber wollet Ihr's der Kunst mißgönnen , sie in frommem Sinn zu suchen ? «
 Er blickte eine Weile finster auf mich herab ;
 denn , obschon ich zu den Kleinen nicht zu zählen , so überragte er mich doch um eines halben Kopfes Höhe ;
 – dann sprach er heftig : » Hat nicht der König die holländischen Papisten dort auf die zerrissene Insel herberufen ; nur um durch das Menschenwerk der Deiche des Höchsten Strafgericht zu trotzen ?
@@ -1167,7 +1234,8 @@ Haben nicht noch letzlich die Kirchenvorsteher drüben in der Stadt sich zwei de
 Betet und wachet !
 Denn auch hier geht Satan noch von Haus zu Haus !
 Diese Marienbilder sind nichts als Säugammen der Sinnenlust und des Papismus ;
-die Kunst hat allzeit mit der Welt gebuhlt ! «
+die Kunst hat allzeit mit der Welt gebuhlt !
+«
 Ein dunkles Feuer glühte in seinen Augen , aber seine Hand lag liebkosend auf dem Kopf des blassen Knaben , der sich an seine Knie schmiegte .
 Ich vergaß darob , des Pastors Worte zu erwidern ;
 mahnete aber danach , daß wir in die Küsterei zurückgingen , wo ich alsdann meine edle Kunst an ihrem Widersacher selber zu erproben anhub .
@@ -1176,7 +1244,8 @@ Geredet wurde wenig zwischen uns ;
 aber das Bild nahm desto rascheren Fortgang .
 Gemeiniglich saß der Küster neben uns und schnitzete allerlei Geräthe gar säuberlich aus Eichenholz , dergleichen als eine Hauskunst hier über all betrieben wird ;
 auch habe ich das Kästlein , woran er derzeit arbeitete , von ihm erstanden und darin vor Jahren die ersten Blätter dieser Niederschrift hinterleget , alswie denn auch mit Gottes Willen diese letzten darin sollen beschlossen sein .
-– In des Predigers Wohnung wurde ich nicht geladen und betrat selbige auch nicht ;
+–
+In des Predigers Wohnung wurde ich nicht geladen und betrat selbige auch nicht ;
 der Knabe aber war allzeit mit ihm in der Küsterei ;
 er stand an seinen Knien , oder er spielte mit Kieselsteinchen in der Ecke des Zimmers .
 Da ich selbigen einmal fragte , wie er heiße , antwortete er : » Johannes ! «
@@ -1222,7 +1291,8 @@ sie kamen uns so nahe , daß die zwei gemalten Scheiben , so letzlich von meinem
 Als aber dann die Gesellschaft an unserem Hause laut redend in die Krämerstraße einbog , hörete ich einen unter ihnen sagen : » Ei freilich ;
 das hat der Teufel uns verpurret !
 Hatte mich leblang darauf gespitzet , einmal eine richtige Hex so in der Flammen singen zu hören !
-« Die Leuchten und die lustigen Leute gingen weiter , und draußen die Stadt lag wieder still und dunkel .
+«
+Die Leuchten und die lustigen Leute gingen weiter , und draußen die Stadt lag wieder still und dunkel .
 » O weh ! « sprach mein Bruder ;
 » den trübet , was mich tröstet . «
 Da fiel es mir erst wieder bei , daß am nächsten Morgen die Stadt ein grausam Spectacul vor sich habe .
@@ -1235,7 +1305,8 @@ Mein Bruder , welcher weichen Herzens war , begann gleichwohl der Pflichten sein
 denn er hatte drüben von der Rathhaustreppe das Urthel zu verlesen , sobald der Racker den todten Leichnam davor aufgefahren , und hernach auch der Justification selber zu assistiren .
 » Es schneidet mir schon itzund in das Herz « , sagte er , » das greuelhafte Gejohle , wenn sie mit dem Karren die Straße herabkommen ;
 denn die Schulen werden ihre Buben und die Zunftmeister ihre Lehrburschen loslassen .
-– An deiner Statt « , fügete er bei , » der du ein freier Vogel bist , würde ich aufs Dorf hinausmachen und an dem Conterfey des schwarzen Pastors weiter malen ! «
+– An deiner Statt « , fügete er bei , » der du ein freier Vogel bist , würde ich aufs Dorf hinausmachen und an dem Conterfey des schwarzen Pastors weiter malen !
+«
 Nun war zwar festgesetzet worden , daß ich am nächstfolgenden Tage erst wieder hinauskäme ;
 aber mein Bruder redete mir zu , unwissend , wie er die Ungeduld in meinem Herzen schürete ;
 und so geschah es , daß alles sich erfüllen mußte , was ich getreulich in diesen Blättern niederschreiben werde .
@@ -1247,7 +1318,13 @@ Als ich hinter dem Schloßgarten auf dem Steige war , sahe ich drüben bei der L
 Ein paar Leute hantirten noch daran herum , und mochten das der Fron und seine Knechte sein , die leichten Brennstoff zwischen die Hölzer thaten ;
 von der Stadt her aber kamen schon die ersten Buben über die Felder ihnen zugelaufen .
 – Ich achtete deß nicht weiter , sondern wanderte rüstig fürbaß , und da ich hinter den Bäumen hervortrat , sahe ich mir zur Linken das Meer im ersten Sonnenstrahl entbrennen , der im Osten über die Heide emporstieg .
-Da mußte ich meine Hände falten : O Herr , mein Gott und Christ , Sei gnädig mit uns allen , Die wir in Sünd gefallen , Der du die Liebe bist ! – – Als ich draußen war , wo die breite Landstraße durch die Heide führte , begegneten mir viele Züge von Bauern ;
+Da mußte ich meine Hände falten :
+O Herr , mein Gott und Christ ,
+Sei gnädig mit uns allen ,
+Die wir in Sünd gefallen ,
+Der du die Liebe bist !
+– –
+Als ich draußen war , wo die breite Landstraße durch die Heide führte , begegneten mir viele Züge von Bauern ;
 sie hatten ihre kleinen Jungen und Dirnen an den Händen und zogen sie mit sich fort .
 » Wohin strebet ihr denn so eifrig ? « fragte ich den einen Haufen ;
 » es ist ja doch kein Markttag heute in der Stadt . «
@@ -1256,7 +1333,8 @@ Nun , wie ich 's wohl zum voraus wußte , sie wollten die Hexe , das junge Satan
 » Freilich , das ist ein Verdruß « , meineten sie ;
 » aber es ist unserer Hebamme , der alten Mutter Siebenzig , ihre Schwestertochter ;
 da können wir nicht außen bleiben und müssen mit dem Reste schon fürlieb nehmen . «
-– – – Und immer neue Scharen kamen daher ;
+–
+– – Und immer neue Scharen kamen daher ;
 und itzund taucheten auch schon Wagen aus dem Morgennebel , die statt mit Kornfrucht heut mit Menschen voll geladen waren .
 – Da ging ich abseits über die Heide , obwohl noch der Nachtthau von dem Kraute rann ;
 denn mein Gemüth verlangte nach der Einsamkeit ;
@@ -1273,15 +1351,19 @@ Eine Weile stund ich unschlüssig ;
 dann hub ich mit der Faust zu klopfen an .
 Drinnen blieb alles ruhig ;
 als ich aber stärker klopfte , kam des Küsters alte halb blinde Trienke aus einem Nachbarhause .
-» Wo ist der Küster ? « fragte ich . – » Der Küster ?
+» Wo ist der Küster ? « fragte ich .
+– » Der Küster ?
 Mit dem Priester in die Stadt gefahren .
-« Ich starrete die Alte an ;
+«
+Ich starrete die Alte an ;
 mir war , als sei ein Blitz durch mich dahin geschlagen .
 » Fehlet Euch etwas , Herr Maler ? « frug sie .
 Ich schüttelte den Kopf und sagte nur :
-» So ist wohl heute keine Schule , Trienke ? « – » Bewahre !
+» So ist wohl heute keine Schule , Trienke ? «
+– » Bewahre !
 Die Hexe wird ja verbrannt !
-« Ich ließ mir von der Alten das Haus aufschließen , holte mein Malergeräthe und das fast vollendete Bildniß aus des Küsters Schlafkammer und richtete , wie gewöhnlich , meine Staffelei in dem leeren Schulzimmer .
+«
+Ich ließ mir von der Alten das Haus aufschließen , holte mein Malergeräthe und das fast vollendete Bildniß aus des Küsters Schlafkammer und richtete , wie gewöhnlich , meine Staffelei in dem leeren Schulzimmer .
 Ich pinselte etwas an der Gewandung ;
 aber ich suchte damit nur mich selber zu belügen ;
 ich hatte keinen Sinn zum Malen ;
@@ -1322,7 +1404,8 @@ Und wieder kam die holde Stimme an mein Ohr :
 nun hast du einen ganzen Haufen !
 Ja , ja ;
 ich such derweil noch mehr ;
-dort am Holunder wächst genug ! «
+dort am Holunder wächst genug !
+«
 Und dann trat sie selber hinter den Weiden hervor ;
 ich hatte ja längst schon nicht gezweifelt .
 – Mit den Augen auf dem Boden suchend , schritt sie zu mir her , so daß ich ungestöret sie betrachten durfte ;
@@ -1337,15 +1420,18 @@ Sie blickte auf ;
 ich aber ergriff ihre Hand und zog sie gleich einer Willenlosen zu mir unter den Schatten der Büsche .
 Doch als ich sie endlich also nun gefunden hatte und keines Wortes mächtig vor ihr stund , da sahen ihre Augen weg von mir , und mit fast einer fremden Stimme sagte sie : » Es ist nun einmal so , Johannes !
 Ich wußte wohl , du seiest der fremde Maler ;
-ich dachte nur nicht , daß du heute kommen würdest . «
+ich dachte nur nicht , daß du heute kommen würdest .
+«
 Ich hörete das , und dann sprach ich es aus : » Katharina , – – bist du des Predigers Eheweib ? «
 Sie nickte nicht ;
 sie sah mich starr und schmerzlich an .
-» Er hat das Amt dafür bekommen « , sagte sie , » und dein Kind den ehrlichen Namen . «
+» Er hat das Amt dafür bekommen « , sagte sie , » und dein Kind den ehrlichen Namen .
+«
 – » Mein Kind , Katharina ? «
 » Und fühltest du das nicht ?
 Er hat ja doch auf deinem Schoß gesessen ;
-einmal doch , er selbst hat es mir erzählet . «
+einmal doch , er selbst hat es mir erzählet .
+«
 – – Möge keines Menschen Brust ein solches Weh zerfleischen !
 » Und du , du und mein Kind , ihr solltet mir verloren sein ! «
 Sie sah mich an , sie weinte nicht , sie war nur gänzlich todtenbleich .
@@ -1353,8 +1439,8 @@ Sie sah mich an , sie weinte nicht , sie war nur gänzlich todtenbleich .
 schrie ich ; » ich will ... «
 Und eine wilde Gedankenjagd rasete mir durchs Hirn .
 Aber ihre kleine Hand hatte gleich einem kühlen Blatte sich auf meine Stirn gelegt , und ihre braunen Augensterne auf dem blassen Antlitz sahen mich flehend an .
-» Du , Johannes « , sagte sie , » du wirst es nicht sein , der mich noch elender machen will . « – »
-Und kannst denn du so leben , Katharina ? «
+» Du , Johannes « , sagte sie , » du wirst es nicht sein , der mich noch elender machen will . «
+– » Und kannst denn du so leben , Katharina ? «
 » Leben ? – – Es ist ja doch ein Glück dabei ;
 er liebt das Kind ;
 was ist denn mehr noch zu verlangen ?
@@ -1372,12 +1458,15 @@ Aber meine Sinne zieleten nur auf das Weib , das sie begehrten .
 Sie war an den Rand des Gebüsches getreten und horchete hinaus .
 Die goldene Herbstsonne schien so warm hernieder , nur leichter Hauch kam von der See herauf .
 Da hörten wir von jenseit durch die Weiden das Stimmlein unseres Kindes singen :
-Zwei Englein , die mich decken , Zwei Englein , die mich strecken , Und zweie , so mich weisen
+Zwei Englein , die mich decken ,
+Zwei Englein , die mich strecken ,
+Und zweie , so mich weisen
 In das himmlische Paradeisen .
 Katharina war zurückgetreten , und ihre Augen sahen groß und geisterhaft mich an .
 » Und nun leb wohl , Johannes « , sprach sie leise ;
 » auf Nimmerwiedersehen hier auf Erden !
-« Ich wollte sie an mich reißen ;
+«
+Ich wollte sie an mich reißen ;
 ich streckte beide Arme nach ihr aus ;
 doch sie wehrete mich ab und sagte sanft :
 » Ich bin des anderen Mannes Weib ; vergiß das nicht .
@@ -1387,13 +1476,15 @@ Mich aber hatte auf diese Worte ein fast wilder Zorn ergriffen .
 Ein weher Klaglaut brach aus ihrer Brust ;
 sie schlug die Hände vor ihr Angesicht und rief : » Weh mir !
 O wehe , mein entweihter armer Leib !
-« Da wurd ich meiner schier unmächtig ;
+«
+Da wurd ich meiner schier unmächtig ;
 ich riß sie jäh an meine Brust , ich hielt sie wie mit Eisenklammern und hatte sie endlich , endlich wieder !
 Und ihre Augen sanken in die meinen , und ihre rothen Lippen duldeten die meinen ;
 wir umschlangen uns inbrünstiglich ;
 ich hätte sie tödten mögen , wenn wir also mit einander hätten sterben können .
 Und als dann meine Blicke voll Seligkeit auf ihrem Antlitz weideten , da sprach sie , fast erstickt von meinen Küssen : » Es ist ein langes , banges Leben !
-O Jesu Christ , vergib mir diese Stunde ! «
+O Jesu Christ , vergib mir diese Stunde !
+«
 – – Es kam eine Antwort ;
 aber es war die harte Stimme jenes Mannes , aus dessen Munde ich itzt zum ersten Male ihren Namen hörte .
 Der Ruf kam von droben aus dem Predigergarten , und noch einmal und härter rief es : » Katharina ! «
@@ -1403,8 +1494,7 @@ dann stille wie ein Schatten war sie fort .
 – – Als ich in die Küsterei trat , war auch schon der Küster wieder da .
 Er begann sofort von der Justification der armen Hexe auf mich einzureden .
 » Ihr haltet wohl nicht viel davon « , sagte er ;
-» sonst wäret Ihr heute nicht aufs Dorf gegangen , wo der Herr Pastor gar die Bauern und ihre Weiber in die Stadt getrieben .
-«
+» sonst wäret Ihr heute nicht aufs Dorf gegangen , wo der Herr Pastor gar die Bauern und ihre Weiber in die Stadt getrieben . «
 Ich hatte nicht die Zeit zur Antwort ;
 ein gellender Schrei durchschnitt die Luft ;
 ich werde ihn leblang in den Ohren haben .
@@ -1412,13 +1502,13 @@ ich werde ihn leblang in den Ohren haben .
 Der Mann riß ein Fenster auf und horchete hinaus , aber es geschah nichts weiter .
 »
 So mir Gott « , sagte er , » es war ein Weib , das so geschrien hat ;
-und drüben von der Priesterkoppel kam's . «
+und drüben von der Priesterkoppel kam's .
+«
 Indem war auch die alte Trienke in die Thür gekommen .
 » Nun , Herr ? « rief sie mir zu .
 » Die Leichlaken sind auf des Pastors Dach gefallen ! «
 – » Was soll das heißen , Trienke ? «
-» Das soll heißen , daß sie des Pastors kleinen Johannes soeben aus dem Wasser ziehen .
-«
+» Das soll heißen , daß sie des Pastors kleinen Johannes soeben aus dem Wasser ziehen . «
 Ich stürzete aus dem Zimmer und durch den Garten auf die Priesterkoppel ;
 aber unter den Weiden fand ich nur das dunkle Wasser und Spuren feuchten Schlammes daneben auf dem Grase .
 – Ich bedachte mich nicht , es war ganz wie von selber , daß ich durch das weiße Pförtchen in des Pastors Garten ging .
@@ -1433,7 +1523,8 @@ Ja , was wollte ich denn eigentlich ?
 » Das Weib hat endlich alles ausgeredet . «
 Das machte mir die Zunge frei .
 » Wo ist mein Kind ? « rief ich .
-Er sagte : » Die beiden Eltern haben es ertrinken lassen . « – » So laßt mich zu meinem todten Kinde ! «
+Er sagte : » Die beiden Eltern haben es ertrinken lassen . «
+– » So laßt mich zu meinem todten Kinde ! «
 Allein , da ich an ihm vorbei in den Hausflur wollte , drängete er mich zurück .
 » Das Weib « , sprach er , » liegt bei dem Leichnam und schreit zu Gott aus ihren Sünden .
 Ihr sollt nicht hin , um ihrer armen Seelen Seligkeit ! «
@@ -1445,8 +1536,7 @@ aber des Predigers Worte gruben sich in mein Gedächtniß .
 Mit solcher kommet morgen in der Frühe wieder und malet darauf des todten Knaben Antlitz .
 Nicht mir oder meinem Hause ;
 der Kirchen hier , wo er sein kurz unschuldig Leben ausgelebet , möget Ihr das Bildniß stiften .
-Mög es dort die Menschen mahnen , daß vor der knöchern Hand des Todes alles Staub ist !
-«
+Mög es dort die Menschen mahnen , daß vor der knöchern Hand des Todes alles Staub ist ! «
 Ich blickte auf den Mann , der kurz vordem die edle Malerkunst ein Buhlweib mit der Welt gescholten ;
 aber ich sagte zu , daß alles so geschehen möge .
 – – Daheim indessen wartete meiner eine Kunde , so meines Lebens Schuld und Buße gleich einem Blitze jählings aus dem Dunkel hob , so daß ich Glied um Glied die ganze Kette vor mir leuchten sahe .
@@ -1454,8 +1544,8 @@ Mein Bruder , dessen schwache Constitution von dem abscheulichen Spectacul , dem
 Da ich zu ihm eintrat , richtete er sich auf .
 » Ich muß noch eine Weile ruhen « , sagte er , indem er ein Blatt der Wochenzeitung in meine Hand gab ;
 » aber lies doch dieses !
-Da wirst du sehen , daß Herrn Gerhardus ' Hof in fremde Hände kommen , maßen Junker Wulf ohn Weib und Kind durch eines tollen Hundes Biß gar jämmerlichen Todes verfahren ist .
-« Ich griff nach dem Blatte , das mein Bruder mir entgegenhielt ;
+Da wirst du sehen , daß Herrn Gerhardus ' Hof in fremde Hände kommen , maßen Junker Wulf ohn Weib und Kind durch eines tollen Hundes Biß gar jämmerlichen Todes verfahren ist . «
+Ich griff nach dem Blatte , das mein Bruder mir entgegenhielt ;
 aber es fehlte nicht viel , daß ich getaumelt wäre .
 Mir war's bei dieser Schreckenspost , als sprängen des Paradieses Pforten vor mir auf ;
 aber schon sahe ich am Eingange den Engel mit dem Feuerschwerte stehen , und aus meinem Herzen schrie es wieder : O Hüter , Hüter , war dein Ruf so fern !
@@ -1472,7 +1562,8 @@ Die Balken an der Decke hingen noch wie Schatten über mir , da sprang ich auf ,
 Aber so frühe ich auch ausgegangen , ich traf den Prediger schon auf der Schwelle seines Hauses stehen .
 Er geleitete mich auf den Flur und sagte , daß die Holztafel richtig angelanget , auch meine Staffelei und sonstiges Malergeräth aus dem Küsterhause herübergeschaffet sei .
 Dann legte er seine Hand auf die Klinke einer Stubenthür .
-Ich jedoch hielt ihn zurück und sagte : » Wenn es in diesem Zimmer ist , so wollet mir vergönnen , bei meinem schweren Werk allein zu sein ! «
+Ich jedoch hielt ihn zurück und sagte : » Wenn es in diesem Zimmer ist , so wollet mir vergönnen , bei meinem schweren Werk allein zu sein !
+«
 » Es wird Euch niemand stören « , entgegnete er und zog die Hand zurück .
 » Was Ihr zur Stärkung Eueres Leibes bedürfet , werdet Ihr drüben in jenem Zimmer finden . «
 Er wies auf eine Thür an der anderen Seite des Flures ;
@@ -1525,7 +1616,8 @@ was hier herausschaut , ist alleine noch der Tod .
 Nicht aus der Tiefe schreckbarer Vergangenheit ist es heraufgekommen ;
 nichts anderes ist da als deines Vaters Schuld ;
 sie hat uns alle in die schwarze Fluth hinabgerissen .
-« Sorgsam legte ich dann wieder mein Kind in seine Kissen und drückte ihm sanft die beiden Augen zu .
+«
+Sorgsam legte ich dann wieder mein Kind in seine Kissen und drückte ihm sanft die beiden Augen zu .
 Dann tauchete ich meinen Pinsel in ein dunkles Roth und schrieb unten in den Schatten des Bildes die Buchstaben :
 C.P.A.S.
 Das sollte heißen :
@@ -1543,7 +1635,8 @@ Er grüßte schweigend ;
 dann mit gefalteten Händen blieb er stehen und betrachtete wechselnd das Antlitz auf dem Bilde und das des kleinen Leichnams vor ihm , als ob er sorgsame Vergleichung halte .
 Als aber seine Augen auf die Lilie in der gemalten Hand des Kindes fielen , hub er wie im Schmerze seine beiden Hände auf , und ich sahe , wie seinen Augen jählings ein reicher Thränenquell entstürzete .
 Da streckte auch ich meine Arme nach dem Todten und rief überlaut : » Leb wohl , mein Kind !
-O mein Johannes , lebe wohl ! «
+O mein Johannes , lebe wohl !
+«
 Doch in demselben Augenblicke vernahm ich leise Schritte in der Nebenkammer ;
 es tastete wie mit kleinen Händen an der Thür ;
 ich hörte deutlich meinen Namen rufen – oder war es der des todten Kindes ?
