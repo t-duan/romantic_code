@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 from phonemizer import phonemize
+from phonemizer.separator import Separator
 from multiprocessing import Pool
 
 def conllu_to_sentences(conllu_file, output_file):
@@ -28,7 +29,9 @@ def transcribe_sentences(input_file, output_file, language='de'):
             backend='espeak',
             strip=False,
             preserve_punctuation=True,
-            with_stress=True
+            with_stress=True,
+            separator=Separator(phone=' ', word='|'), # syllable='#' only suported for festival backend
+            njobs=4
         )
         out_f.write(transcription)
 

@@ -2,6 +2,7 @@ import os
 import pandas as pd
 from multiprocessing import Pool
 from spacy_conllu_converter import SpacyConlluConverter
+from spacy_conllu_converter import renumber_token_ids
 from cab_normalizer import FileNormalizer
 
 # Initialize the SpacyConlluConverter
@@ -21,6 +22,8 @@ def process_files(args):
     
     # Process the normalized plain text file to conllu format
     converter.process_file(plain_1_file_path, conllu_1_file_path, use_custom_tokenizer=True)
+
+    renumber_token_ids(conllu_1_file_path,conllu_1_file_path)
 
 def get_file_paths_from_csv(csv_file_path):
     # Read the CSV file
@@ -57,7 +60,7 @@ for f in files:
     args_list.append((plain_0_file_path, conllu_0_file_path, plain_1_file_path, conllu_1_file_path))
 
 # Define the number of CPU cores to use
-num_cores = 8
+num_cores = 1
 
 # Create a multiprocessing pool with the specified number of cores
 with Pool(num_cores) as pool:
