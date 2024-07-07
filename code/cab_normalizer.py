@@ -1,6 +1,5 @@
 import tempfile
 import os
-import datetime
 
 class FileNormalizer:
     def __init__(self, max_lines=25000):
@@ -16,7 +15,6 @@ class FileNormalizer:
         """
         Splits the input file into chunks, processes each chunk, and combines the results.
         """
-        part_number = 1
         temp_files = []
 
         with open(input_file_path, 'r') as file:
@@ -50,10 +48,6 @@ class FileNormalizer:
 
         # Combine processed parts into the output file
         with open(output_file_path, 'w') as outfile:
-            now = datetime.datetime.now()
-            formatted_date_time = now.strftime("%Y-%m-%d %H:%M:%S")
-            with open('log.txt','a') as log:
-                log.write(f'{formatted_date_time} - Log message for  {input_file_path}\n')
             for temp_file in temp_files:
                 with open(temp_file + "_processed", 'r') as infile:  # Read from processed files
                     for line in infile:
@@ -62,11 +56,7 @@ class FileNormalizer:
                         else:
                             if not line.startswith("#"):
                                 cab = line.strip().split("\t")[-1]
-                                translit = cab.split('|')[0][9:]
                                 norm = cab.split('|')[-1][5:]
-                                if translit != norm:
-                                    with open('log.txt','a') as log:
-                                        log.write(f'"{translit}"\t"{norm}"\n')
                                 outfile.write(norm + "\n")
                 os.remove(temp_file)  # Clean up temporary files
                 os.remove(temp_file + "_processed")
