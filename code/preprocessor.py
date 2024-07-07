@@ -60,7 +60,7 @@ for f in files:
     args_list.append((plain_0_file_path, conllu_0_file_path, plain_1_file_path, conllu_1_file_path))
 
 # Define the number of CPU cores to use
-num_cores = 1
+num_cores = 6
 
 # Create a multiprocessing pool with the specified number of cores
 with Pool(num_cores) as pool:

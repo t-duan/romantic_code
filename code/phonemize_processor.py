@@ -79,4 +79,4 @@ for f in files:
     files_to_process.append(folder_path + f.replace('.txt','.conllu_0'))
 
 # Process all files in the list using 24 processes
-batch_process(files_to_process, num_processes=8)
+batch_process(files_to_process, num_processes=6)
