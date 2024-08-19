@@ -1,4 +1,3 @@
-import os
 import pandas as pd
 from multiprocessing import Pool
 from spacy_conllu_converter import SpacyConlluConverter

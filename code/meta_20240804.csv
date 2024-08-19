@@ -1,0 +1,536 @@
+author	epoche	genre	title	textPath	label	n_sent	n_tok	n_tok_no_punct	n_adja	n_nn	n_vfin	n_konjunktiv2	n_acc	n_dat
+Ahlefeld, Charlotte von	not defined	Roman	Erna	droro_e2/Ahlefeld_Charlotte_von_Erna.txt	Romantik_E2	1799	64983	55957	4213	10337	3597	27	918	2093
+Ahlefeld, Charlotte von	not defined	Roman	Marie Müller	droro_e2/Ahlefeld_Charlotte_von_Marie_Mueller.txt	Romantik_E2	2040	50887	42765	2593	7396	3402	28	653	1539
+Alexis, Willibald	not defined	Roman	Als Kriegsfreiwilliger nach Frankreich	droro_e1/Alexis_Willibald_als_Kriegsfreiwilliger_nach_Frankreich.txt	Romantik_E1	3444	64936	55062	3308	11078	3220	26	793	2149
+Alexis, Willibald	not defined	Roman	Cabanis	droro_e1/Alexis_Willibald_Cabanis.txt	Romantik_E1	9231	156217	126740	5764	24312	10075	104	1940	4356
+Alexis, Willibald	not defined	Roman	Der falsche Woldemar	droro_e2/Alexis_Willibald_der_falsche_Woldemar.txt	Romantik_E2	18659	273554	220079	7523	41251	20125	246	3228	6735
+Alexis, Willibald	not defined	Roman	Der Roland von Berlin	droro_e1/Alexis_Willibald_der_Roland_von_Berlin.txt	Romantik_E1	15586	270104	219865	7296	38597	18270	275	3029	6462
+Alexis, Willibald	not defined	Roman	Die Hosen des Herrn von Bredow	droro_e2/Alexis_Willibald_Die_Hosen_des_Herrn_von_Bredow.txt	Romantik_E2	8454	136044	110456	3901	19388	9142	143	1587	3490
+Alexis, Willibald	not defined	Roman	Isegrimm	droro_e2/Alexis_Willibald_Isegrimm.txt	Romantik_E2	16069	278273	228083	9469	42345	15362	227	3390	7058
+Alexis, Willibald	not defined	Roman	Ruhe ist die erste Bürgerpflicht	droro_e2/Alexis_Willibald_Ruhe_ist_die_erste.txt	Romantik_E2	24773	385825	310331	12507	58405	23208	238	4708	9721
+Alexis, Willibald	not defined	Roman	Walladmor	droro_e1/Alexis_Willibald_Walladmor.txt	Romantik_E1	8150	180099	152018	8474	29011	10615	94	2522	5615
+Arnim, Bettina von	Romantik	Märchen	Märchen/[Der Königssohn]	Literatur-Arnim,-Bettina-von/tg17.txt	not defined	73	2279	1992	94	370	172	0	40	88
+Arnim, Bettina von	Romantik	Märchen	Märchen/[Hans ohne Bart]	Literatur-Arnim,-Bettina-von/tg18.txt	not defined	40	985	844	10	137	84	0	14	22
+Arnim, Bettina von	Romantik	Märchen	Märchen/Das Leben der Hochgräfin Gritta von Rattenzuhausbeiuns	Literatur-Arnim,-Bettina-von/tg21.txt	not defined	3613	60227	49768	2535	9086	5103	46	959	2153
+Arnim, Bettina von	Romantik	Roman	Romane/Clemens Brentanos Frühlingskranz	Literatur-Arnim,-Bettina-von/tg15.txt	Romantik_E2	4332	108152	91499	3575	14582	6029	61	1234	3053
+Arnim, Bettina von	Romantik	Roman	Romane/Die Günderode	Literatur-Arnim,-Bettina-von/tg11.txt	Romantik_E1	6155	174959	146627	5259	23952	10368	98	1985	5051
+Arnim, Bettina von	Romantik	Roman	Romane/Goethes Briefwechsel mit einem Kinde	Literatur-Arnim,-Bettina-von/tg4.txt	Romantik_E1	8881	206898	174810	8268	29785	12701	122	2593	6769
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der tolle Invalide auf dem Fort Ratonneau	Literatur-Arnim,-Ludwig-Achim-von/tg1270.txt	not defined	316	9217	7872	323	1530	620	4	146	332
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Achter Winterabend/Johann Beer	Literatur-Arnim,-Ludwig-Achim-von/tg1260.txt	not defined	49	1201	1011	69	187	71	1	12	44
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Achter Winterabend/Poliphil und Polia	Literatur-Arnim,-Ludwig-Achim-von/tg1261.txt	not defined	151	3179	2650	123	511	220	1	52	106
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Achter Winterabend/Sonntag	Literatur-Arnim,-Ludwig-Achim-von/tg1259.txt	not defined	198	4120	3472	132	659	283	3	33	126
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Dritter Winterabend/Altdeutsche Landsleute	Literatur-Arnim,-Ludwig-Achim-von/tg1242.txt	not defined	25	1030	866	46	166	42	0	13	35
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Dritter Winterabend/Arbogast von Andelon und Elisa von Portugal	Literatur-Arnim,-Ludwig-Achim-von/tg1243.txt	not defined	239	5610	4699	96	711	456	17	63	194
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Erster Winterabend/Die Liebesgeschichte des Kanzlers Schlick	Literatur-Arnim,-Ludwig-Achim-von/tg1235.txt	not defined	23	950	818	45	141	51	1	13	33
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Erster Winterabend/Eurial und Lukrezia	Literatur-Arnim,-Ludwig-Achim-von/tg1236.txt	not defined	419	10212	8607	302	1504	684	15	105	259
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Fünfter Winterabend/Die neuen Amazonen	Literatur-Arnim,-Ludwig-Achim-von/tg1248.txt	not defined	35	811	669	38	127	48	2	7	23
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Fünfter Winterabend/Mistris Lee	Literatur-Arnim,-Ludwig-Achim-von/tg1249.txt	not defined	430	10760	9060	377	1544	684	10	138	327
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Fünfter Winterabend/Nelson und Meduse	Literatur-Arnim,-Ludwig-Achim-von/tg1250.txt	not defined	369	5848	4900	199	1117	433	1	64	171
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Neunter Winterabend/Die Abenteuer des Prinzen Karl Stuart	Literatur-Arnim,-Ludwig-Achim-von/tg1263.txt	not defined	221	5040	4295	189	913	313	3	81	192
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Neunter Winterabend/Die Flucht des Prinzen Karl	Literatur-Arnim,-Ludwig-Achim-von/tg1264.txt	not defined	713	15385	12889	530	2594	1168	10	172	557
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Schluß/Der Eisgang	Literatur-Arnim,-Ludwig-Achim-von/tg1266.txt	not defined	133	3135	2679	187	628	216	1	30	121
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Schluß/Der Wintergarten, Taufe, Hochzeit	Literatur-Arnim,-Ludwig-Achim-von/tg1267.txt	not defined	71	1727	1489	78	316	134	0	17	51
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Sechster Winterabend/Geheime Geschichte	Literatur-Arnim,-Ludwig-Achim-von/tg1252.txt	not defined	28	833	709	37	126	30	0	8	12
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Sechster Winterabend/Olivier Clisson, Kronfeldherr von Frankreich	Literatur-Arnim,-Ludwig-Achim-von/tg1253.txt	not defined	366	8961	7529	244	1407	596	9	121	326
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Siebenter Winterabend/Ariel	Literatur-Arnim,-Ludwig-Achim-von/tg1257.txt	not defined	43	990	846	44	144	74	2	16	33
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Siebenter Winterabend/Die drei Erznarren	Literatur-Arnim,-Ludwig-Achim-von/tg1256.txt	not defined	237	8304	7159	332	1224	563	11	118	285
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Siebenter Winterabend/Winter-Launen	Literatur-Arnim,-Ludwig-Achim-von/tg1255.txt	not defined	30	807	662	24	121	55	0	11	22
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Vierter Winterabend/Der Krieg	Literatur-Arnim,-Ludwig-Achim-von/tg1245.txt	not defined	62	1380	1134	42	216	85	0	12	37
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Vierter Winterabend/Philander unter den streifenden Soldaten	Literatur-Arnim,-Ludwig-Achim-von/tg1246.txt	not defined	587	14514	12012	432	2281	951	16	174	440
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Zweiter Winterabend/Albert und Concordia	Literatur-Arnim,-Ludwig-Achim-von/tg1239.txt	not defined	30	877	765	49	150	60	0	9	37
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Zweiter Winterabend/Amtsbericht von dem Tode des Generals Grafen von Schaffgotsch	Literatur-Arnim,-Ludwig-Achim-von/tg1240.txt	not defined	555	13937	12006	537	2200	954	3	197	510
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Der Wintergarten/Zweiter Winterabend/Das wiedergefundene Paradies	Literatur-Arnim,-Ludwig-Achim-von/tg1238.txt	not defined	29	815	716	51	130	49	0	17	32
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Die drei liebreichen Schwestern und der glückliche Färber	Literatur-Arnim,-Ludwig-Achim-von/tg1269.txt	not defined	734	21249	17739	802	2960	1367	12	280	725
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Die Majoratsherren	Literatur-Arnim,-Ludwig-Achim-von/tg1271.txt	not defined	673	15454	12904	717	2558	985	13	175	552
+Arnim, Ludwig Achim von	Romantik	Erzählung	Erzählungen/Isabella von Ägypten	Literatur-Arnim,-Ludwig-Achim-von/tg1268.txt	not defined	1596	47026	40138	1964	7072	2847	28	606	1684
+Arnim, Ludwig Achim von	not defined	Roman	Hollins Liebeleben	droro_kern/Arnim_Achim_von_Hollins_Liebeleben.txt	Romantik_Kern	1195	30327	26144	1560	5198	1972	14	381	1067
+Arnim, Ludwig Achim von	Romantik	Roman	Romane/Armut, Reichtum, Schuld und Buße der Gräfin Dolores	Literatur-Arnim,-Ludwig-Achim-von/tg1095.txt	Romantik_Kern	9070	192710	164042	8499	30686	12066	113	2100	6720
+Arnim, Ludwig Achim von	Romantik	Roman	Romane/Die Kronenwächter/Erster Band	Literatur-Arnim,-Ludwig-Achim-von/tg1173.txt	Romantik_Kern	3691	117345	99754	4488	18542	7871	83	1544	4439
+Arnim, Ludwig Achim von	Romantik	Roman	Romane/Die Kronenwächter/Zweiter Band	Literatur-Arnim,-Ludwig-Achim-von/tg1216.txt	Romantik_Kern	4061	100809	85434	3625	15149	7001	61	1400	3811
+Bernhardi, Sophie	Romantik	prose	Erzählungen/Wunderbilder und Träume/Alcandor und Angelica	Literatur-Bernhardi,-Sophie/tg82.txt	not defined	242	5811	4953	250	871	557	2	88	193
+Bernhardi, Sophie	Romantik	prose	Erzählungen/Wunderbilder und Träume/Belinde	Literatur-Bernhardi,-Sophie/tg85.txt	not defined	204	4606	3946	164	753	423	5	73	178
+Bernhardi, Sophie	Romantik	prose	Erzählungen/Wunderbilder und Träume/Das Reh	Literatur-Bernhardi,-Sophie/tg86.txt	not defined	255	5976	5135	246	949	553	7	72	251
+Bernhardi, Sophie	Romantik	prose	Erzählungen/Wunderbilder und Träume/Das Vögelchen	Literatur-Bernhardi,-Sophie/tg83.txt	not defined	200	5314	4527	175	721	464	6	78	163
+Bernhardi, Sophie	Romantik	prose	Erzählungen/Wunderbilder und Träume/Der Einsiedler und die Nonne	Literatur-Bernhardi,-Sophie/tg81.txt	not defined	233	4855	4122	177	777	441	3	67	167
+Bernhardi, Sophie	Romantik	prose	Erzählungen/Wunderbilder und Träume/Der Unglückliche	Literatur-Bernhardi,-Sophie/tg84.txt	not defined	223	5644	4830	183	761	461	5	72	209
+Bernhardi, Sophie	Romantik	prose	Erzählungen/Wunderbilder und Träume/Die Bezauberungen der Nacht	Literatur-Bernhardi,-Sophie/tg88.txt	not defined	871	9854	8036	343	1613	694	8	77	283
+Bernhardi, Sophie	Romantik	prose	Erzählungen/Wunderbilder und Träume/Die Blume der Liebe	Literatur-Bernhardi,-Sophie/tg80.txt	not defined	460	9062	7674	326	1341	845	8	121	321
+Bernhardi, Sophie	Romantik	prose	Erzählungen/Wunderbilder und Träume/Die Quelle der Liebe	Literatur-Bernhardi,-Sophie/tg78.txt	not defined	152	4569	3922	182	718	380	2	70	171
+Bernhardi, Sophie	Romantik	prose	Erzählungen/Wunderbilder und Träume/Die Stimme im Walde	Literatur-Bernhardi,-Sophie/tg79.txt	not defined	254	5344	4551	205	760	513	3	74	195
+Bernhardi, Sophie	Romantik	prose	Erzählungen/Wunderbilder und Träume/Die Waldgenossin	Literatur-Bernhardi,-Sophie/tg87.txt	not defined	177	3324	2796	144	566	270	4	35	118
+Bernhardi, Sophie	Romantik	prose	Roman/Evremont	Literatur-Bernhardi,-Sophie/tg20.txt	Romantik_E2	8364	256652	223425	11839	41473	15268	138	3180	8153
+Brentano, Clemens	Romantik	Erzählung	Erzählungen/Aus der Chronika eines fahrenden Schülers	Literatur-Brentano,-Clemens/tg542.txt	not defined	642	16215	13776	610	2384	1011	8	199	630
+Brentano, Clemens	Romantik	Erzählung	Erzählungen/Die drei Nüsse	Literatur-Brentano,-Clemens/tg549.txt	not defined	227	4838	4102	167	740	339	2	71	167
+Brentano, Clemens	Romantik	Erzählung	Erzählungen/Die mehreren Wehmüller und ungarischen Nationalgesichter/Baciochis Erzählung vom wilden Jäger	Literatur-Brentano,-Clemens/tg548.txt	not defined	523	11559	9744	427	1772	897	11	176	353
+Brentano, Clemens	Romantik	Erzählung	Erzählungen/Die mehreren Wehmüller und ungarischen Nationalgesichter/Das Pickenick des Katers Mores	Literatur-Brentano,-Clemens/tg546.txt	not defined	130	3647	3167	151	614	237	1	79	165
+Brentano, Clemens	Romantik	Erzählung	Erzählungen/Die mehreren Wehmüller und ungarischen Nationalgesichter/Devilliers Erzählung von den Hexen auf dem Austerfelsen	Literatur-Brentano,-Clemens/tg547.txt	not defined	28	866	754	38	143	60	0	11	45
+Brentano, Clemens	Romantik	Erzählung	Erzählungen/Geschichte vom braven Kasperl und dem schönen Annerl	Literatur-Brentano,-Clemens/tg550.txt	not defined	732	14532	12237	438	2192	980	10	211	501
+Brentano, Clemens	Romantik	Märchen	Märchen-Sammlung/Italienische Märchen/Das Märchen von dem Baron von Hüpfenstich	Literatur-Brentano,-Clemens/tg569.txt	not defined	587	9459	7796	272	1478	740	3	127	255
+Brentano, Clemens	Romantik	Märchen	Märchen-Sammlung/Italienische Märchen/Das Märchen von dem Dilldapp	Literatur-Brentano,-Clemens/tg570.txt	not defined	408	6876	5621	190	1011	535	2	98	168
+Brentano, Clemens	Romantik	Märchen	Märchen-Sammlung/Italienische Märchen/Das Märchen von dem Myrtenfräulein	Literatur-Brentano,-Clemens/tg566.txt	not defined	204	4688	4061	195	771	318	2	79	154
+Brentano, Clemens	Romantik	Märchen	Märchen-Sammlung/Italienische Märchen/Das Märchen von dem Schulmeister Klopfstock und seinen fünf Söhnen	Literatur-Brentano,-Clemens/tg572.txt	not defined	890	16847	14286	564	2496	1317	6	239	527
+Brentano, Clemens	Romantik	Märchen	Märchen-Sammlung/Italienische Märchen/Das Märchen von dem Witzenspitzel	Literatur-Brentano,-Clemens/tg567.txt	not defined	115	3010	2608	74	510	230	1	51	78
+Brentano, Clemens	Romantik	Märchen	Märchen-Sammlung/Italienische Märchen/Das Märchen von den Märchen oder Liebseelchen	Literatur-Brentano,-Clemens/tg565.txt	not defined	303	6564	5618	274	1140	493	6	102	210
+Brentano, Clemens	Romantik	Märchen	Märchen-Sammlung/Italienische Märchen/Das Märchen von Fanferlieschen Schönefüßchen	Literatur-Brentano,-Clemens/tg571.txt	not defined	1093	20899	17601	678	3045	1638	4	314	635
+Brentano, Clemens	Romantik	Märchen	Märchen-Sammlung/Italienische Märchen/Das Märchen von Gockel und Hinkel	Literatur-Brentano,-Clemens/tg573.txt	not defined	1434	31444	26581	1311	4779	2067	9	449	942
+Brentano, Clemens	Romantik	Märchen	Märchen-Sammlung/Italienische Märchen/Das Märchen von Komanditchen	Literatur-Brentano,-Clemens/tg574.txt	not defined	680	13205	11059	469	2251	920	6	194	372
+Brentano, Clemens	Romantik	Märchen	Märchen-Sammlung/Italienische Märchen/Das Märchen von Rosenblättchen	Literatur-Brentano,-Clemens/tg568.txt	not defined	176	3954	3370	145	603	298	2	66	129
+Brentano, Clemens	Romantik	Märchen	Märchen-Sammlung/Italienische Märchen/Das Märchen von Schnürlieschen	Literatur-Brentano,-Clemens/tg575.txt	not defined	255	4953	4192	203	746	318	4	65	132
+Brentano, Clemens	Romantik	Märchen	Märchen-Sammlung/Rheinmärchen/Das Märchen vom Murmeltier	Literatur-Brentano,-Clemens/tg562.txt	not defined	763	13817	11443	458	2013	1124	10	195	394
+Brentano, Clemens	Romantik	Märchen	Märchen-Sammlung/Rheinmärchen/Das Märchen vom Schneider Siebentot auf einen Schlag	Literatur-Brentano,-Clemens/tg563.txt	not defined	583	11137	9554	357	1699	844	8	204	362
+Brentano, Clemens	Romantik	Märchen	Märchen-Sammlung/Rheinmärchen/Das Märchen von dem Hause Starenberg und den Ahnen des Müllers Radlauf	Literatur-Brentano,-Clemens/tg561.txt	not defined	2251	44682	38201	1783	7345	3293	18	590	1480
+Brentano, Clemens	Romantik	Märchen	Märchen-Sammlung/Rheinmärchen/Das Märchen von dem Rhein und dem Müller Radlauf	Literatur-Brentano,-Clemens/tg560.txt	not defined	1714	34794	29683	1400	5482	2463	18	501	1103
+Brentano, Clemens	Romantik	Roman	Roman/Godwi oder Das steinerne Bild der Mutter	Literatur-Brentano,-Clemens/tg454.txt	Romantik_Kern	6696	156838	132065	6435	23216	9854	67	1819	4724
+Chamisso, Adelbert von	Romantik	Erzählung	Erzählungen/Adelberts Fabel	Literatur-Chamisso,-Adelbert-von/tg311.txt	not defined	107	2577	2185	124	399	206	0	36	110
+Chamisso, Adelbert von	Romantik	Erzählung	Erzählungen/Peter Schlemihls wundersame Geschichte	Literatur-Chamisso,-Adelbert-von/tg312.txt	not defined	1212	25674	21290	1106	3562	1670	13	364	843
+Droste-Hülshoff, Annette von	Romantik	prose	Erzählungen/Bei uns zulande auf dem Lande	Literatur-Droste-Huelshoff,-Annette-von/tg262.txt	not defined	361	11949	10212	712	1926	627	1	124	393
+Droste-Hülshoff, Annette von	Romantik	prose	Erzählungen/Die Judenbuche	Literatur-Droste-Huelshoff,-Annette-von/tg257.txt	not defined	1277	20118	16170	753	2982	1321	5	267	599
+Droste-Hülshoff, Annette von	Romantik	prose	Erzählungen/Ledwina	Literatur-Droste-Huelshoff,-Annette-von/tg256.txt	not defined	1057	22682	18424	1016	2838	1583	11	260	586
+Droste-Hülshoff, Annette von	Romantik	prose	Erzählungen/Westfälische Schilderungen	Literatur-Droste-Huelshoff,-Annette-von/tg258.txt	not defined	304	13461	11298	920	2571	560	1	143	447
+Ebner-Eschenbach, Marie von	Realismus	prose	Erzählungen/Agave	Literatur-Ebner-Eschenbach,-Marie-von/tg126.txt	not defined	3242	51682	42214	2086	7477	3680	31	576	1663
+Ebner-Eschenbach, Marie von	Realismus	prose	Erzählungen/Das Schädliche	Literatur-Ebner-Eschenbach,-Marie-von/tg123.txt	not defined	1601	24304	19997	951	3328	1722	12	275	735
+Ebner-Eschenbach, Marie von	Realismus	prose	Erzählungen/Der gute Mond	Literatur-Ebner-Eschenbach,-Marie-von/tg120.txt	not defined	573	10653	8725	380	1443	658	6	105	320
+Ebner-Eschenbach, Marie von	Realismus	prose	Erzählungen/Der Herr Hofrat	Literatur-Ebner-Eschenbach,-Marie-von/tg132.txt	not defined	1144	17777	14422	829	2625	1190	7	181	526
+Ebner-Eschenbach, Marie von	Realismus	prose	Erzählungen/Der Kreisphysikus	Literatur-Ebner-Eschenbach,-Marie-von/tg114.txt	not defined	1542	25850	21147	1158	4341	1701	17	305	847
+Ebner-Eschenbach, Marie von	Realismus	prose	Erzählungen/Der Vorzugsschüler	Literatur-Ebner-Eschenbach,-Marie-von/tg125.txt	not defined	1020	15647	12856	599	2290	1080	15	201	441
+Ebner-Eschenbach, Marie von	Realismus	prose	Erzählungen/Die Freiherren von Gemperlein	Literatur-Ebner-Eschenbach,-Marie-von/tg104.txt	not defined	1037	18258	14730	808	2733	1333	13	240	597
+Ebner-Eschenbach, Marie von	Realismus	prose	Erzählungen/Die Poesie des Unbewussten	Literatur-Ebner-Eschenbach,-Marie-von/tg112.txt	not defined	321	4524	3595	150	500	281	1	28	101
+Ebner-Eschenbach, Marie von	Realismus	prose	Erzählungen/Ein Spätgeborner	Literatur-Ebner-Eschenbach,-Marie-von/tg95.txt	not defined	1216	19388	15745	826	2943	1424	13	240	650
+Ebner-Eschenbach, Marie von	Realismus	prose	Erzählungen/Er laßt die Hand küssen	Literatur-Ebner-Eschenbach,-Marie-von/tg121.txt	not defined	336	7343	6113	320	1235	526	3	77	245
+Ebner-Eschenbach, Marie von	Realismus	prose	Erzählungen/Ihr Traum	Literatur-Ebner-Eschenbach,-Marie-von/tg122.txt	not defined	699	11779	9525	502	1706	818	8	125	383
+Ebner-Eschenbach, Marie von	Realismus	prose	Erzählungen/Krambambuli	Literatur-Ebner-Eschenbach,-Marie-von/tg113.txt	not defined	232	4572	3810	186	745	336	3	66	177
+Ebner-Eschenbach, Marie von	Realismus	prose	Erzählungen/Maslans Frau	Literatur-Ebner-Eschenbach,-Marie-von/tg124.txt	not defined	940	14195	11456	527	2002	863	14	154	368
+Ebner-Eschenbach, Marie von	Realismus	prose	Erzählungen/Nach dem Tode	Literatur-Ebner-Eschenbach,-Marie-von/tg111.txt	not defined	1769	29918	24314	1387	4297	2166	17	364	963
+Ebner-Eschenbach, Marie von	Realismus	prose	Romane/Bozena	Literatur-Ebner-Eschenbach,-Marie-von/tg4.txt	not defined	4419	76600	62663	3243	11469	5614	42	1006	2463
+Ebner-Eschenbach, Marie von	Realismus	prose	Romane/Das Gemeindekind	Literatur-Ebner-Eschenbach,-Marie-von/tg51.txt	not defined	4472	78399	63848	2902	11132	5875	37	1021	2585
+Ebner-Eschenbach, Marie von	Realismus	prose	Romane/Ein kleiner Roman	Literatur-Ebner-Eschenbach,-Marie-von/tg40.txt	not defined	1617	30981	26364	1217	4459	2300	20	416	1074
+Ebner-Eschenbach, Marie von	Realismus	prose	Romane/Lotti, die Uhrmacherin	Literatur-Ebner-Eschenbach,-Marie-von/tg25.txt	not defined	2432	41538	33518	1806	5498	2781	30	463	1222
+Ebner-Eschenbach, Marie von	Realismus	prose	Romane/Unsühnbar	Literatur-Ebner-Eschenbach,-Marie-von/tg72.txt	not defined	4344	71418	57950	3125	10299	5017	35	827	2316
+Eichendorff, Joseph von	not defined	Roman	Dichter und ihre Gesellen	droro_kern/Eichendorff_Joseph_von_Dichter_und_Gesellen.txt	Romantik_Kern	3695	90299	75616	4925	14083	6474	50	1392	3433
+Eichendorff, Joseph von	Romantik	Erzählung	Erzählungen/Auch ich war in Arkadien	Literatur-Eichendorff,-Joseph-von/tg596.txt	not defined	296	7027	6004	378	1129	495	5	113	289
+Eichendorff, Joseph von	Romantik	Erzählung	Erzählungen/Aus dem Leben eines Taugenichts	Literatur-Eichendorff,-Joseph-von/tg584.txt	not defined	1481	36545	31125	1720	5057	2761	31	586	1450
+Eichendorff, Joseph von	Romantik	Erzählung	Erzählungen/Das Marmorbild	Literatur-Eichendorff,-Joseph-von/tg583.txt	not defined	704	14268	12213	958	2187	1009	7	211	547
+Eichendorff, Joseph von	Romantik	Erzählung	Erzählungen/Das Schloß Dürande	Literatur-Eichendorff,-Joseph-von/tg597.txt	not defined	751	16293	13626	717	2520	1288	18	265	641
+Eichendorff, Joseph von	Romantik	Erzählung	Erzählungen/Die Glücksritter	Literatur-Eichendorff,-Joseph-von/tg598.txt	not defined	581	17119	14351	738	2848	1279	17	261	657
+Eichendorff, Joseph von	Romantik	Erzählung	Erzählungen/Die Zauberei im Herbste	Literatur-Eichendorff,-Joseph-von/tg582.txt	not defined	271	5761	4981	339	922	453	6	79	245
+Eichendorff, Joseph von	Romantik	Erzählung	Erzählungen/Viel Lärmen um Nichts	Literatur-Eichendorff,-Joseph-von/tg595.txt	not defined	1152	25875	21608	1666	4133	1736	7	384	979
+Eichendorff, Joseph von	Romantik	Roman	Romane/Ahnung und Gegenwart	Literatur-Eichendorff,-Joseph-von/tg553.txt	Romantik_Kern	5336	113774	97049	6255	17227	8098	70	1827	4333
+Fischer, Caroline Auguste	not defined	Roman	Der Günstling	droro_e2/Fischer_Caroline_Auguste_Der_Guenstling.txt	Romantik_E2	1777	20817	16606	721	2512	1334	16	206	517
+Fischer, Caroline Auguste	not defined	Roman	Die Honigmonathe	droro_e2/Fischer_Caroline_Auguste_Die_Honigmonathe.txt	Romantik_E2	3779	41744	34196	1498	4998	2332	46	451	867
+Fischer, Caroline Auguste	not defined	Roman	Gustavs Verirrungen	droro_e2/Fischer_Caroline_Auguste_Gustavs_Verirrungen.txt	Romantik_E2	2010	25092	19951	933	2899	1699	20	275	602
+Fischer, Caroline Auguste	not defined	Roman	Margarethe	droro_e2/Fischer_Caroline_Auguste_Margarethe.txt	Romantik_E2	3188	46276	37974	1385	5271	3042	50	435	1009
+Fischer, Caroline Auguste	not defined	Roman	Vierzehn Tage in Paris	droro_e2/Fischer_Caroline_Auguste_Vierzehn_Tage_in_Paris.txt	Romantik_E2	1279	17079	13533	648	2177	954	15	196	374
+Fontane, Theodor	Realismus	Erzählung	Erzählungen/Ellernklipp	Literatur-Fontane,-Theodor/tg725.txt	not defined	2701	46320	38586	1238	5736	3028	35	532	1107
+Fontane, Theodor	Realismus	Erzählung	Erzählungen/Grete Minde	Literatur-Fontane,-Theodor/tg704.txt	not defined	2563	39669	32528	1185	4870	2791	27	455	986
+Fontane, Theodor	Realismus	Erzählung	Erzählungen/Mathilde Möhring	Literatur-Fontane,-Theodor/tg787.txt	not defined	2451	40262	32817	1054	4724	2229	22	372	765
+Fontane, Theodor	Realismus	Erzählung	Erzählungen/Schach von Wuthenow	Literatur-Fontane,-Theodor/tg744.txt	not defined	2854	50326	41702	1930	7155	2908	22	545	1330
+Fontane, Theodor	Realismus	Erzählung	Erzählungen/Unterm Birnbaum	Literatur-Fontane,-Theodor/tg766.txt	not defined	2618	40207	32646	1183	5225	2304	24	399	993
+Fontane, Theodor	Realismus	prose	Romane/Cécile	Literatur-Fontane,-Theodor/tg430.txt	not defined	3868	67394	55324	2549	9515	3824	29	669	1785
+Fontane, Theodor	Realismus	prose	Romane/Der Stechlin	Literatur-Fontane,-Theodor/tg647.txt	not defined	9908	153590	124881	5024	18924	8297	76	1394	3229
+Fontane, Theodor	Realismus	prose	Romane/Die Poggenpuhls	Literatur-Fontane,-Theodor/tg631.txt	not defined	2356	39052	31730	1281	4801	2043	29	310	798
+Fontane, Theodor	Realismus	prose	Romane/Effi Briest	Literatur-Fontane,-Theodor/tg594.txt	not defined	6961	116986	95279	3625	13637	6418	69	981	2574
+Fontane, Theodor	Realismus	prose	Romane/Frau Jenny Treibel	Literatur-Fontane,-Theodor/tg577.txt	not defined	3758	72188	59242	2590	9087	3791	46	619	1632
+Fontane, Theodor	Realismus	prose	Romane/Graf Petöfy	Literatur-Fontane,-Theodor/tg394.txt	not defined	3884	71301	59377	2390	9618	4148	39	749	1915
+Fontane, Theodor	Realismus	prose	Romane/Irrungen, Wirrungen	Literatur-Fontane,-Theodor/tg460.txt	not defined	3881	63180	51495	2053	7688	3797	42	609	1345
+Fontane, Theodor	Realismus	prose	Romane/L'Adultera	Literatur-Fontane,-Theodor/tg371.txt	not defined	3315	53248	43915	1975	6619	3075	34	532	1169
+Fontane, Theodor	Realismus	prose	Romane/Quitt	Literatur-Fontane,-Theodor/tg504.txt	not defined	4510	95845	80088	3157	13182	5342	68	1047	2593
+Fontane, Theodor	Realismus	prose	Romane/Stine	Literatur-Fontane,-Theodor/tg487.txt	not defined	2083	36042	29634	1238	4525	2076	20	351	846
+Fontane, Theodor	Realismus	prose	Romane/Unwiederbringlich	Literatur-Fontane,-Theodor/tg542.txt	not defined	4560	97116	81146	3451	12774	5186	59	959	2408
+Fontane, Theodor	Realismus	prose	Romane/Vor dem Sturm	Literatur-Fontane,-Theodor/tg284.txt	not defined	15770	269000	222814	11439	41138	15975	133	3030	7584
+Fouqué, Caroline de la Motte	not defined	Roman	Der Spanier und der Freiwillige in Paris	droro_e1/Fouque_Caroline_de_la_Motte_Der_Spanier.txt	Romantik_E1	1904	40248	34423	2204	5965	2970	18	550	1225
+Fouqué, Caroline de la Motte	not defined	Roman	Die Frau des Falkensteins	droro_e1/Fouque_Caroline_de_la_Motte_Die_Frau_des_Falkensteins.txt	Romantik_E1	4008	78628	66687	4188	10961	5916	39	1188	2582
+Fouqué, Caroline de la Motte	not defined	Roman	Magie der Natur	droro_kern/Fouque_Caroline_de_la_Motte_Magie_der_Natur.txt	Romantik_Kern	2089	49533	41985	2638	7728	3384	19	791	1578
+Fouqué, Caroline de la Motte	not defined	Roman	Resignation	droro_e1/Fouque_Caroline_de_la_Motte_Resignation.txt	Romantik_E1	11020	167725	138350	6861	22087	11564	97	2024	4591
+Fouqué, Caroline de la Motte	not defined	Roman	Rodrich	droro_e1/Fouque_Caroline_de_la_Motte_Rodrich.txt	Romantik_E1	3475	77628	66383	4658	11639	5977	40	1068	2681
+Fouqué, Friedrich de la Motte	Romantik	Erzählung	Erzählungen/Eine Geschichte vom Galgenmännlein	Literatur-Fouque,-Friedrich-de-la-Motte/tg38.txt	not defined	501	11754	9982	638	1622	747	4	178	370
+Fouqué, Friedrich de la Motte	Romantik	Erzählung	Erzählungen/Undine	Literatur-Fouque,-Friedrich-de-la-Motte/tg39.txt	not defined	1399	31372	26614	1579	4246	2091	18	450	1034
+Fouqué, Friedrich de la Motte (Pellegrin)	not defined	Roman	Alwin	droro_e1/Fouque_Friedrich_de_la_Motte_Alwin.txt	Romantik_E1	4803	86911	73185	4552	12706	6055	57	1121	2777
+Fouqué, Friedrich de la Motte (Pellegrin)	not defined	Roman	Der Zauberring	droro_e1/Fouque_Friedrich_de_la_Motte_Der_Zauberring.txt	Romantik_E1	6505	154462	128433	9185	23524	9441	94	2027	5049
+Fouqué, Friedrich de la Motte (Pellegrin)	not defined	Roman	Die Fahrten Thiodolfs des Isländers I	droro_e1/Fouque_Friedrich_de_la_Motte_Fahrten_Thiodolfs_Band_I.txt	Romantik_E1	2800	62155	51108	3342	8606	3810	43	793	1912
+Fouqué, Friedrich de la Motte (Pellegrin)	not defined	Roman	Die Fahrten Thiodolfs des Isländers II	droro_e1/Fouque_Friedrich_de_la_Motte_Fahrten_Thiodolfs_Band_II.txt	Romantik_E1	2501	55522	46095	3447	8580	3504	32	796	1850
+Franzos, Karl Emil	Realismus	prose	Erzählungen/Die Juden von Barnow/»Baron Schmule«	Literatur-Franzos,-Karl-Emil/tg53.txt	not defined	200	3564	3012	131	514	253	1	38	128
+Franzos, Karl Emil	Realismus	prose	Erzählungen/Die Juden von Barnow/Das »Kind der Sühne«	Literatur-Franzos,-Karl-Emil/tg51.txt	not defined	523	7880	6413	340	1221	582	3	95	185
+Franzos, Karl Emil	Realismus	prose	Erzählungen/Die Juden von Barnow/Das Christusbild	Literatur-Franzos,-Karl-Emil/tg54.txt	not defined	583	9015	7430	439	1278	591	5	94	241
+Franzos, Karl Emil	Realismus	prose	Erzählungen/Die Juden von Barnow/Der Shylock von Barnow	Literatur-Franzos,-Karl-Emil/tg47.txt	not defined	773	12874	10757	583	1944	824	4	140	332
+Franzos, Karl Emil	Realismus	prose	Erzählungen/Die Juden von Barnow/Der wilde Starost und die schöne Jütta	Literatur-Franzos,-Karl-Emil/tg50.txt	not defined	419	8553	7235	364	1313	517	1	105	229
+Franzos, Karl Emil	Realismus	prose	Erzählungen/Die Juden von Barnow/Esterka Regina	Literatur-Franzos,-Karl-Emil/tg52.txt	not defined	839	13505	11123	494	1591	884	10	116	305
+Franzos, Karl Emil	Realismus	prose	Erzählungen/Die Juden von Barnow/Nach dem höheren Gesetz	Literatur-Franzos,-Karl-Emil/tg48.txt	not defined	879	14300	11827	565	1989	905	0	174	366
+Franzos, Karl Emil	Realismus	prose	Erzählungen/Die Juden von Barnow/Ohne Inschrift	Literatur-Franzos,-Karl-Emil/tg55.txt	not defined	521	9149	7756	461	1402	530	2	88	242
+Franzos, Karl Emil	Realismus	prose	Erzählungen/Die Juden von Barnow/Zwei Retter	Literatur-Franzos,-Karl-Emil/tg49.txt	not defined	252	4919	4155	174	751	292	1	59	123
+Franzos, Karl Emil	Realismus	prose	Erzählungen/Leib Weihnachtskuchen und sein Kind	Literatur-Franzos,-Karl-Emil/tg56.txt	not defined	5430	74701	59173	1855	9055	5152	25	755	1506
+Franzos, Karl Emil	Realismus	prose	Roman/Der Pojaz	Literatur-Franzos,-Karl-Emil/tg4.txt	not defined	11992	174638	138870	5094	23305	11472	58	1634	3818
+Freytag, Gustav	Realismus	prose	Romane/Die Ahnen	Literatur-Freytag,-Gustav/tg134.txt	not defined	33958	715407	598811	26655	123373	54159	236	10987	26614
+Freytag, Gustav	Realismus	prose	Romane/Die verlorene Handschrift	Literatur-Freytag,-Gustav/tg84.txt	not defined	15792	307566	255841	12699	51954	21108	111	4776	9897
+Freytag, Gustav	Realismus	prose	Romane/Soll und Haben	Literatur-Freytag,-Gustav/tg31.txt	not defined	17471	344741	286467	13920	55806	23108	95	5511	11752
+Goethe, Johann Wolfgang	not defined	Roman	Aus meinem Leben. Dichtung und Wahrheit	droro_e2/Goethe_Johann_Wolfgang_Aus_meinem_Leben_Dichtung_und_Wahrheit.txt	Romantik_E2	10798	287813	247532	16124	43484	14689	145	4132	9236
+Goethe, Johann Wolfgang	Klassik	Erzählung	Erzählungen/Briefe aus der Schweiz. Erste Abteilung	Literatur-Goethe,-Johann-Wolfgang-001/tg1651.txt	not defined	270	5691	4795	263	823	348	4	72	153
+Goethe, Johann Wolfgang	Klassik	Erzählung	Erzählungen/Novelle	Literatur-Goethe,-Johann-Wolfgang-001/tg1652.txt	not defined	377	8455	7092	440	1369	532	4	103	271
+Goethe, Johann Wolfgang	Klassik	Erzählung	Erzählungen/Unterhaltungen deutscher Ausgewanderten	Literatur-Goethe,-Johann-Wolfgang-001/tg1643.txt	not defined	1636	36520	31218	1627	5427	2347	13	541	1219
+Goethe, Johann Wolfgang	Klassik	Roman	Romane/Die Leiden des jungen Werther	Literatur-Goethe,-Johann-Wolfgang-001/tg1446.txt	not defined	2530	48023	39558	1749	6657	3053	33	546	1400
+Goethe, Johann Wolfgang	Klassik	Roman	Romane/Die Wahlverwandtschaften	Literatur-Goethe,-Johann-Wolfgang-001/tg1450.txt	Romantik_E2	4574	93575	79023	3932	12624	5553	48	1365	2753
+Goethe, Johann Wolfgang	Klassik	Roman	Romane/Wilhelm Meisters Lehrjahre	Literatur-Goethe,-Johann-Wolfgang-001/tg1534.txt	Romantik_E2	10453	229328	193985	9526	32364	14321	103	3002	7050
+Goethe, Johann Wolfgang	Klassik	Roman	Romane/Wilhelm Meisters Wanderjahre	Literatur-Goethe,-Johann-Wolfgang-001/tg1489.txt	Romantik_E2	7732	173850	147154	8404	25494	10145	84	2287	5190
+Günderode, Karoline von	Romantik	prose	Prosa/Geschichte eines Braminen	Literatur-Guenderode,-Karoline-von/tg100.txt	not defined	180	4310	3698	212	770	244	5	61	151
+Günderode, Karoline von	Romantik	prose	Prosa/Prosa aus dem Nachlaß/[Allerley Gedanken]	Literatur-Guenderode,-Karoline-von/tg108.txt	not defined	37	874	765	32	127	47	0	11	25
+Hahn-Hahn, Ida Gräfin von	not defined	Roman	Gräfin Faustine	droro_e2/Hahn_Hahn_Ida_Graefin_Faustine.txt	Romantik_E2	5619	97068	78034	3561	13352	6055	53	1094	2400
+Hahn-Hahn, Ida Gräfin von	not defined	Roman	Sibylle	droro_e2/Hahn_Hahn_Ida_Sibylle.txt	Romantik_E2	7727	131377	111327	5605	19440	8208	94	1759	4090
+Haller, Albrecht von	Klassik	prose	Roman/Usong	Literatur-Haller,-Albrecht-von/tg52.txt	not defined	2920	65508	56545	3577	12487	3632	30	827	2094
+Hauff, Wilhelm	Romantik	Erzählung	Erzählungen/Das Bild des Kaisers	Literatur-Hauff,-Wilhelm/tg142.txt	not defined	1577	37030	30582	1761	5361	2320	13	498	1039
+Hauff, Wilhelm	Romantik	Erzählung	Erzählungen/Die Bettlerin vom Pont des Arts	Literatur-Hauff,-Wilhelm/tg104.txt	not defined	2084	43775	36598	1687	5968	3008	19	579	1227
+Hauff, Wilhelm	Romantik	Erzählung	Erzählungen/Jud Süss	Literatur-Hauff,-Wilhelm/tg88.txt	not defined	1401	29115	23727	1201	4286	1871	14	337	775
+Hauff, Wilhelm	Romantik	Erzählung	Erzählungen/Phantasien im Bremer Ratskeller	Literatur-Hauff,-Wilhelm/tg87.txt	not defined	996	20339	16848	935	3108	1436	13	241	600
+Hauff, Wilhelm	not defined	Roman	Mann im Mond	droro_e1/Hauff_Wilhelm_Mann_im_Mond.txt	Romantik_E1	3704	95486	80282	4466	14133	5486	46	1168	2667
+Hauff, Wilhelm	Romantik	Märchen	Märchen/Märchen-Almanach auf das Jahr 1826/Die Karawane/Das Märchen vom falschen Prinzen	Literatur-Hauff,-Wilhelm/tg164.txt	not defined	369	9557	8006	390	1494	620	5	146	340
+Hauff, Wilhelm	Romantik	Märchen	Märchen/Märchen-Almanach auf das Jahr 1826/Die Karawane/Die Errettung Fatmes	Literatur-Hauff,-Wilhelm/tg162.txt	not defined	306	7588	6400	255	1105	557	8	118	248
+Hauff, Wilhelm	Romantik	Märchen	Märchen/Märchen-Almanach auf das Jahr 1826/Die Karawane/Die Geschichte von dem Gespensterschiff	Literatur-Hauff,-Wilhelm/tg160.txt	not defined	231	4687	3980	144	699	341	2	80	170
+Hauff, Wilhelm	Romantik	Märchen	Märchen/Märchen-Almanach auf das Jahr 1826/Die Karawane/Die Geschichte von dem kleinen Muck	Literatur-Hauff,-Wilhelm/tg163.txt	not defined	287	7598	6539	323	1180	533	4	120	232
+Hauff, Wilhelm	Romantik	Märchen	Märchen/Märchen-Almanach auf das Jahr 1826/Die Karawane/Die Geschichte von der abgehauenen Hand	Literatur-Hauff,-Wilhelm/tg161.txt	not defined	334	7152	5965	212	1004	490	5	104	216
+Hauff, Wilhelm	Romantik	Märchen	Märchen/Märchen-Almanach auf das Jahr 1826/Die Karawane/Die Geschichte von Kalif Storch	Literatur-Hauff,-Wilhelm/tg159.txt	not defined	253	4672	3873	162	697	337	1	51	160
+Hauff, Wilhelm	Romantik	Märchen	Märchen/Märchen-Almanach auf das Jahr 1826/Märchen als Almanach	Literatur-Hauff,-Wilhelm/tg157.txt	not defined	106	1993	1574	86	289	153	4	19	58
+Hauff, Wilhelm	Romantik	Märchen	Märchen/Märchen-Almanach auf das Jahr 1827/Der Scheik von Alessandria und seine Sklaven/Abner, der Jude, der nichts gesehen hat	Literatur-Hauff,-Wilhelm/tg168.txt	not defined	271	6175	5063	258	949	335	2	56	149
+Hauff, Wilhelm	Romantik	Märchen	Märchen/Märchen-Almanach auf das Jahr 1827/Der Scheik von Alessandria und seine Sklaven/Der Affe als Mensch	Literatur-Hauff,-Wilhelm/tg169.txt	not defined	470	10716	8979	505	1643	712	3	155	298
+Hauff, Wilhelm	Romantik	Märchen	Märchen/Märchen-Almanach auf das Jahr 1827/Der Scheik von Alessandria und seine Sklaven/Der Zwerg Nase	Literatur-Hauff,-Wilhelm/tg167.txt	not defined	635	13425	11097	436	1964	949	6	184	412
+Hauff, Wilhelm	Romantik	Märchen	Märchen/Märchen-Almanach auf das Jahr 1827/Der Scheik von Alessandria und seine Sklaven/Die Geschichte Almansors	Literatur-Hauff,-Wilhelm/tg170.txt	not defined	289	5904	4911	184	889	411	4	75	184
+Hauff, Wilhelm	Romantik	Märchen	Märchen/Märchen-Almanach auf das Jahr 1828/Das Wirtshaus im Spessart/Das kalte Herz. Erste Abteilung	Literatur-Hauff,-Wilhelm/tg174.txt	not defined	479	11000	9207	439	1580	749	2	122	342
+Hauff, Wilhelm	Romantik	Märchen	Märchen/Märchen-Almanach auf das Jahr 1828/Das Wirtshaus im Spessart/Das kalte Herz. Zweite Abteilung	Literatur-Hauff,-Wilhelm/tg177.txt	not defined	566	11932	9786	371	1572	847	7	149	292
+Hauff, Wilhelm	Romantik	Märchen	Märchen/Märchen-Almanach auf das Jahr 1828/Das Wirtshaus im Spessart/Die Höhle von Steenfoll	Literatur-Hauff,-Wilhelm/tg176.txt	not defined	494	11497	9690	487	1768	774	5	172	411
+Hauff, Wilhelm	Romantik	Märchen	Märchen/Märchen-Almanach auf das Jahr 1828/Das Wirtshaus im Spessart/Die Sage vom Hirschgulden	Literatur-Hauff,-Wilhelm/tg173.txt	not defined	381	9194	7649	305	1344	661	5	109	272
+Hauff, Wilhelm	Romantik	Märchen	Märchen/Märchen-Almanach auf das Jahr 1828/Das Wirtshaus im Spessart/Saids Schicksale	Literatur-Hauff,-Wilhelm/tg175.txt	not defined	763	18025	14948	637	2554	1225	7	273	528
+Hauff, Wilhelm	Romantik	Roman	Romane/Lichtenstein	Literatur-Hauff,-Wilhelm/tg4.txt	Romantik_Kern	7503	151344	126224	6512	23010	9604	63	1952	4602
+Hauff, Wilhelm	Romantik	Roman	Romane/Mitteilungen aus den Memoiren des Satan	Literatur-Hauff,-Wilhelm/tg45.txt	Romantik_E1	5145	108246	90036	5031	16327	6588	38	1356	3129
+Heine, Heinrich	not defined	Roman	Aus den Memoiren des Herren von Schnabelewopski	droro_e1/Heine_Heinrich_aus_den_Memoiren.txt	Romantik_E1	952	19222	16316	1137	3235	1202	15	210	615
+Heine, Heinrich	not defined	Roman	Der Rabbi von Bacherach	droro_e1/Heine_Heinrich_Rabbi_von_Bacherach.txt	Romantik_E1	558	15717	13394	1034	2757	961	11	153	541
+Heyse, Paul	Realismus	prose	Erzählungen/Andrea Delfin	Literatur-Heyse,-Paul/tg565.txt	not defined	1692	32968	28408	1306	5205	2205	17	519	1146
+Heyse, Paul	Realismus	prose	Erzählungen/L' Arrabbiata	Literatur-Heyse,-Paul/tg564.txt	not defined	537	8175	6917	211	1015	630	4	120	215
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Dritter Band/Fünfter Abschnitt/[Nachricht aus dem Leben eines bekannten Mannes]	Literatur-Hoffmann,-E.-T.-A./tg121.txt	not defined	142	4912	4178	346	773	286	5	59	152
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Dritter Band/Fünfter Abschnitt/Der unheimliche Gast	Literatur-Hoffmann,-E.-T.-A./tg129.txt	not defined	780	19068	15574	1026	2828	1329	11	271	690
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Dritter Band/Fünfter Abschnitt/Die Brautwahl	Literatur-Hoffmann,-E.-T.-A./tg122.txt	not defined	1035	29306	23994	1668	4352	1770	14	368	916
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Dritter Band/Sechster Abschnitt/[Der Baron von B.]	Literatur-Hoffmann,-E.-T.-A./tg133.txt	not defined	185	4806	4012	240	726	305	6	53	154
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Dritter Band/Sechster Abschnitt/Das Fräulein von Scuderi	Literatur-Hoffmann,-E.-T.-A./tg131.txt	not defined	1186	29440	24294	1357	4472	1894	15	427	1003
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Dritter Band/Sechster Abschnitt/Spielerglück	Literatur-Hoffmann,-E.-T.-A./tg132.txt	not defined	485	14169	11883	732	2255	950	6	186	471
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Erster Band/Erster Abschnitt/[Der Einsiedler Serapion]	Literatur-Hoffmann,-E.-T.-A./tg99.txt	not defined	201	6168	5214	351	955	426	6	85	221
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Erster Band/Erster Abschnitt/[Rat Krespel]	Literatur-Hoffmann,-E.-T.-A./tg100.txt	not defined	357	10058	8586	538	1513	707	9	144	353
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Erster Band/Erster Abschnitt/[Serapion und das serapiontische Prinzip]	Literatur-Hoffmann,-E.-T.-A./tg101.txt	not defined	71	2154	1767	122	298	122	1	28	62
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Erster Band/Erster Abschnitt/Der Dichter und der Komponist	Literatur-Hoffmann,-E.-T.-A./tg103.txt	not defined	396	9694	8144	621	1595	501	3	116	308
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Erster Band/Erster Abschnitt/Die Fermate	Literatur-Hoffmann,-E.-T.-A./tg102.txt	not defined	359	8681	7298	462	1228	579	8	127	269
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Erster Band/Zweiter Abschnitt/Der Artushof	Literatur-Hoffmann,-E.-T.-A./tg106.txt	not defined	518	12253	10030	692	1734	774	4	150	405
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Erster Band/Zweiter Abschnitt/Die Bergwerke zu Falun	Literatur-Hoffmann,-E.-T.-A./tg107.txt	not defined	443	11724	9843	723	1771	747	14	153	450
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Erster Band/Zweiter Abschnitt/Ein Fragment aus dem Leben dreier Freunde	Literatur-Hoffmann,-E.-T.-A./tg105.txt	not defined	658	18861	15520	1056	2645	1296	13	257	541
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Erster Band/Zweiter Abschnitt/Nußknacker und Mausekönig	Literatur-Hoffmann,-E.-T.-A./tg108.txt	not defined	838	24512	20476	1267	3619	1592	14	240	712
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Vierter Band/Achter Abschnitt/[Die ästhetische Teegesellschaft]	Literatur-Hoffmann,-E.-T.-A./tg142.txt	not defined	32	919	762	58	144	59	1	12	20
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Vierter Band/Achter Abschnitt/[Vampirismus]	Literatur-Hoffmann,-E.-T.-A./tg141.txt	not defined	181	5755	4921	355	980	360	4	101	204
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Vierter Band/Achter Abschnitt/Der Zusammenhang der Dinge	Literatur-Hoffmann,-E.-T.-A./tg140.txt	not defined	893	23779	19728	1316	3507	1601	14	307	768
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Vierter Band/Achter Abschnitt/Die Königsbraut	Literatur-Hoffmann,-E.-T.-A./tg143.txt	not defined	830	21998	18592	1335	3558	1215	7	255	629
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Vierter Band/Siebenter Abschnitt/[Zacharias Werner]	Literatur-Hoffmann,-E.-T.-A./tg137.txt	not defined	172	6040	4993	386	939	299	4	65	166
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Vierter Band/Siebenter Abschnitt/Erscheinungen	Literatur-Hoffmann,-E.-T.-A./tg138.txt	not defined	179	5458	4516	294	791	347	2	67	183
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Vierter Band/Siebenter Abschnitt/Signor Formica	Literatur-Hoffmann,-E.-T.-A./tg136.txt	not defined	1330	36926	30244	1901	5319	2249	27	465	1178
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Zweiter Band/Dritter Abschnitt/[Eine Spukgeschichte]	Literatur-Hoffmann,-E.-T.-A./tg112.txt	not defined	106	3093	2573	187	461	218	3	33	104
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Zweiter Band/Dritter Abschnitt/Der Kampf der Sänger	Literatur-Hoffmann,-E.-T.-A./tg111.txt	not defined	797	20463	17378	1313	3115	1261	7	260	738
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Zweiter Band/Dritter Abschnitt/Die Automate	Literatur-Hoffmann,-E.-T.-A./tg113.txt	not defined	307	11363	9751	746	1812	620	3	158	379
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Zweiter Band/Dritter Abschnitt/Doge und Dogaresse	Literatur-Hoffmann,-E.-T.-A./tg114.txt	not defined	758	20962	17312	1293	3174	1397	11	276	763
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Zweiter Band/Vierter Abschnitt/[Alte und neue Kirchenmusik]	Literatur-Hoffmann,-E.-T.-A./tg116.txt	not defined	124	4122	3504	323	755	178	1	38	140
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Zweiter Band/Vierter Abschnitt/Das fremde Kind	Literatur-Hoffmann,-E.-T.-A./tg118.txt	not defined	692	18469	15176	911	2518	1243	15	212	549
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Die Serapionsbrüder/Zweiter Band/Vierter Abschnitt/Meister Martin der Küfner und seine Gesellen	Literatur-Hoffmann,-E.-T.-A./tg117.txt	not defined	991	26013	21458	1373	3620	1632	13	308	782
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Fantasiestücke in Callots Manier	Literatur-Hoffmann,-E.-T.-A./tg27.txt	not defined	5550	139770	116592	8345	21620	7990	83	1754	4411
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Klein Zaches	Literatur-Hoffmann,-E.-T.-A./tg84.txt	not defined	1692	41949	34263	2364	6664	2741	18	579	1291
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Letzte Erzählungen/Datura fastuosa	Literatur-Hoffmann,-E.-T.-A./tg196.txt	not defined	863	22233	18241	1207	3349	1342	14	274	691
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Letzte Erzählungen/Der Elementargeist	Literatur-Hoffmann,-E.-T.-A./tg185.txt	not defined	660	18107	15086	1003	2657	1191	8	228	563
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Letzte Erzählungen/Der Feind	Literatur-Hoffmann,-E.-T.-A./tg208.txt	not defined	706	17593	14696	1088	2981	1116	6	196	601
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Letzte Erzählungen/Des Vetters Eckfenster	Literatur-Hoffmann,-E.-T.-A./tg203.txt	not defined	461	10929	9203	829	1955	646	1	147	342
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Letzte Erzählungen/Die Doppeltgänger	Literatur-Hoffmann,-E.-T.-A./tg187.txt	not defined	791	20664	17043	1233	3386	1260	11	252	680
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Letzte Erzählungen/Die Geheimnisse	Literatur-Hoffmann,-E.-T.-A./tg178.txt	not defined	596	14532	12106	786	2285	851	3	189	461
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Letzte Erzählungen/Die Genesung	Literatur-Hoffmann,-E.-T.-A./tg205.txt	not defined	135	3421	2853	219	577	225	3	49	118
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Letzte Erzählungen/Die Irrungen	Literatur-Hoffmann,-E.-T.-A./tg171.txt	not defined	635	17043	14047	936	2651	1005	5	224	593
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Letzte Erzählungen/Die Marquise de la Pivardiere	Literatur-Hoffmann,-E.-T.-A./tg170.txt	not defined	493	12945	10862	547	2029	754	0	181	388
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Letzte Erzählungen/Die Räuber	Literatur-Hoffmann,-E.-T.-A./tg186.txt	not defined	642	16596	13822	893	2530	1094	7	210	564
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Letzte Erzählungen/Haimatochare	Literatur-Hoffmann,-E.-T.-A./tg169.txt	not defined	212	4700	3911	294	708	233	2	63	141
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Letzte Erzählungen/Meister Johannes Wacht	Literatur-Hoffmann,-E.-T.-A./tg207.txt	not defined	690	18644	15858	1341	3289	976	5	237	631
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Letzte Erzählungen/Neueste Schicksale eines abenteuerlichen Mannes	Literatur-Hoffmann,-E.-T.-A./tg206.txt	not defined	61	1766	1506	133	277	85	0	21	53
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Meister Floh	Literatur-Hoffmann,-E.-T.-A./tg160.txt	not defined	2307	60538	50616	3504	9383	3457	36	790	1769
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Nachtstücke/Erster Teil/Das Sanctus	Literatur-Hoffmann,-E.-T.-A./tg75.txt	not defined	270	7415	6149	407	1229	487	0	83	254
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Nachtstücke/Erster Teil/Der Sandmann	Literatur-Hoffmann,-E.-T.-A./tg72.txt	not defined	667	14784	12217	833	2027	964	4	193	444
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Nachtstücke/Erster Teil/Die Jesuiterkirche in G.	Literatur-Hoffmann,-E.-T.-A./tg74.txt	not defined	498	11879	9833	654	1844	716	9	155	370
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Nachtstücke/Erster Teil/Ignaz Denner	Literatur-Hoffmann,-E.-T.-A./tg73.txt	not defined	949	22592	19291	1103	3527	1396	5	336	831
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Nachtstücke/Zweiter Teil/Das Gelübde	Literatur-Hoffmann,-E.-T.-A./tg79.txt	not defined	436	12404	10350	656	2002	799	4	201	471
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Nachtstücke/Zweiter Teil/Das Majorat	Literatur-Hoffmann,-E.-T.-A./tg78.txt	not defined	1216	33557	27756	1827	5086	2240	19	454	1175
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Nachtstücke/Zweiter Teil/Das öde Haus	Literatur-Hoffmann,-E.-T.-A./tg77.txt	not defined	444	13514	11402	881	2102	860	2	168	448
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Nachtstücke/Zweiter Teil/Das steinerne Herz	Literatur-Hoffmann,-E.-T.-A./tg80.txt	not defined	388	10498	8614	693	1604	667	4	129	374
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Prinzessin Brambilla	Literatur-Hoffmann,-E.-T.-A./tg150.txt	not defined	2061	52586	43085	3105	7777	3203	27	661	1536
+Hoffmann, E. T. A.	Romantik	Erzählung	Erzählungen, Märchen und Schriften/Seltsame Leiden eines Theaterdirektors	Literatur-Hoffmann,-E.-T.-A./tg81.txt	not defined	1911	41429	34415	2626	6635	2128	17	521	1181
+Hoffmann, E. T. A.	Romantik	Roman	Romane/Die Elixiere des Teufels	Literatur-Hoffmann,-E.-T.-A./tg4.txt	Romantik_Kern	4698	127924	106904	6834	19801	8183	65	1772	4276
+Hoffmann, E. T. A.	Romantik	Roman	Romane/Lebensansichten des Katers Murr	Literatur-Hoffmann,-E.-T.-A./tg15.txt	Romantik_Kern	5856	162907	133954	9087	24837	10049	77	2045	4875
+Hölderlin, Friedrich	Romantik	Roman	Roman/Fragment von Hyperion	Literatur-Hoelderlin,-Friedrich/tg323.txt	Romantik_Kern	489	8425	7014	349	1227	568	7	93	257
+Hölderlin, Friedrich	Romantik	Roman	Roman/Hyperion oder der Eremit in Griechenland	Literatur-Hoelderlin,-Friedrich/tg331.txt	Romantik_Kern	3134	57228	47824	2217	8382	3682	26	513	1658
+Hölderlin, Friedrich	Romantik	Roman	Roman/Hyperions Jugend	Literatur-Hoelderlin,-Friedrich/tg324.txt	Romantik_Kern	717	14269	11977	558	1922	992	17	148	460
+Huber, Therese	not defined	Roman	Die Familie Seldorf	droro_e1/Huber_Therese_Die_Familie_Seldorf.txt	Romantik_E1	4016	108194	92730	5912	18246	6999	58	1601	3963
+Huber, Therese	not defined	Roman	Ellen Percy	droro_e1/Huber_Therese_Ellen_Percy.txt	Romantik_E1	4172	105190	88636	4751	16702	6399	79	1495	3401
+Huber, Therese	not defined	Roman	Luise	droro_e1/Huber_Therese_Luise.txt	Romantik_E1	1882	45911	39350	1726	7490	2661	31	688	1534
+Jacobi, Friedrich Heinrich	not defined	Roman	Aus Eduard Allwills Papieren	droro_e2/Jacobi_Friedrich_Heinrich_Aus_Eduard_Allwills_Papieren.txt	Romantik_E2	1597	30013	24855	1341	4404	1517	26	317	763
+Jacobi, Friedrich Heinrich	not defined	Roman	Woldemar	droro_e2/Jacobi_Friedrich_Heinrich_Woldemar.txt	Romantik_E2	2230	35700	29067	1171	4492	2020	26	460	972
+Jean Paul	not defined	Roman	Der Komet	droro_e1/Paul_Jean_Komet.txt	Romantik_E1	5807	169279	144804	9391	28572	7523	110	2104	5372
+Jean Paul	Romantik	Roman	Romane und Erzählungen/Blumen-, Frucht- und Dornenstücke	Literatur-Jean-Paul/tg160.txt	Romantik_Kern	7716	208073	177230	11748	35201	10631	126	2898	6090
+Jean Paul	Romantik	Roman	Romane und Erzählungen/Des Feldpredigers Schmelzle Reise nach Flätz	Literatur-Jean-Paul/tg472.txt	Romantik_E1	976	26024	21964	1286	4217	1310	25	351	768
+Jean Paul	Romantik	Roman	Romane und Erzählungen/Des Luftschiffers Giannozzo Seebuch	Literatur-Jean-Paul/tg387.txt	Romantik_E1	1310	31393	26672	1697	5533	1662	17	406	934
+Jean Paul	Romantik	Roman	Romane und Erzählungen/Die unsichtbare Loge	Literatur-Jean-Paul/tg4.txt	Romantik_E1	6511	174365	149340	9683	29702	8943	152	2377	5378
+Jean Paul	Romantik	Erzählung	Romane und Erzählungen/Die wunderbare Gesellschaft in der Neujahrsnacht	Literatur-Jean-Paul/tg402.txt	not defined	199	5931	5080	374	1052	298	2	61	190
+Jean Paul	Romantik	Roman	Romane und Erzählungen/Dr. Katzenbergers Badereise	Literatur-Jean-Paul/tg483.txt	Romantik_E1	3876	98272	83326	5227	16370	4960	75	1334	2912
+Jean Paul	Romantik	Roman	Romane und Erzählungen/Flegeljahre	Literatur-Jean-Paul/tg403.txt	Romantik_Kern	8054	188303	157286	9514	31512	11178	107	2575	5356
+Jean Paul	Romantik	Roman	Romane und Erzählungen/Hesperus oder 45 Hundsposttage	Literatur-Jean-Paul/tg68.txt	Romantik_Kern	10463	290291	246676	16075	50172	15157	177	4175	8615
+Jean Paul	Romantik	Roman	Romane und Erzählungen/Leben des Quintus Fixlein	Literatur-Jean-Paul/tg132.txt	Romantik_E1	3001	89976	77176	4998	16074	4382	55	1275	2765
+Jean Paul	Romantik	Roman	Romane und Erzählungen/Titan	Literatur-Jean-Paul/tg199.txt	Romantik_E1	13148	314158	263977	18385	51713	18985	138	4412	9700
+Jean Paul	not defined	Roman	Selina oder über die Unsterblichkeit der Seele	droro_e1/Paul_Jean_Selina.txt	Romantik_E1	1695	47026	40787	3031	8990	2129	32	585	1371
+Jensen, Wilhelm	Realismus	prose	Erzählung/Gradiva	Literatur-Jensen,-Wilhelm/tg4.txt	not defined	1000	28765	25043	1662	4396	1574	12	438	1184
+Keller, Gottfried	Realismus	prose	Erzählungen/Das Sinngedicht	Literatur-Keller,-Gottfried/tg830.txt	not defined	3823	100467	87935	5386	15482	6466	51	1416	3662
+Keller, Gottfried	Realismus	prose	Erzählungen/Die Leute von Seldwyla/Erster Band/Die drei gerechten Kammacher	Literatur-Keller,-Gottfried/tg805.txt	not defined	558	16988	14827	895	2471	1086	14	216	524
+Keller, Gottfried	Realismus	prose	Erzählungen/Die Leute von Seldwyla/Erster Band/Frau Regel Amrain und ihr Jüngster	Literatur-Keller,-Gottfried/tg804.txt	not defined	577	18260	16041	1000	2646	1134	9	250	557
+Keller, Gottfried	Realismus	prose	Erzählungen/Die Leute von Seldwyla/Erster Band/Pankraz, der Schmoller	Literatur-Keller,-Gottfried/tg802.txt	not defined	559	19881	17600	1211	2768	1227	18	272	602
+Keller, Gottfried	Realismus	prose	Erzählungen/Die Leute von Seldwyla/Erster Band/Romeo und Julia auf dem Dorfe	Literatur-Keller,-Gottfried/tg803.txt	not defined	1192	30144	25617	1459	4123	2098	22	381	858
+Keller, Gottfried	Realismus	prose	Erzählungen/Die Leute von Seldwyla/Erster Band/Spiegel, das Kätzchen. Ein Märchen	Literatur-Keller,-Gottfried/tg806.txt	not defined	594	15272	13125	730	2128	993	15	163	458
+Keller, Gottfried	Realismus	prose	Erzählungen/Die Leute von Seldwyla/Zweiter Band/Das verlorne Lachen	Literatur-Keller,-Gottfried/tg812.txt	not defined	1100	32813	28923	2007	5392	1911	22	427	1135
+Keller, Gottfried	Realismus	prose	Erzählungen/Die Leute von Seldwyla/Zweiter Band/Der Schmied seines Glückes	Literatur-Keller,-Gottfried/tg809.txt	not defined	450	10705	9301	596	1703	765	2	149	355
+Keller, Gottfried	Realismus	prose	Erzählungen/Die Leute von Seldwyla/Zweiter Band/Die mißbrauchten Liebesbriefe	Literatur-Keller,-Gottfried/tg810.txt	not defined	1213	27712	23802	1363	4171	1946	25	408	889
+Keller, Gottfried	Realismus	prose	Erzählungen/Die Leute von Seldwyla/Zweiter Band/Dietegen	Literatur-Keller,-Gottfried/tg811.txt	not defined	799	22194	19482	1195	3673	1491	11	328	889
+Keller, Gottfried	Realismus	prose	Erzählungen/Die Leute von Seldwyla/Zweiter Band/Kleider machen Leute	Literatur-Keller,-Gottfried/tg808.txt	not defined	660	16547	14266	880	2654	1086	8	243	604
+Keller, Gottfried	Realismus	prose	Erzählungen/Züricher Novellen/Erster Band/Der Landvogt von Greifensee	Literatur-Keller,-Gottfried/tg821.txt	not defined	1321	35149	30563	2172	5849	2173	16	467	1306
+Keller, Gottfried	Realismus	prose	Erzählungen/Züricher Novellen/Erster Band/Der Narr auf Manegg	Literatur-Keller,-Gottfried/tg820.txt	not defined	284	8082	7090	469	1392	493	3	100	333
+Keller, Gottfried	Realismus	prose	Erzählungen/Züricher Novellen/Erster Band/Hadlaub	Literatur-Keller,-Gottfried/tg819.txt	not defined	1034	28940	25265	1579	4798	1772	13	397	1108
+Keller, Gottfried	Realismus	prose	Erzählungen/Züricher Novellen/Zweiter Band/Das Fähnlein der sieben Aufrechten	Literatur-Keller,-Gottfried/tg823.txt	not defined	1200	25580	21687	1055	3814	1671	21	319	723
+Keller, Gottfried	Realismus	prose	Erzählungen/Züricher Novellen/Zweiter Band/Ursula	Literatur-Keller,-Gottfried/tg824.txt	not defined	960	24594	21276	1367	3917	1584	6	319	921
+Keller, Gottfried	Realismus	prose	Romane/Der grüne Heinrich [Erste Fassung]	Literatur-Keller,-Gottfried/tg658.txt	not defined	9755	304734	267292	20103	48091	18396	162	4275	10052
+Keller, Gottfried	Realismus	prose	Romane/Der grüne Heinrich [Zweite Fassung]	Literatur-Keller,-Gottfried/tg702.txt	not defined	10461	286996	250518	17334	45353	18111	192	4014	10052
+Keller, Gottfried	Realismus	prose	Romane/Martin Salander	Literatur-Keller,-Gottfried/tg777.txt	not defined	5316	111799	94589	5174	16724	6881	66	1347	3480
+Kerner, Justinus	Romantik	Erzählung	Erzählung/Die Heimatlosen	Literatur-Kerner,-Justinus/tg516.txt	not defined	554	11077	9532	617	2068	749	3	160	546
+Kerner, Justinus	not defined	Roman	Reiseschatten	droro_e1/Kerner_Justinus_Reiseschatten.txt	Romantik_E1	3055	48179	40049	2148	8483	3354	21	723	1682
+Kleist, Heinrich von	Romantik	Erzählung	Erzählprosa/[Anekdoten und Kurzgeschichten]/Anekdote aus dem letzten preußischen Kriege	Literatur-Kleist,-Heinrich-von/tg380.txt	not defined	60	972	699	10	131	84	0	11	17
+Kleist, Heinrich von	Romantik	Erzählung	Erzählprosa/[Anekdoten und Kurzgeschichten]/Der Neuere (glücklichere) Werther	Literatur-Kleist,-Heinrich-von/tg400.txt	not defined	20	644	515	14	97	48	0	10	24
+Kleist, Heinrich von	Romantik	Erzählung	Erzählprosa/[Anekdoten und Kurzgeschichten]/Geistererscheinung	Literatur-Kleist,-Heinrich-von/tg409.txt	not defined	68	1768	1523	66	271	121	0	23	62
+Kleist, Heinrich von	Romantik	Erzählung	Erzählprosa/[Anekdoten und Kurzgeschichten]/Geschichte eines merkwürdigen Zweikampfs	Literatur-Kleist,-Heinrich-von/tg408.txt	not defined	47	1007	861	14	178	69	0	23	47
+Kleist, Heinrich von	Romantik	Erzählung	Erzählprosa/[Anekdoten und Kurzgeschichten]/Sonderbare Geschichte, die sich, zu meiner Zeit, in Italien	Literatur-Kleist,-Heinrich-von/tg398.txt	not defined	39	1255	1028	58	224	71	0	17	57
+Kleist, Heinrich von	Romantik	Erzählung	Erzählprosa/[Anekdoten und Kurzgeschichten]/Unwahrscheinliche Wahrhaftigkeiten	Literatur-Kleist,-Heinrich-von/tg405.txt	not defined	60	1387	1100	46	245	76	2	22	42
+Kleist, Heinrich von	Romantik	Erzählung	Erzählprosa/[Anekdoten und Kurzgeschichten]/Uralte Reichstagsfeierlichkeit, oder Kampf der Blinden mit dem	Literatur-Kleist,-Heinrich-von/tg391.txt	not defined	25	506	423	16	84	40	0	17	16
+Kleist, Heinrich von	Romantik	Erzählung	Erzählprosa/[Anekdoten und Kurzgeschichten]/Wassermänner und Sirenen	Literatur-Kleist,-Heinrich-von/tg406.txt	not defined	29	724	619	46	118	54	0	4	32
+Kleist, Heinrich von	Romantik	Erzählung	Erzählprosa/Erzählungen/Das Bettelweib von Locarno	Literatur-Kleist,-Heinrich-von/tg371.txt	not defined	32	1191	961	42	191	76	2	19	69
+Kleist, Heinrich von	Romantik	Erzählung	Erzählprosa/Erzählungen/Das Erdbeben in Chili	Literatur-Kleist,-Heinrich-von/tg369.txt	not defined	253	6495	5384	278	982	432	2	83	257
+Kleist, Heinrich von	Romantik	Erzählung	Erzählprosa/Erzählungen/Der Findling	Literatur-Kleist,-Heinrich-von/tg372.txt	not defined	209	7286	5971	271	1092	444	5	104	317
+Kleist, Heinrich von	Romantik	Erzählung	Erzählprosa/Erzählungen/Der Zweikampf	Literatur-Kleist,-Heinrich-von/tg374.txt	not defined	361	13897	11431	561	2578	664	1	233	570
+Kleist, Heinrich von	Romantik	Erzählung	Erzählprosa/Erzählungen/Die heilige Cäcilie	Literatur-Kleist,-Heinrich-von/tg373.txt	not defined	130	5141	4249	255	899	249	3	90	199
+Kleist, Heinrich von	Romantik	Erzählung	Erzählprosa/Erzählungen/Die Marquise von O...	Literatur-Kleist,-Heinrich-von/tg368.txt	not defined	840	18119	14717	541	2628	1289	14	254	611
+Kleist, Heinrich von	Romantik	Erzählung	Erzählprosa/Erzählungen/Die Verlobung in St. Domingo	Literatur-Kleist,-Heinrich-von/tg370.txt	not defined	551	16059	13069	506	2571	984	8	309	605
+Kleist, Heinrich von	Romantik	Erzählung	Erzählprosa/Erzählungen/Michael Kohlhaas	Literatur-Kleist,-Heinrich-von/tg367.txt	not defined	1223	41863	34074	1382	6777	2317	33	711	1714
+Klingemann, August	Romantik	Roman	Roman/Die Nachtwachen des Bonaventura	Literatur-Klingemann,-August/tg57.txt	Romantik_Kern	1688	44863	38678	2214	6948	2665	34	698	1500
+Liebeskind, Margareta Sophia	Romantik	prose	Roman/Maria	Literatur-Liebeskind,-Margareta-Sophia/tg4.txt	Romantik_E2	5465	92459	77907	3747	12552	5218	77	1117	2534
+Ludwig, Otto	Realismus	prose	Erzählungen/Die Heiteretei und ihr Widerspiel	Literatur-Ludwig,-Otto/tg64.txt	not defined	6662	103830	83703	2608	12122	6014	121	909	2305
+Ludwig, Otto	Realismus	prose	Erzählungen/Zwischen Himmel und Erde	Literatur-Ludwig,-Otto/tg63.txt	not defined	5239	83795	70923	2999	12051	5561	50	991	2524
+Mereau, Sophie	Romantik	Roman	Romane/Amanda und Eduard	Literatur-Mereau,-Sophie/tg7.txt	Romantik_Kern	2712	60680	50312	3138	8527	3525	37	737	1685
+Mereau, Sophie	Romantik	Roman	Romane/Das Blüthenalter der Empfindung	Literatur-Mereau,-Sophie/tg4.txt	Romantik_E1	982	18596	15869	1272	3096	1212	12	261	593
+Meyer, Conrad Ferdinand	Realismus	prose	Erzählungen/Angela Borgia	Literatur-Meyer,-Conrad-Ferdinand/tg421.txt	not defined	2331	43806	36731	2407	7179	2913	12	601	1492
+Meyer, Conrad Ferdinand	Realismus	prose	Erzählungen/Das Amulett	Literatur-Meyer,-Conrad-Ferdinand/tg330.txt	not defined	1157	22564	18817	1110	3535	1510	18	334	812
+Meyer, Conrad Ferdinand	Realismus	prose	Erzählungen/Das Leiden eines Knaben	Literatur-Meyer,-Conrad-Ferdinand/tg406.txt	not defined	1103	20533	17293	1028	3390	1391	10	266	557
+Meyer, Conrad Ferdinand	Realismus	prose	Erzählungen/Der Heilige	Literatur-Meyer,-Conrad-Ferdinand/tg386.txt	not defined	2151	47695	41500	2685	8758	3017	21	686	1776
+Meyer, Conrad Ferdinand	Realismus	prose	Erzählungen/Der Schuß von der Kanzel	Literatur-Meyer,-Conrad-Ferdinand/tg374.txt	not defined	1034	17176	14195	1019	2946	1119	11	235	542
+Meyer, Conrad Ferdinand	Realismus	prose	Erzählungen/Die Hochzeit des Mönchs	Literatur-Meyer,-Conrad-Ferdinand/tg407.txt	not defined	2013	33470	27559	1802	5668	2433	22	426	1045
+Meyer, Conrad Ferdinand	Realismus	prose	Erzählungen/Die Richterin	Literatur-Meyer,-Conrad-Ferdinand/tg408.txt	not defined	2059	27884	22423	1064	4439	2314	19	366	813
+Meyer, Conrad Ferdinand	Realismus	prose	Erzählungen/Die Versuchung des Pescara	Literatur-Meyer,-Conrad-Ferdinand/tg414.txt	not defined	2843	45673	37490	2320	7054	3144	22	502	1308
+Meyer, Conrad Ferdinand	Realismus	prose	Erzählungen/Gustav Adolfs Page	Literatur-Meyer,-Conrad-Ferdinand/tg400.txt	not defined	911	16776	14069	1050	3022	1061	4	218	530
+Meyer, Conrad Ferdinand	Realismus	prose	Erzählungen/Jürg Jenatsch	Literatur-Meyer,-Conrad-Ferdinand/tg341.txt	not defined	3956	83806	71945	5894	14897	4848	21	1191	3088
+Meyer, Conrad Ferdinand	Realismus	prose	Erzählungen/Plautus im Nonnenkloster	Literatur-Meyer,-Conrad-Ferdinand/tg434.txt	not defined	460	10650	9143	754	1898	667	9	137	339
+Mörike, Eduard	not defined	Roman	Maler Nolten	droro_e2/Moerike_Eduard_Maler_Nolten.txt	Romantik_E2	7109	155016	131897	8395	23835	9024	86	2027	4750
+Moritz, Karl Philipp	Klassik	prose	Romane/Andreas Hartknopf. Eine Allegorie	Literatur-Moritz,-Karl-Philipp/tg9.txt	Romantik_E2	768	29076	24909	1269	4794	1512	10	376	887
+Moritz, Karl Philipp	Klassik	prose	Romane/Andreas Hartknopfs Predigerjahre	Literatur-Moritz,-Karl-Philipp/tg21.txt	Romantik_E2	772	18349	15485	889	3271	1194	15	265	653
+Moritz, Karl Philipp	Klassik	prose	Romane/Anton Reiser	Literatur-Moritz,-Karl-Philipp/tg4.txt	Romantik_E2	4322	150005	131485	6584	23527	8053	74	2059	5424
+Mundt, Theodor	Romantik	prose	Roman/Madonna. Unterhaltungen mit einer Heiligen	Literatur-Mundt,-Theodor/tg4.txt	Romantik_E2	3283	77521	66622	4763	12470	4184	43	1098	2574
+Naubert, Benedikte	not defined	Roman	Alf von Dülmen	droro_e1/Naubert_Benedikte_Alf_von_Duelmen.txt	Romantik_E1	4570	119029	101048	4541	17345	6154	74	1627	3559
+Naubert, Benedikte	not defined	Roman	Conrad und Siegfried von Feuchtwangen. Teil I.	droro_e1/Naubert_Benedikte_Conrad_und_Siegfried.txt	Romantik_E1	2929	67987	57261	3063	10764	3600	31	903	2280
+Naubert, Benedikte	not defined	Roman	Die Amtmannin von Hohenweiler	droro_e2/Naubert_Benedikte_Die_Amtmannin_von_Hohenweiler.txt	Romantik_E2	4888	134484	114770	5607	19115	7260	67	1827	4104
+Naubert, Benedikte	not defined	Roman	Herrmann von Unna	droro_e2/Naubert_Benedikte_Herrmann_von_Unna.txt	Romantik_E2	6294	154987	131811	6132	22977	8965	65	1998	5040
+Novalis	Romantik	Roman	Romane/Die Lehrlinge zu Sais	Literatur-Novalis/tg28.txt	Romantik_Kern	450	12402	10748	936	2310	711	7	166	341
+Novalis	Romantik	Roman	Romane/Heinrich von Ofterdingen	Literatur-Novalis/tg31.txt	Romantik_Kern	3071	56312	48799	3830	9972	3743	35	751	1934
+Raabe, Wilhelm	Realismus	prose	Erzählungen/Das Odfeld	Literatur-Raabe,-Wilhelm/tg256.txt	not defined	3525	71075	60119	3419	12319	2899	26	782	2319
+Raabe, Wilhelm	Realismus	prose	Erzählungen/Die Gänse von Bützow	Literatur-Raabe,-Wilhelm/tg229.txt	not defined	1254	27486	23293	1509	5068	1403	11	355	886
+Raabe, Wilhelm	Realismus	prose	Erzählungen/Die schwarze Galeere	Literatur-Raabe,-Wilhelm/tg221.txt	not defined	1112	18870	15527	927	3262	1080	6	244	576
+Raabe, Wilhelm	Realismus	prose	Erzählungen/Else von der Tanne	Literatur-Raabe,-Wilhelm/tg228.txt	not defined	602	13583	11792	669	2546	838	3	201	546
+Raabe, Wilhelm	Realismus	prose	Erzählungen/Frau Salome	Literatur-Raabe,-Wilhelm/tg243.txt	not defined	1746	34340	29011	1472	5462	1967	14	441	1100
+Raabe, Wilhelm	Realismus	prose	Erzählungen/Hastenbeck	Literatur-Raabe,-Wilhelm/tg283.txt	not defined	2797	68622	58745	3111	12612	2294	29	845	2353
+Raabe, Wilhelm	Realismus	prose	Romane/Abu Telfan oder Die Heimkehr vom Mondgebirge	Literatur-Raabe,-Wilhelm/tg81.txt	not defined	5733	136077	116723	6629	22422	7189	37	1753	4588
+Raabe, Wilhelm	Realismus	prose	Romane/Alte Nester	Literatur-Raabe,-Wilhelm/tg157.txt	not defined	4670	97580	83087	4243	13855	4556	50	1174	3054
+Raabe, Wilhelm	Realismus	prose	Romane/Der Hungerpastor	Literatur-Raabe,-Wilhelm/tg43.txt	not defined	7698	166063	142798	8354	27744	9314	53	2421	5513
+Raabe, Wilhelm	Realismus	prose	Romane/Der Schüdderump	Literatur-Raabe,-Wilhelm/tg119.txt	not defined	5880	135376	116357	6746	20731	7178	60	1687	4559
+Raabe, Wilhelm	Realismus	prose	Romane/Die Akten des Vogelsangs	Literatur-Raabe,-Wilhelm/tg219.txt	not defined	3110	72106	61233	3383	11078	2898	23	820	2335
+Raabe, Wilhelm	Realismus	prose	Romane/Die Chronik der Sperlingsgasse	Literatur-Raabe,-Wilhelm/tg4.txt	not defined	3129	58327	48048	3143	9604	3725	26	735	1606
+Raabe, Wilhelm	Realismus	prose	Romane/Die Leute aus dem Walde, ihre Sterne, Wege und Schicksale	Literatur-Raabe,-Wilhelm/tg5.txt	not defined	8082	148270	125609	8028	25588	8495	41	2020	4846
+Raabe, Wilhelm	Realismus	prose	Romane/Im alten Eisen	Literatur-Raabe,-Wilhelm/tg195.txt	not defined	3002	64255	54405	3143	10097	2697	27	773	2060
+Raabe, Wilhelm	Realismus	prose	Romane/Stopfkuchen. Eine See- und Mordgeschichte	Literatur-Raabe,-Wilhelm/tg218.txt	not defined	3464	74964	63327	3408	10846	3308	35	909	2231
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/1. Teil/Das Haus Reichegg	Literatur-Saar,-Ferdinand-von/tg203.txt	not defined	350	6811	5756	438	1033	436	3	96	246
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/1. Teil/Die Geigerin	Literatur-Saar,-Ferdinand-von/tg202.txt	not defined	731	14300	12213	648	1918	965	4	172	481
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/1. Teil/Die Steinklopfer	Literatur-Saar,-Ferdinand-von/tg197.txt	not defined	914	14695	12054	620	1930	1041	4	184	464
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/1. Teil/Innocens	Literatur-Saar,-Ferdinand-von/tg195.txt	not defined	936	18334	15749	1024	2793	1321	8	275	694
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/1. Teil/Marianne	Literatur-Saar,-Ferdinand-von/tg196.txt	not defined	664	11650	9847	617	1648	826	5	161	448
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/2. Teil/Der »Exzellenzherr«	Literatur-Saar,-Ferdinand-von/tg208.txt	not defined	488	10566	9131	616	1484	652	6	126	393
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/2. Teil/Tambi	Literatur-Saar,-Ferdinand-von/tg209.txt	not defined	756	12301	10198	501	1520	785	6	137	427
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/2. Teil/Vae victis!	Literatur-Saar,-Ferdinand-von/tg207.txt	not defined	410	9763	8362	604	1445	570	8	137	397
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/3. Teil/Die Troglodytin	Literatur-Saar,-Ferdinand-von/tg230.txt	not defined	721	13254	11461	669	1905	916	7	157	502
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/3. Teil/Geschichte eines Wienerkindes	Literatur-Saar,-Ferdinand-von/tg244.txt	not defined	1225	20551	16908	1039	2673	1250	5	212	721
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/3. Teil/Ginevra	Literatur-Saar,-Ferdinand-von/tg236.txt	not defined	796	14682	12624	701	1986	970	3	175	524
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/3. Teil/Leutnant Burda	Literatur-Saar,-Ferdinand-von/tg215.txt	not defined	1235	22385	18497	1029	3021	1315	15	263	767
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/3. Teil/Schloß Kostenitz	Literatur-Saar,-Ferdinand-von/tg254.txt	not defined	1366	23606	19644	1223	3424	1450	10	335	839
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/3. Teil/Seligmann Hirsch	Literatur-Saar,-Ferdinand-von/tg225.txt	not defined	960	12357	10007	452	1493	757	2	127	358
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/4. Teil/Conte Gasparo	Literatur-Saar,-Ferdinand-von/tg294.txt	not defined	603	9752	8024	478	1152	594	6	132	329
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/4. Teil/Doktor Trojan	Literatur-Saar,-Ferdinand-von/tg291.txt	not defined	630	10760	9038	504	1515	633	6	139	389
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/4. Teil/Herr Fridolin und sein Glück	Literatur-Saar,-Ferdinand-von/tg266.txt	not defined	960	17012	14404	656	2180	1050	9	201	530
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/4. Teil/Ninon	Literatur-Saar,-Ferdinand-von/tg275.txt	not defined	866	13694	11285	755	1738	762	6	166	395
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/4. Teil/Requiem der Liebe	Literatur-Saar,-Ferdinand-von/tg281.txt	not defined	1385	19647	16161	879	2456	1276	15	223	690
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/4. Teil/Sündenfall	Literatur-Saar,-Ferdinand-von/tg298.txt	not defined	740	11847	10079	629	1565	852	7	163	420
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/5. Teil/Außer Dienst	Literatur-Saar,-Ferdinand-von/tg322.txt	not defined	277	3860	3156	143	462	182	2	43	116
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/5. Teil/Der Brauer von Habrovan	Literatur-Saar,-Ferdinand-von/tg318.txt	not defined	410	6719	5766	328	994	441	4	80	222
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/5. Teil/Der Burggraf	Literatur-Saar,-Ferdinand-von/tg313.txt	not defined	527	6252	4988	237	761	426	3	72	208
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/5. Teil/Der Hellene	Literatur-Saar,-Ferdinand-von/tg328.txt	not defined	310	4584	3806	249	646	269	2	48	158
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/5. Teil/Die Brüder	Literatur-Saar,-Ferdinand-von/tg300.txt	not defined	549	8868	7571	362	1202	590	3	105	312
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/5. Teil/Die Heirat des Herrn Stäudl	Literatur-Saar,-Ferdinand-von/tg323.txt	not defined	508	7156	6037	212	861	508	2	100	204
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/5. Teil/Die Parzen	Literatur-Saar,-Ferdinand-von/tg309.txt	not defined	439	6447	5315	313	860	402	7	80	210
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/5. Teil/Dissonanzen	Literatur-Saar,-Ferdinand-von/tg332.txt	not defined	228	4414	3745	278	702	255	1	66	152
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/6. Teil/Die Familie Worel	Literatur-Saar,-Ferdinand-von/tg334.txt	not defined	430	7062	6053	330	1018	472	1	78	220
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/6. Teil/Die Pfründner	Literatur-Saar,-Ferdinand-von/tg348.txt	not defined	1030	15095	12418	678	1820	921	8	171	431
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/6. Teil/Hymen	Literatur-Saar,-Ferdinand-von/tg342.txt	not defined	673	9705	8049	399	1161	645	6	115	282
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Novellen aus Österreich/6. Teil/Sappho	Literatur-Saar,-Ferdinand-von/tg339.txt	not defined	566	9064	7710	432	1126	641	7	112	300
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Tragik des Lebens/Die Familie Worel	Literatur-Saar,-Ferdinand-von/tg356.txt	not defined	429	7061	6053	330	1017	472	1	78	221
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Tragik des Lebens/Die Pfründner	Literatur-Saar,-Ferdinand-von/tg371.txt	not defined	1029	15133	12442	679	1824	920	8	170	435
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Tragik des Lebens/Hymen	Literatur-Saar,-Ferdinand-von/tg364.txt	not defined	690	10138	8419	432	1234	665	6	129	298
+Saar, Ferdinand von	Realismus	prose	Erzählungen/Tragik des Lebens/Sappho	Literatur-Saar,-Ferdinand-von/tg361.txt	not defined	553	8990	7712	435	1129	639	7	113	300
+Schiller, Friedrich	Klassik	Erzählung	Erzählungen/[Das philosophische Gespräch aus dem Geisterseher]	Literatur-Schiller,-Friedrich/tg1489.txt	not defined	401	8580	7301	458	1373	428	4	103	199
+Schiller, Friedrich	Klassik	Erzählung	Erzählungen/Der Geisterseher	Literatur-Schiller,-Friedrich/tg1486.txt	Romantik_E2	2472	45773	38115	1854	6807	2704	12	563	1424
+Schiller, Friedrich	Klassik	Erzählung	Erzählungen/Der Verbrecher aus verlorener Ehre	Literatur-Schiller,-Friedrich/tg1485.txt	not defined	476	8858	7552	353	1474	595	12	136	247
+Schiller, Friedrich	Klassik	Erzählung	Erzählungen/Merkwürdiges Beispiel einer weiblichen Rache	Literatur-Schiller,-Friedrich/tg1490.txt	not defined	825	15034	12219	423	1985	867	15	167	351
+Schilling, Friedrich Gustav	not defined	Roman	Die Denkwürdigkeiten des Herrn v. H.	droro_e2/Schilling_Friedrich_Gustav_Die_Denkwuerdigkeiten_des_Herrn_v.txt	Romantik_E2	3724	56073	46197	2451	7964	4571	21	859	1395
+Schlegel, Dorothea	Romantik	Roman	Roman/Florentin	Literatur-Schlegel,-Dorothea/tg4.txt	Romantik_Kern	3401	68287	56784	2814	8920	4031	40	777	2133
+Schlegel, Friedrich	Romantik	Roman	Roman/Lucinde	Literatur-Schlegel,-Friedrich/tg307.txt	Romantik_Kern	1606	34071	29898	2116	5148	1846	17	383	904
+Schopenhauer, Johanna	not defined	Roman	Die Tante	droro_e1/Schopenhauer_Johanna_Die_Tante.txt	Romantik_E1	4901	142471	122549	8283	20714	7750	70	1731	4927
+Schopenhauer, Johanna	not defined	Roman	Gabriele	droro_e1/Schopenhauer_Johanna_Gabriele.txt	Romantik_E1	7027	179392	153608	10263	26485	10740	79	2114	6663
+Schopenhauer, Johanna	not defined	Roman	Leontine und Natalie	droro_e1/Schopenhauer_Johanna_Leontine_und_Natalie.txt	Romantik_E1	1749	47452	39997	2329	6533	2761	25	529	1728
+Schopenhauer, Johanna	not defined	Roman	Richard Wood	droro_e1/Schopenhauer_Johanna_Richard_Wood.txt	Romantik_E1	5747	131188	112297	7598	19186	7125	61	1586	4584
+Spielhagen, Friedrich	Realismus	prose	Romane/Faustulus	Literatur-Spielhagen,-Friedrich/tg221.txt	not defined	5684	83180	68271	3525	11470	4048	26	1023	2387
+Spielhagen, Friedrich	Realismus	prose	Romane/Hammer und Amboß	Literatur-Spielhagen,-Friedrich/tg120.txt	not defined	14232	324305	271099	14267	44351	16970	187	4166	10063
+Spielhagen, Friedrich	Realismus	prose	Romane/Problematische Naturen. Erste Abtheilung	Literatur-Spielhagen,-Friedrich/tg4.txt	not defined	11581	225448	190720	10350	32164	12802	120	2896	6880
+Spielhagen, Friedrich	Realismus	prose	Romane/Problematische Naturen. Zweite Abtheilung (Durch Nacht zum Licht)	Literatur-Spielhagen,-Friedrich/tg66.txt	not defined	10138	199149	169192	9141	30120	11241	100	2678	6620
+Spielhagen, Friedrich	Realismus	prose	Romane/Zum Zeitvertreib	Literatur-Spielhagen,-Friedrich/tg192.txt	not defined	4306	67433	57031	3069	9517	3218	35	831	1998
+Spindler, Karl	not defined	Roman	Der Jesuit	droro_e2/Spindler_Carl_Der_Jesuit.txt	Romantik_E2	8655	145172	117156	6193	23891	9531	60	1621	4363
+Spindler, Karl	not defined	Roman	Der Jude	droro_e1/Spindler_Carl_Der_Jude.txt	Romantik_E1	16309	326489	262247	13648	52739	19813	165	3659	9848
+Spindler, Karl	not defined	Roman	Der Vogelhändler von Imst	droro_e1/Spindler_Carl_Der_Vogelhaendler.txt	Romantik_E1	15827	269043	214015	10276	39150	14488	178	2495	7248
+Spindler, Karl	not defined	Roman	Putsch & Comp. I	droro_e2/Spindler_Carl_Putsch_und_Comp_I.txt	Romantik_E2	3582	65363	53257	2428	10436	3349	30	650	1787
+Spindler, Karl	not defined	Roman	Putsch & Comp. II	droro_e2/Spindler_Carl_Putsch_und_Comp_II.txt	Romantik_E2	3236	61127	50263	2229	9493	3270	31	644	1900
+Spindler, Karl	not defined	Roman	Putsch & Comp. III	droro_e2/Spindler_Carl_Putsch_und_Comp_III.txt	Romantik_E2	2792	60305	50183	2260	8733	3008	28	690	1870
+Spindler, Karl	not defined	Roman	Putsch & Comp. IV	droro_e2/Spindler_Carl_Putsch_und_Comp_IV.txt	Romantik_E2	3135	61853	51614	2418	9763	3246	28	670	1979
+Stifter, Adalbert	Realismus	prose	Erzählungen/Bunte Steine/Bergkristall	Literatur-Stifter,-Adalbert/tg139.txt	not defined	760	20578	17545	807	3155	1318	23	303	679
+Stifter, Adalbert	Realismus	prose	Erzählungen/Bunte Steine/Bergmilch	Literatur-Stifter,-Adalbert/tg141.txt	not defined	431	11426	9726	411	1858	695	6	154	365
+Stifter, Adalbert	Realismus	prose	Erzählungen/Bunte Steine/Granit	Literatur-Stifter,-Adalbert/tg136.txt	not defined	502	14145	12057	502	2236	927	12	195	539
+Stifter, Adalbert	Realismus	prose	Erzählungen/Bunte Steine/Kalkstein	Literatur-Stifter,-Adalbert/tg137.txt	not defined	1005	25363	21800	921	3818	1600	24	371	888
+Stifter, Adalbert	Realismus	prose	Erzählungen/Bunte Steine/Katzensilber	Literatur-Stifter,-Adalbert/tg140.txt	not defined	970	25833	22157	1034	4322	1799	27	456	888
+Stifter, Adalbert	Realismus	prose	Erzählungen/Bunte Steine/Turmalin	Literatur-Stifter,-Adalbert/tg138.txt	not defined	613	16136	13912	622	2483	986	13	231	614
+Stifter, Adalbert	Realismus	prose	Erzählungen/Der fromme Spruch	Literatur-Stifter,-Adalbert/tg145.txt	not defined	1475	28947	23527	871	4043	1977	9	386	885
+Stifter, Adalbert	Realismus	prose	Erzählungen/Der Kuß von Sentze	Literatur-Stifter,-Adalbert/tg144.txt	not defined	637	11230	9462	415	1696	784	14	178	417
+Stifter, Adalbert	Realismus	prose	Erzählungen/Der Waldbrunnen	Literatur-Stifter,-Adalbert/tg143.txt	not defined	630	15117	12625	645	2362	1083	13	183	530
+Stifter, Adalbert	Realismus	prose	Erzählungen/Nachkommenschaften	Literatur-Stifter,-Adalbert/tg142.txt	not defined	1069	25146	21148	870	3557	1553	18	297	848
+Stifter, Adalbert	Realismus	prose	Erzählungen/Studien/Abdias	Literatur-Stifter,-Adalbert/tg99.txt	not defined	1260	38331	33021	1622	5382	2549	32	554	1350
+Stifter, Adalbert	Realismus	prose	Erzählungen/Studien/Brigitta	Literatur-Stifter,-Adalbert/tg108.txt	not defined	844	22963	19776	952	3266	1473	25	334	830
+Stifter, Adalbert	Realismus	prose	Erzählungen/Studien/Das alte Siegel	Literatur-Stifter,-Adalbert/tg103.txt	not defined	870	22892	19489	937	3054	1447	18	311	746
+Stifter, Adalbert	Realismus	prose	Erzählungen/Studien/Das Haidedorf	Literatur-Stifter,-Adalbert/tg72.txt	not defined	354	11431	9717	581	1725	721	7	137	340
+Stifter, Adalbert	Realismus	prose	Erzählungen/Studien/Der beschriebene Tännling	Literatur-Stifter,-Adalbert/tg128.txt	not defined	694	17891	15562	925	3016	1073	16	302	732
+Stifter, Adalbert	Realismus	prose	Erzählungen/Studien/Der Condor	Literatur-Stifter,-Adalbert/tg46.txt	not defined	314	8461	7107	508	1297	556	4	126	262
+Stifter, Adalbert	Realismus	prose	Erzählungen/Studien/Der Hagestolz	Literatur-Stifter,-Adalbert/tg113.txt	not defined	2030	47242	39747	1689	6123	2931	31	723	1457
+Stifter, Adalbert	Realismus	prose	Erzählungen/Studien/Der Hochwald	Literatur-Stifter,-Adalbert/tg77.txt	not defined	1194	37929	31739	1910	5733	2382	29	481	1044
+Stifter, Adalbert	Realismus	prose	Erzählungen/Studien/Der Waldsteig	Literatur-Stifter,-Adalbert/tg121.txt	not defined	972	25061	21394	944	3376	1683	16	373	856
+Stifter, Adalbert	Realismus	prose	Erzählungen/Studien/Die Mappe meines Urgroßvaters	Literatur-Stifter,-Adalbert/tg90.txt	not defined	2945	82242	70572	3006	11477	4943	86	1133	2931
+Stifter, Adalbert	Realismus	prose	Erzählungen/Studien/Die Narrenburg	Literatur-Stifter,-Adalbert/tg85.txt	not defined	1510	41860	35131	1938	5957	2623	29	516	1198
+Stifter, Adalbert	Realismus	prose	Erzählungen/Studien/Feldblumen	Literatur-Stifter,-Adalbert/tg52.txt	not defined	1767	43887	37196	2065	6045	2703	37	538	1300
+Stifter, Adalbert	Realismus	prose	Erzählungen/Studien/Zwei Schwestern	Literatur-Stifter,-Adalbert/tg122.txt	not defined	2420	58344	49627	2239	7593	3655	66	813	2012
+Stifter, Adalbert	Realismus	prose	Romane/Der Nachsommer	Literatur-Stifter,-Adalbert/tg4.txt	not defined	11276	288759	248292	11016	44315	16085	235	4110	10430
+Stifter, Adalbert	Realismus	prose	Romane/Witiko	Literatur-Stifter,-Adalbert/tg25.txt	not defined	16686	338046	276662	10086	51366	21821	146	4472	11821
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Aquis Submersus	Literatur-Storm,-Theodor/tg242.txt	not defined	1626	28620	24096	1114	4175	1759	25	410	1035
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Auf dem Staatshof	Literatur-Storm,-Theodor/tg211.txt	not defined	687	12831	10925	605	1941	911	8	238	564
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Auf der Universität	Literatur-Storm,-Theodor/tg222.txt	not defined	1515	23273	19524	1040	3338	1657	13	377	864
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Beim Vetter Christian	Literatur-Storm,-Theodor/tg238.txt	not defined	597	10209	8563	514	1584	627	4	118	344
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Bötjer Basch	Literatur-Storm,-Theodor/tg256.txt	not defined	1347	21383	17579	872	3205	1467	7	278	731
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Carsten Curator	Literatur-Storm,-Theodor/tg243.txt	not defined	1548	24072	19864	1079	3461	1469	6	355	826
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Der Herr Etatsrat	Literatur-Storm,-Theodor/tg249.txt	not defined	887	16582	14422	951	2578	1025	6	228	635
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Der Schimmelreiter	Literatur-Storm,-Theodor/tg259.txt	not defined	3023	46863	38317	1675	6755	3210	20	630	1535
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Die Söhne des Senators	Literatur-Storm,-Theodor/tg248.txt	not defined	881	15255	12630	752	2436	864	11	184	509
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Draußen im Heidedorf	Literatur-Storm,-Theodor/tg234.txt	not defined	765	12296	10261	465	1723	815	6	205	428
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Eekenhof	Literatur-Storm,-Theodor/tg246.txt	not defined	866	15487	13211	703	2536	821	5	228	627
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Ein Bekenntnis	Literatur-Storm,-Theodor/tg258.txt	not defined	1241	20648	16756	724	2545	1365	6	240	612
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Ein Doppelgänger	Literatur-Storm,-Theodor/tg257.txt	not defined	1567	24052	19626	841	3288	1725	18	325	822
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Ein Fest auf Haderslevhuus	Literatur-Storm,-Theodor/tg253.txt	not defined	1904	26519	21506	1036	4151	1962	8	392	883
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Ein stiller Musikant	Literatur-Storm,-Theodor/tg239.txt	not defined	771	11769	9810	585	1571	777	4	147	403
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Eine Halligfahrt	Literatur-Storm,-Theodor/tg233.txt	not defined	576	10046	8491	528	1540	683	2	153	397
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Eine Malerarbeit	Literatur-Storm,-Theodor/tg231.txt	not defined	666	11220	9340	520	1662	819	5	162	409
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Es waren zwei Königskinder	Literatur-Storm,-Theodor/tg254.txt	not defined	947	13790	11123	467	1732	1066	3	199	464
+Storm, Theodor	Realismus	prose	Erzählungen/Geschichten aus der Tonne/»Dree to beed«	Literatur-Storm,-Theodor/tg263.txt	not defined	24	441	357	19	51	42	0	8	14
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Geschichten aus der Tonne/Das Märchen von den drei Spinnfrauen	Literatur-Storm,-Theodor/tg261.txt	not defined	76	1596	1328	56	215	125	2	13	54
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Geschichten aus der Tonne/Se dohn sick wat to gude	Literatur-Storm,-Theodor/tg262.txt	not defined	60	1141	937	24	168	78	2	11	25
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Hans und Heinz Kirch	Literatur-Storm,-Theodor/tg250.txt	not defined	1729	27269	22690	1083	3858	1722	7	384	999
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Im Brauerhause	Literatur-Storm,-Theodor/tg247.txt	not defined	634	11060	9477	390	1550	698	1	168	312
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Im Nachbarhause links	Literatur-Storm,-Theodor/tg241.txt	not defined	700	11338	9374	631	1653	656	7	125	350
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Im Saal	Literatur-Storm,-Theodor/tg199.txt	not defined	169	2406	2020	134	368	161	1	40	62
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Im Schloß	Literatur-Storm,-Theodor/tg216.txt	not defined	1080	17667	14875	905	2726	1214	15	265	681
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Immensee	Literatur-Storm,-Theodor/tg200.txt	not defined	899	11547	9504	459	1586	963	6	203	393
+Storm, Theodor	Realismus	Erzählung	Erzählungen/In St. Jürgen	Literatur-Storm,-Theodor/tg232.txt	not defined	902	15089	12885	635	2274	1080	7	247	577
+Storm, Theodor	Realismus	Erzählung	Erzählungen/John Riew'	Literatur-Storm,-Theodor/tg255.txt	not defined	1451	22592	18189	737	2873	1642	14	275	671
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Marthe und ihre Uhr	Literatur-Storm,-Theodor/tg198.txt	not defined	140	2320	1983	123	373	127	1	29	66
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Pole Poppenspäler	Literatur-Storm,-Theodor/tg236.txt	not defined	1290	21011	17410	889	3064	1303	21	289	785
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Psyche	Literatur-Storm,-Theodor/tg240.txt	not defined	848	12269	10011	612	1806	719	7	148	402
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Renate	Literatur-Storm,-Theodor/tg244.txt	not defined	1263	24114	20425	962	3672	1532	16	332	883
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Schweigen	Literatur-Storm,-Theodor/tg251.txt	not defined	1574	24782	20398	1014	3389	1569	7	328	866
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Veronika	Literatur-Storm,-Theodor/tg212.txt	not defined	318	5003	4168	224	786	376	2	70	193
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Viola tricolor	Literatur-Storm,-Theodor/tg235.txt	not defined	880	11984	9674	502	1631	865	4	180	394
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Waldwinkel	Literatur-Storm,-Theodor/tg237.txt	not defined	1437	20799	17009	890	2970	1375	13	332	717
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Zur Chronik von Grieshuus	Literatur-Storm,-Theodor/tg252.txt	not defined	2233	35847	29857	1345	5681	2205	10	491	1277
+Storm, Theodor	Realismus	Erzählung	Erzählungen/Zur Wald- und Wasserfreude	Literatur-Storm,-Theodor/tg245.txt	not defined	1390	21040	17418	929	2993	1463	7	280	735
+Storm, Theodor	Realismus	Märchen	Märchen und Spukgeschichten/Am Kamin	Literatur-Storm,-Theodor/tg277.txt	not defined	503	9474	7882	460	1448	524	2	125	371
+Storm, Theodor	Realismus	Märchen	Märchen und Spukgeschichten/Bulemanns Haus	Literatur-Storm,-Theodor/tg281.txt	not defined	436	7906	6763	422	1349	500	1	126	316
+Storm, Theodor	Realismus	Märchen	Märchen und Spukgeschichten/Der kleine Häwelmann	Literatur-Storm,-Theodor/tg265.txt	not defined	105	1500	1185	80	199	113	0	17	35
+Storm, Theodor	Realismus	Märchen	Märchen und Spukgeschichten/Der Spiegel des Cyprianus	Literatur-Storm,-Theodor/tg282.txt	not defined	580	9413	7843	445	1593	691	3	142	366
+Storm, Theodor	Realismus	Märchen	Märchen und Spukgeschichten/Die Regentrude	Literatur-Storm,-Theodor/tg280.txt	not defined	719	10992	8927	431	1476	850	1	162	319
+Storm, Theodor	Realismus	Märchen	Märchen und Spukgeschichten/Hans Bär	Literatur-Storm,-Theodor/tg276.txt	not defined	129	3640	3211	164	517	254	3	65	121
+Storm, Theodor	Realismus	Märchen	Märchen und Spukgeschichten/Hinzelmeier	Literatur-Storm,-Theodor/tg266.txt	not defined	556	9181	7618	313	1454	773	5	173	322
+Tieck, Ludwig	not defined	Roman	Der Alte vom Berge	droro_e1/Tieck_Ludwig_Der_Alte_vom_Berge.txt	Romantik_E1	1535	38090	32177	1605	5504	2164	23	383	1042
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Der Aufruhr in den Cevennen	Literatur-Tieck,-Ludwig/tg955.txt	not defined	3941	91761	75446	3711	13538	5550	42	974	2635
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Der fünfzehnte November	Literatur-Tieck,-Ludwig/tg961.txt	not defined	970	21426	17951	906	3009	1400	14	230	589
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Der Geheimnisvolle	Literatur-Tieck,-Ludwig/tg953.txt	not defined	1844	37433	31649	1638	5278	2240	17	461	1044
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Der Hexen-Sabbath	Literatur-Tieck,-Ludwig/tg962.txt	not defined	3509	81714	69080	3419	12582	4488	26	844	2260
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Des Lebens Überfluß	Literatur-Tieck,-Ludwig/tg963.txt	not defined	999	21533	17793	969	3029	1193	8	214	570
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Dichterleben (Erster Teil)	Literatur-Tieck,-Ludwig/tg959.txt	not defined	1642	39064	31941	1827	5566	2055	19	371	1110
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Dichterleben (Zweiter Teil)	Literatur-Tieck,-Ludwig/tg960.txt	not defined	2088	57431	47654	2515	8438	3042	37	555	1567
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Die beiden merkwürdigsten Tage aus Siegmunds Leben	Literatur-Tieck,-Ludwig/tg901.txt	not defined	340	8732	7449	446	1311	540	2	107	289
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Die Gemälde	Literatur-Tieck,-Ludwig/tg952.txt	not defined	1353	30725	25481	1521	4407	1623	12	342	852
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Die Geschichte von den Haimonskindern	Literatur-Tieck,-Ludwig/tg902.txt	not defined	690	18339	15701	497	2497	1387	11	282	529
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Die Gesellschaft auf dem Lande	Literatur-Tieck,-Ludwig/tg954.txt	not defined	1693	39961	32725	1751	5633	2251	16	357	1105
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Die Märchen aus dem Phantasus/Der blonde Eckbert	Literatur-Tieck,-Ludwig/tg925.txt	not defined	312	7498	6457	273	983	564	3	93	276
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Die Märchen aus dem Phantasus/Der getreue Eckart und Der Tannenhäuser	Literatur-Tieck,-Ludwig/tg926.txt	not defined	507	10358	8786	414	1559	803	1	125	376
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Die Märchen aus dem Phantasus/Der Pokal	Literatur-Tieck,-Ludwig/tg951.txt	not defined	311	6810	5651	301	954	526	4	78	221
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Die Märchen aus dem Phantasus/Der Runenberg	Literatur-Tieck,-Ludwig/tg929.txt	not defined	363	8995	7691	453	1403	668	4	121	349
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Die Märchen aus dem Phantasus/Die Elfen	Literatur-Tieck,-Ludwig/tg950.txt	not defined	379	8564	7137	409	1201	696	5	92	312
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Die Märchen aus dem Phantasus/Liebesgeschichte der schönen Magelone und des Grafen Peter von Provence	Literatur-Tieck,-Ludwig/tg931.txt	not defined	816	16161	13815	765	2500	1293	4	255	568
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Die Märchen aus dem Phantasus/Liebeszauber	Literatur-Tieck,-Ludwig/tg930.txt	not defined	479	10829	9033	526	1603	704	2	117	371
+Tieck, Ludwig	Romantik	Märchen	Erzählungen und Märchen/Peter Lebrecht	Literatur-Tieck,-Ludwig/tg863.txt	not defined	2006	47415	40526	2096	6703	2669	27	676	1489
+Tieck, Ludwig	Romantik	Roman	Romane/Der junge Tischlermeister	Literatur-Tieck,-Ludwig/tg814.txt	Romantik_E1	6176	150757	125513	6805	20782	8230	67	1469	4335
+Tieck, Ludwig	Romantik	Roman	Romane/Franz Sternbalds Wanderungen	Literatur-Tieck,-Ludwig/tg778.txt	Romantik_Kern	5202	122087	102534	5190	17069	8105	52	1331	3802
+Tieck, Ludwig	Romantik	Roman	Romane/Geschichte des Herrn William Lovell	Literatur-Tieck,-Ludwig/tg500.txt	Romantik_Kern	8479	187484	159950	7751	23724	10370	97	2289	5623
+Tieck, Ludwig	Romantik	Roman	Romane/Vittoria Accorombona	Literatur-Tieck,-Ludwig/tg825.txt	Romantik_E1	5145	122945	102016	5954	17849	6695	49	1242	3712
+Tieck, Ludwig	not defined	Roman	Wunderlichkeiten	droro_e1/Tieck_Ludwig_Wunderlichkeiten.txt	Romantik_E1	1663	36354	30964	1624	5126	2045	15	383	1007
+Unger, Friederike Helene	Romantik	prose	Romane/Albert und Albertine	Literatur-Unger,-Friederike-Helene/tg10.txt	Romantik_E2	3220	54425	44679	2710	8192	3416	24	612	1539
+Unger, Friederike Helene	Romantik	prose	Romane/Bekenntnisse einer schönen Seele	Literatur-Unger,-Friederike-Helene/tg45.txt	Romantik_E2	2431	57477	49421	2109	8208	2511	36	810	1811
+Unger, Friederike Helene	Romantik	prose	Romane/Julchen Grünthal	Literatur-Unger,-Friederike-Helene/tg4.txt	Romantik_E2	6725	117450	97835	5696	16944	7107	108	1458	3362
+Vulpius, Christian August	not defined	Roman	Rinaldo Rinaldini der Räuberhauptmann	droro_kern/Vulpius_Christian_August_Rinaldo_Rinaldini,_der_Raeuberhauptmann.txt	Romantik_Kern	16580	175379	140215	4489	23064	13497	65	2120	4499
+Wackenroder, Wilhelm Heinrich	Romantik	other	Schriften und Dichtungen/Herzensergießungen eines kunstliebenden Klosterbruders	Literatur-Wackenroder,-Wilhelm-Heinrich/tg4.txt	not defined	1427	36610	31581	2488	5796	1697	23	474	1295
+Wackenroder, Wilhelm Heinrich	Romantik	other	Schriften und Dichtungen/Phantasien über die Kunst für Freunde der Kunst	Literatur-Wackenroder,-Wilhelm-Heinrich/tg25.txt	not defined	1213	37804	32268	2795	6471	2043	11	463	1319
+Waiblinger, Wilhelm	not defined	Roman	Phaeton	droro_e1/Waiblinger_Wilhelm_Phaeton.txt	Romantik_E1	3759	50139	42425	2903	8822	3580	26	621	1594
+Wieland, Christoph Martin	Klassik	Roman	Romane/Aristipp und einige seiner Zeitgenossen	Literatur-Wieland,-Christoph-Martin/tg467.txt	not defined	11282	337068	290070	18377	51713	12276	195	4073	9843
+Wieland, Christoph Martin	Klassik	Roman	Romane/Der goldene Spiegel	Literatur-Wieland,-Christoph-Martin/tg272.txt	not defined	4951	142435	121942	8506	25228	5224	56	1548	4085
+Wieland, Christoph Martin	Klassik	Roman	Romane/Die Abenteuer des Don Sylvio von Rosalva	Literatur-Wieland,-Christoph-Martin/tg305.txt	not defined	4804	144259	123272	6371	19499	7244	75	1544	3912
+Wieland, Christoph Martin	Klassik	Roman	Romane/Geschichte der Abderiten	Literatur-Wieland,-Christoph-Martin/tg376.txt	not defined	5105	125370	106035	6105	20012	5229	65	1373	3402
+Wieland, Christoph Martin	Klassik	Roman	Romane/Geschichte des Agathon	Literatur-Wieland,-Christoph-Martin/tg179.txt	not defined	6187	186938	160341	9865	29649	7004	65	2329	5266
+Wieland, Christoph Martin	Klassik	Roman	Romane/Peregrinus Proteus	Literatur-Wieland,-Christoph-Martin/tg444.txt	not defined	4203	125175	107836	6857	20025	5089	52	1695	4199
+Wobeser, Wilhelmine Karoline von	not defined	Roman	Elisa	droro_e2/Wobeser_Wilhelmine_Karoline_von_Elisa.txt	Romantik_E2	6350	90633	74554	2430	12963	5460	40	955	2393
+Wolzogen, Caroline von	not defined	Roman	Agnes von Lilien	droro_e1/Wolzogen_Caroline_von_Agnes_von_Lilien.txt	Romantik_E1	4735	93095	80272	5394	15982	6362	50	1422	3304
+Zschokke, Heinrich	not defined	Roman	Addrich im Moos	droro_e1/Zschokke_Heinrich_Addrich.txt	Romantik_E1	8143	128198	104996	5635	21320	7929	75	1545	4130
+Zschokke, Heinrich	not defined	Roman	Das Goldmacherdorf	droro_e1/Zschokke_Heinrich_Das_Goldmacherdorf.txt	Romantik_E1	2843	49923	42469	1870	8378	2982	25	586	1575
+Zschokke, Heinrich	not defined	Roman	Der Flüchtling im Jura	droro_e1/Zschokke_Heinrich_Der_Fluechtling.txt	Romantik_E1	3039	45459	38303	2083	7476	3142	21	549	1528
+Zschokke, Heinrich	not defined	Roman	Die Rose von Disentis	droro_e2/Zschokke_Heinrich_Die_Rose_von_Disentis.txt	Romantik_E2	5934	91333	76055	4562	15589	5543	47	979	2999

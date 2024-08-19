@@ -1,4 +1,3 @@
-import os
 import pandas as pd
 from phonemizer import phonemize
 from phonemizer.separator import Separator
